@@ -1,0 +1,97 @@
+# Default time in ticks for a score to stay on the scoreboard (20 ticks = 1 second)
+UpdateTime: 20
+
+# Save which players have the scoreboard disabled
+SaveScoreboards: true
+
+# Configure your scoreboards layout
+Scoreboards:
+  survival:
+    Titles:
+      - "&7&LDakota&2&L.&6&lGames"
+      - "&7&LDakota&2&L &6&lGames"
+    Scores:
+      15:
+        - "&7&m+----------------+"
+        - "&7&m------------------"
+      14:
+        - "&7» &6&lUsuario"
+      13:
+        - "    &7%player%"
+      12:
+        - ""
+      11:
+        - "&7» &6&lVida &7%player_health_rounded%/%player_max_health_rounded%"
+      10:
+        - ""
+      9:
+        - "&7» &6&lDinero &7%vault_eco_balance_formatted%"
+      8:
+        - ""
+      7:
+        - "&7» &6&lOnline &7%online%"
+      6:
+        - ""
+      5:
+        - "&7» &6&lPing &7%player_ping%"
+      4:
+        - ""
+      3:
+        - "&7» &6&lCoordenadas"
+      2:
+        - "    &7x:%player_x% z:%player_z% y:%player_y%"
+      1:
+        - "&7&m+----------------+"
+        - "&7&m------------------"
+  custom_time:
+    Titles:
+      - text: "&c100 ticks title"
+        time: 100
+      - text: "&a50 ticks title"
+        time: 50
+    Scores:
+      6:
+        - "&7You can set a per title or score time"
+      5:
+        - "&7instead of using the default value"
+      4:
+        - ""
+      3:
+        - text: "&7This will last for &810 seconds"
+          time: 200
+        - text: "&7while this only lasts for &85 seconds"
+          time: 100
+      2:
+        - ""
+      1:
+        - "&aYour current world: &6%world%"
+  restricted:
+    Restricted: true
+    Titles:
+      - "&cRestricted Scoreboard"
+    Scores:
+      8:
+        - ""
+      7:
+        - "&7Restricted scoreboards required the"
+      6:
+        - "&6simplescore.<scoreboard> &7permission."
+      5:
+        - ""
+      4:
+        - "&7You can see this scoreboard because"
+      3:
+        - "&7you have the following permission:"
+      2:
+        - "&6simplescore.restricted"
+      1:
+        - ""
+
+# Set what scoreboards each world will be using
+Worlds:
+  # World names are case-insensitive
+  survival-1: ["survival"]
+  # This will match all worlds starting with "world_" (e.g. world_nether, world_the_end)
+  world_\w*: ["custom_time"]
+  # If player doesn't have permission to see the restricted scoreboard then it will display the example
+  multiple: ["restricted", "example"]

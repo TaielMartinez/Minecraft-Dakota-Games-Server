@@ -1,0 +1,11 @@
+login:
+  username: TaielMartinez2
+  logged_in: true
+  password: 4a822438a8188513e3d8225f717a6e4be5a802c8b7e4d6456bf47351fa1699d4ede33939d8f5562210fb86530c92287289aa13299faec510a40fc512cf4ed3e7
+  hash: AMKAUTH
+  ipaddress: 192.168.1.1
+timestamps:
+  join: 1610337843030
+  login: 1610337850255
+  quit: 1610337855845
+godmode_expires: 1610337860255

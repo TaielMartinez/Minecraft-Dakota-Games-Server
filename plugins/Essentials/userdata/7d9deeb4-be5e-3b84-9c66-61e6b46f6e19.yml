@@ -1,0 +1,26 @@
+lastAccountName: lulaa
+timestamps:
+  login: 1610311152236
+  logout: 1610313033080
+  lastteleport: 1610311382604
+  kits:
+    firework: 1610311516318
+    color: 1610311492920
+    notch: 1610311522836
+    dtools: 1610311502638
+    tools: 1610311532289
+ipAddress: 192.168.1.1
+logoutlocation:
+  world: survival-1
+  x: 147.42409237153092
+  y: 73.0
+  z: 243.1302865345986
+  yaw: 180.90326
+  pitch: 11.41064
+lastlocation:
+  world: survival-1
+  x: 232.48645033565094
+  y: 78.0
+  z: -83.38381753140422
+  yaw: -30.771057
+  pitch: 6.0725427

@@ -1,0 +1,73 @@
+chestData:
+- ==: ChestData
+  playerUUID: 909e7f3b-f48a-3d54-aa49-93c614013cee
+  holographicTimer: survival-1;-114.5;81.79999995231628;417.5
+  worldName: survival-1
+  as_timer_id: 2433c888-675b-4afe-ae5f-40f383b1c08b
+  playerName: taielmartinez
+  isInfinity: false
+  as_owner_id: 44c54b5d-5d1f-4d74-943a-9e6311cf5750
+  chestDate: 2021-01-11T00:30:47.519Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_SIGN
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COOKED_BEEF
+    amount: 63
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 2
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"["},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"Example
+        Panel"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"]"}],"text":""}'
+      lore:
+      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"Click
+        me to open the panel!"}],"text":""}'
+      ItemFlags:
+      - HIDE_ATTRIBUTES
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1;-115.0;81.0;417.0

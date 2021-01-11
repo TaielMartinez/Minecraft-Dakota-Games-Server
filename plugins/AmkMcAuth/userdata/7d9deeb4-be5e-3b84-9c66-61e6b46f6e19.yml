@@ -1,0 +1,11 @@
+login:
+  username: lulaa
+  logged_in: true
+  password: 4a822438a8188513e3d8225f717a6e4be5a802c8b7e4d6456bf47351fa1699d4ede33939d8f5562210fb86530c92287289aa13299faec510a40fc512cf4ed3e7
+  hash: AMKAUTH
+  ipaddress: 192.168.1.1
+timestamps:
+  join: 1610311152054
+  login: 1610311156914
+  quit: 1610313033080
+godmode_expires: 1610311166914

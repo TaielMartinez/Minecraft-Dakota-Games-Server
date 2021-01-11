@@ -1,0 +1,2 @@
+&6Bienvenido, {PLAYER}&6!
+&6&6Hora en Minecraft:&c {WORLDTIME12}
