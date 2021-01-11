@@ -1,0 +1,11 @@
+login:
+  username: Dead_ware
+  logged_in: true
+  password: cd9f84d6240b4ecb19de11bb179ef22e3f97e3a668fbd5d4aac4e7b6e718890a47d9a55e07bfa4c7a43caca7854a653b3526558f5be2df3aa742ced799ec0c35
+  hash: AMKAUTH
+  ipaddress: 181.46.69.20
+timestamps:
+  join: 1610393986870
+  login: 1610394005109
+  quit: 1610394206107
+godmode_expires: 1610394015109

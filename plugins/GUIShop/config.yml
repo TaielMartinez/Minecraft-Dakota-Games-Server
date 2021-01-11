@@ -229,6 +229,7 @@ disabled-qty-items:
     - "HORSE_ARMOR"
     - "SADDLE"
     - "BARDING"
+    - "ELYTRA"
 
 ##Menu Items
 Rows: 3

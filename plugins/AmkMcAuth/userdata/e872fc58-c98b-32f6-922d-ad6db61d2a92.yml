@@ -1,0 +1,9 @@
+login:
+  username: m2wDakota
+  logged_in: false
+  password: cfd01fdd87dc08b214c0f872621abccd9dff6bd69ea3e72468dcc7a850fc186af96fe884663d1ed7505229c98cd342a2d3756fb6f09b2a7121c67e106892b1c3
+  hash: AMKAUTH
+timestamps:
+  join: 1610395836269
+  login: 1610395877296
+godmode_expires: 1610395887296
