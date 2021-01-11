@@ -20,6 +20,9 @@ ops - Lista de usuarios administradores
 /lp group {grupo1} parent add {grupo2} - Hace que grupo1 herede de grupo2
 /lp user {grupo1} parent remove {grupo2} - Queta grupo 1 como heredado de grupo2
 
+/lp user {user} group add {grupo} - Agragar usuario a un grupo (para rangos de moderacion)
+/lp user {user} group set {grupo} - Agragar usuario a un grupo (El rango que usa el prefijo)
+
 
 # Comandos jugadores
 /register {contraseña} - Registra la cuenta (solamente la primera vez que entras)

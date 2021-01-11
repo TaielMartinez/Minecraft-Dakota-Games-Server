@@ -267,25 +267,25 @@ menu-items:
   Raiding:
     Type: 'SHOP'
     Enabled: true
-    Item: 'TNT'
+    Item: 'REDSTONE'
     Desc: '&8(&cBlow them up!&8)'
     Name: '&4Raiding'
   Ores:
     Type: 'SHOP'
     Enabled: true
-    Item: 'EMERALD'
+    Item: 'DIAMOND'
     Desc: '&8(&fOres&8)'
     Name: '&aOres'
   FarmingDrops:
     Type: 'SHOP'
     Enabled: true
-    Item: 'WHEAT_SEEDS'
+    Item: 'WHEAT'
     Desc: '&8(&fFarming&8)'
     Name: '&eFarming/Drops'
   Brewing:
     Type: 'SHOP'
     Enabled: true
-    Item: 'EXPERIENCE_BOTTLE'
+    Item: 'BREWING_STAND'
     Desc: '&8(&fBrewing&8)'
     Name: '&2Brewing'
   Gear:

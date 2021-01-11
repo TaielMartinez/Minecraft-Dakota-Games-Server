@@ -15,7 +15,7 @@ Scoreboards:
         - "&7&m+----------------+"
         - "&7&m------------------"
       14:
-        - "&7» &6&lUsuario"
+        - "&7» &6&lUsuario %luckperms_primary_group_name%"
       13:
         - "    &7%player%"
       12:

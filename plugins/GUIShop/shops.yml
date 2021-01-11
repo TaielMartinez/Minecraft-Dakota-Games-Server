@@ -391,117 +391,25 @@ Gear:
             items:
                 '0':
                   type: SHOP
-                  id: DIAMOND_HELMET
+                  id: NAME_TAG
                   buy-price: 100.0
                 '1':
                   type: SHOP
-                  id: DIAMOND_CHESTPLATE
+                  id: LEAD
                   buy-price: 100.0
                 '2':
                   type: SHOP
-                  id: DIAMOND_LEGGINGS
+                  id: DIAMOND_HORSE_ARMOR
                   buy-price: 100.0
                 '3':
                   type: SHOP
-                  id: DIAMOND_BOOTS
+                  id: GOLDEN_HORSE_ARMOR
                   buy-price: 100.0
                 '4':
                   type: SHOP
-                  id: DIAMOND_SWORD
-                  buy-price: 100
-                  shop-lore:
-                  - '&aThis is the sword of unbreakingness'
-                  shop-name: '&bSword of the &0Unbreaking'
-                  enchantments: DURABILITY:1
-                  buy-lore:
-                  - '&aPurchased by {PLAYER_NAME} for {BUY_PRICE}'
-                '5':
-                  type: SHOP
-                  id: DIAMOND_AXE
-                  buy-price: 100.0
-                '6':
-                  type: SHOP
-                  id: DIAMOND_PICKAXE
-                  buy-price: 100.0
-                  enchantments: DURABILITY:1
-                '7':
-                  type: SHOP
-                  id: DIAMOND_SHOVEL
-                  buy-price: 100.0
-                '8':
-                  type: SHOP
-                  id: DIAMOND_HOE
-                  buy-price: 100.0
-                '9':
-                  type: SHOP
-                  id: IRON_HELMET
-                  buy-price: 100.0
-                '10':
-                  type: SHOP
-                  id: IRON_CHESTPLATE
-                  buy-price: 100.0
-                '11':
-                  type: SHOP
-                  id: IRON_LEGGINGS
-                  buy-price: 100.0
-                '12':
-                  type: SHOP
-                  id: IRON_BOOTS
-                  buy-price: 100.0
-                '13':
-                  type: SHOP
-                  id: IRON_SWORD
-                  buy-price: 100.0
-                '14':
-                  type: SHOP
-                  id: IRON_AXE
-                  buy-price: 100.0
-                '15':
-                  type: SHOP
-                  id: IRON_PICKAXE
-                  buy-price: 100.0
-                  enchantments: DURABILITY:1 FORTUNE:1
-                '16':
-                  type: SHOP
-                  id: IRON_SHOVEL
-                  buy-price: 100.0
-                '17':
-                  type: SHOP
-                  id: IRON_HOE
-                  buy-price: 100.0
-                '18':
-                  type: SHOP
-                  id: BOW
-                  buy-price: 100.0
-                '19':
-                  type: SHOP
-                  id: FISHING_ROD
-                  buy-price: 100.0
-                '20':
-                  type: SHOP
-                  id: SHEARS
-                  buy-price: 100.0
-                '21':
-                  type: SHOP
-                  id: NAME_TAG
-                  buy-price: 100.0
-                '22':
-                  type: SHOP
-                  id: LEAD
-                  buy-price: 100.0
-                '23':
-                  type: SHOP
-                  id: DIAMOND_HORSE_ARMOR
-                  buy-price: 100.0
-                '24':
-                  type: SHOP
-                  id: GOLDEN_HORSE_ARMOR
-                  buy-price: 100.0
-                '25':
-                  type: SHOP
                   id: IRON_HORSE_ARMOR
                   buy-price: 100.0
-                '26':
+                '5':
                   type: SHOP
                   id: SADDLE
                   buy-price: 100.0
