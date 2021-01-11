@@ -268,44 +268,44 @@ menu-items:
     Type: 'SHOP'
     Enabled: true
     Item: 'REDSTONE'
-    Desc: '&8(&cBlow them up!&8)'
-    Name: '&4Raiding'
+    Desc: '&8(&fSistemas&8)'
+    Name: '&4Redstone'
   Ores:
     Type: 'SHOP'
     Enabled: true
     Item: 'DIAMOND'
     Desc: '&8(&fOres&8)'
-    Name: '&aOres'
+    Name: '&aMinerales'
   FarmingDrops:
     Type: 'SHOP'
     Enabled: true
     Item: 'WHEAT'
-    Desc: '&8(&fFarming&8)'
-    Name: '&eFarming/Drops'
+    Desc: '&8(&fDrops&8)'
+    Name: '&eGranjas'
   Brewing:
     Type: 'SHOP'
     Enabled: true
     Item: 'BREWING_STAND'
-    Desc: '&8(&fBrewing&8)'
-    Name: '&2Brewing'
+    Desc: '&8(&fPociones&8)'
+    Name: '&2Pociones'
   Gear:
     Type: 'SHOP'
     Enabled: true
-    Item: 'DIAMOND_HELMET'
-    Desc: '&8(&fGear&8)'
-    Name: '&bGear'
+    Item: 'SADDLE'
+    Desc: '&8(&fAnimales&8)'
+    Name: '&bAnimales'
   Spawners:
     Type: 'SHOP'
     Enabled: true
-    Item: 'SPAWNER'
-    Desc: '&8(&fSpawners&8)'
-    Name: '&6Spawners'
+    Item: 'ENCHANTING_TABLE'
+    Desc: '&8(&fOtros&8)'
+    Name: '&6Otros'
   Blocks:
     Type: 'SHOP'
     Enabled: true
-    Item: 'STONE'
-    Desc: '&8(&fBlocks&8)'
-    Name: '&6Blocks'
+    Item: 'BRICKS'
+    Desc: '&8(&fBloques&8)'
+    Name: '&6Bloques'
   Pane9:
     Type: 'DUMMY'
     Item: 'RED_STAINED_GLASS_PANE'
