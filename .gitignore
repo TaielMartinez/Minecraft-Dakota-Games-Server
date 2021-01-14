@@ -1,4 +1,9 @@
 logs/*
 backups/*
 logs/*
-CraftBukkit
+
+
+# Desactivar para backup del mundo
+survival-1/session.lock
+plugins/Essentials/userdata/*
+survival-1/advancements/*
