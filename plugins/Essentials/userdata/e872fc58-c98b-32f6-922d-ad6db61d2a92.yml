@@ -1,7 +1,7 @@
 lastAccountName: m2wDakota
 timestamps:
-  login: 1610395836289
-  logout: 1610397564508
+  login: 1610468732542
+  logout: 1610468975593
 ipAddress: 190.245.120.70
 lastlocation:
   world: survival-1
@@ -10,3 +10,10 @@ lastlocation:
   z: -15.300000011920933
   yaw: -270.2744
   pitch: 21.1499
+logoutlocation:
+  world: survival-1
+  x: 129.27050274360542
+  y: 73.0
+  z: 46.87380175863138
+  yaw: -328.484
+  pitch: 10.930842

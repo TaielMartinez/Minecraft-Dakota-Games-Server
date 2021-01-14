@@ -1,0 +1,11 @@
+login:
+  username: SNT_Player
+  logged_in: true
+  password: 0ceb7c2c62ced3fe34e0c9758c13cad1a32b40f6fdeb3801248528f156eb2b65566ff9859c25e5a5890956d089116587a50135927ad4756839f658ca0a3ef70f
+  hash: AMKAUTH
+  ipaddress: 200.85.179.17
+timestamps:
+  join: 1610580425963
+  login: 1610580434369
+  quit: 1610580710799
+godmode_expires: 1610580444370

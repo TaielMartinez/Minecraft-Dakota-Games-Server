@@ -299,8 +299,8 @@ menu-items:
     Type: 'SHOP'
     Enabled: true
     Item: 'ENCHANTING_TABLE'
-    Desc: '&8(&fOtros&8)'
-    Name: '&6Otros'
+    Desc: '&8(&fItems OP&8)'
+    Name: '&6Items OP'
   Blocks:
     Type: 'SHOP'
     Enabled: true

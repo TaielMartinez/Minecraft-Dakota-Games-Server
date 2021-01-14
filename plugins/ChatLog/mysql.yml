@@ -1,0 +1,6 @@
+database:
+  host: leer
+  port: 3306
+  user: leer
+  password: leer
+  database: leer

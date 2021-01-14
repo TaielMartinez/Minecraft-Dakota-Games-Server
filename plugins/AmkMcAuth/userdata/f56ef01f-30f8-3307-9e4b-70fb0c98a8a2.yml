@@ -1,0 +1,11 @@
+login:
+  username: lucas
+  logged_in: true
+  password: 68510f992f000f1d3c8a8388a68d33281dedcae35c5f8abb4cfeeac21377f5381bd70030ee017f37e40325efcc736e98edbef3addd4678757e6db7ad32d1747a
+  hash: AMKAUTH
+  ipaddress: 181.31.100.26
+timestamps:
+  join: 1610587594138
+  login: 1610587609314
+  quit: 1610591862692
+godmode_expires: 1610587619314

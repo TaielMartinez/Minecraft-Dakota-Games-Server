@@ -1,0 +1,11 @@
+login:
+  username: NachinSheep
+  logged_in: true
+  password: 1b93eb358852e17e415f122d982c28cf2a4e00261fb08c9198441b6da82b2e3db602692473ee348e750e020a107b84ca77d35af7ceb6487f02ee9f93c18ab3ea
+  hash: AMKAUTH
+  ipaddress: 181.46.68.239
+timestamps:
+  join: 1610550129705
+  login: 1610550162073
+  quit: 1610557772485
+godmode_expires: 1610550172074

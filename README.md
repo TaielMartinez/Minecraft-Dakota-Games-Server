@@ -19,6 +19,7 @@ ops - Lista de usuarios administradores
 /lp user {user} parent add {grupo} - Agrega un usuario a un grupo
 /lp group {grupo1} parent add {grupo2} - Hace que grupo1 herede de grupo2
 /lp user {grupo1} parent remove {grupo2} - Queta grupo 1 como heredado de grupo2
+/ps get {bloque} - Obtiene un bloque de proteccion
 
 /lp user {user} group add {grupo} - Agragar usuario a un grupo (para rangos de moderacion)
 /lp user {user} group set {grupo} - Agragar usuario a un grupo (El rango que usa el prefijo)
@@ -33,11 +34,15 @@ ops - Lista de usuarios administradores
 /warps - Muestra la lista de ubicaciones
 /warp {nombre} - TP a una ubicacion especifica
 /dc list - Muestra las tumbas (con coordenadas)
-/dc giveBack {user} - Obtiene los items de la tumba
 /shop o /tienda - Abre la tienda para comprar
 /sell o /vender - Abre la tienda para vender
 /ping - Muestra tu ping
 /ping list - Muestra el ping de todos
+/jobs browse
+/ps add {usuario} - Da permisos a otro usuario para poder usar tu casa (bloque de proteccion)
+/pay {usuario} - Darle plata a otro jugador
+/bottle get {cantidad} - Guarda experiencia en botellas vacias (requiere botellas vacias)
+/bottle get max - Guarda todo la experiencia
 
 
 # Comandos pagos
@@ -45,4 +50,4 @@ ops - Lista de usuarios administradores
 /fly - Activa volar en survival
 /heal - Te curas toda la vida
 /repair - Repara el objeto que tengas en la mano
-
+/dc giveBack {user} - Obtiene los items de la tumba

@@ -1,0 +1,11 @@
+login:
+  username: Romerovich
+  logged_in: true
+  password: 9d8b2128796efb003c0aba20855aa7c794afacd11079355e2885ba0082dd959df523dfbb07cbb4d02821e25ee94fd465e15b5dafe99a229ab0fc85e392140975
+  hash: AMKAUTH
+  ipaddress: 181.169.14.227
+timestamps:
+  join: 1610577853823
+  quit: 1610580873041
+  login: 1610577885599
+godmode_expires: 1610577895599

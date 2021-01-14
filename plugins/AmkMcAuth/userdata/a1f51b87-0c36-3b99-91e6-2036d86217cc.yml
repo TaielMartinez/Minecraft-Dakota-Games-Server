@@ -1,0 +1,11 @@
+login:
+  username: tutucas
+  logged_in: true
+  password: 3a414a0da3b44098fe8e0d1f4c030943a436d43805c3b12fc3195b33bd5059dafaa7a31e1d93584e15fc36d5c8bf92d59a29b3bb34e6230945829484068cbace
+  hash: AMKAUTH
+  ipaddress: 200.114.147.3
+timestamps:
+  join: 1610573814443
+  login: 1610573838156
+  quit: 1610592319236
+godmode_expires: 1610573848156

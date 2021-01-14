@@ -428,46 +428,301 @@ Spawners:
                   type: SHOP
                   id: BEACON
                   buy-price: 200000.0
-                '2':
+                '10':
                   type: SHOP
                   id: ELYTRA
-                  buy-price: 10000.0
-                '3':
+                  buy-price: 100000.0
+                '11':
                   type: SHOP
                   id: ELYTRA
-                  buy-price: 30000.0
+                  buy-price: 500000.0
                   shop-name: '&bALAS DE DIOS'
                   enchantments: DURABILITY:10 MENDING:1 PROTECTION:10
-                '4':
+                '12':
+                  type: SHOP
+                  id: FIREWORK_ROCKET
+                  buy-price: 8.0
+
+
+                  # Hierro Noob
+                '18':
+                  type: SHOP
+                  id: IRON_SWORD
+                  buy-price: 10000.0
+                  shop-name: '&bESPADA DE DIOS'
+                  enchantments: SHARPNESS:2
+                '19':
+                  type: SHOP
+                  id: IRON_PICKAXE
+                  buy-price: 30000.0
+                  shop-name: '&bPICO DE DIOS'
+                  enchantments: DURABILITY:3 EFFICIENCY:3
+                '20':
+                  type: SHOP
+                  id: IRON_SHOVEL
+                  buy-price: 10000.0
+                  shop-name: '&bPALA DE DIOS'
+                  enchantments: EFFICIENCY:3
+                '21':
+                  type: SHOP
+                  id: IRON_AXE
+                  buy-price: 10000.0
+                  shop-name: '&bHACHA DE DIOS'
+                  enchantments: EFFICIENCY:3
+                '22':
+                  type: SHOP
+                  id: IRON_HOE
+                  buy-price: 10000.0
+                  shop-name: '&bni se te ocurra'
+                  enchantments: EFFICIENCY:3
+                '23':
+                  type: SHOP
+                  id: IRON_HELMET
+                  buy-price: 10000.0
+                  shop-name: '&bCASCO DE DIOS'
+                  enchantments: DURABILITY:2
+                '24':
+                  type: SHOP
+                  id: IRON_CHESTPLATE
+                  buy-price: 10000.0
+                  shop-name: '&bPETO DE DIOS'
+                  enchantments: DURABILITY:2
+                '25':
+                  type: SHOP
+                  id: IRON_LEGGINGS
+                  buy-price: 10000.0
+                  shop-name: '&bPANTALONES DE DIOS'
+                  enchantments: DURABILITY:2
+                '26':
+                  type: SHOP
+                  id: IRON_BOOTS
+                  buy-price: 10000.0
+                  shop-name: '&bBOTAS DE DIOS'
+                  enchantments: DURABILITY:2
+
+                  # Diamante Normal
+                '27':
+                  type: SHOP
+                  id: DIAMOND_SWORD
+                  buy-price: 100000.0
+                  shop-name: '&bESPADA DE DIOS'
+                  enchantments: SHARPNESS:2
+                '28':
+                  type: SHOP
+                  id: DIAMOND_PICKAXE
+                  buy-price: 150000.0
+                  shop-name: '&bPICO DE DIOS'
+                  enchantments: DURABILITY:3 EFFICIENCY:3
+                '29':
+                  type: SHOP
+                  id: DIAMOND_SHOVEL
+                  buy-price: 100000.0
+                  shop-name: '&bPALA DE DIOS'
+                  enchantments: EFFICIENCY:3
+                '30':
+                  type: SHOP
+                  id: DIAMOND_AXE
+                  buy-price: 100000.0
+                  shop-name: '&bHACHA DE DIOS'
+                  enchantments: EFFICIENCY:3
+                '31':
+                  type: SHOP
+                  id: DIAMOND_HOE
+                  buy-price: 100000.0
+                  shop-name: '&bni se te ocurra'
+                  enchantments: EFFICIENCY:3
+                '32':
+                  type: SHOP
+                  id: DIAMOND_HELMET
+                  buy-price: 100000.0
+                  shop-name: '&bCASCO DE DIOS'
+                  enchantments: DURABILITY:2
+                '33':
+                  type: SHOP
+                  id: DIAMOND_CHESTPLATE
+                  buy-price: 100000.0
+                  shop-name: '&bPETO DE DIOS'
+                  enchantments: DURABILITY:2
+                '34':
+                  type: SHOP
+                  id: DIAMOND_LEGGINGS
+                  buy-price: 100000.0
+                  shop-name: '&bPANTALONES DE DIOS'
+                  enchantments: DURABILITY:2
+                '35':
+                  type: SHOP
+                  id: DIAMOND_BOOTS
+                  buy-price: 100000.0
+                  shop-name: '&bBOTAS DE DIOS'
+                  enchantments: DURABILITY:2
+
+                  # Diamante bueno
+                '27':
+                  type: SHOP
+                  id: DIAMOND_SWORD
+                  buy-price: 500000.0
+                  shop-name: '&bESPADA DE DIOS'
+                  enchantments: DURABILITY:3 FIRE_ASPECT:1 LOOTING:2 SHARPNESS:3
+                '28':
+                  type: SHOP
+                  id: DIAMOND_PICKAXE
+                  buy-price: 600000.0
+                  shop-name: '&bPICO DE DIOS'
+                  enchantments: DURABILITY:3 FORTUNE:2 EFFICIENCY:4
+                '29':
+                  type: SHOP
+                  id: DIAMOND_SHOVEL
+                  buy-price: 500000.0
+                  shop-name: '&bPALA DE DIOS'
+                  enchantments: DURABILITY:3 FORTUNE:2 EFFICIENCY:3
+                '30':
+                  type: SHOP
+                  id: DIAMOND_AXE
+                  buy-price: 500000.0
+                  shop-name: '&bHACHA DE DIOS'
+                  enchantments: DURABILITY:3 FORTUNE:2 EFFICIENCY:3 SHARPNESS:3
+                '31':
+                  type: SHOP
+                  id: DIAMOND_HOE
+                  buy-price: 500000.0
+                  shop-name: '&bni se te ocurra'
+                  enchantments: DURABILITY:3 EFFICIENCY:3
+                '32':
+                  type: SHOP
+                  id: DIAMOND_HELMET
+                  buy-price: 500000.0
+                  shop-name: '&bCASCO DE DIOS'
+                  enchantments: DURABILITY:3 PROTECTION:4
+                '33':
+                  type: SHOP
+                  id: DIAMOND_CHESTPLATE
+                  buy-price: 500000.0
+                  shop-name: '&bPETO DE DIOS'
+                  enchantments: DURABILITY:3 PROTECTION:4
+                '34':
+                  type: SHOP
+                  id: DIAMOND_LEGGINGS
+                  buy-price: 500000.0
+                  shop-name: '&bPANTALONES DE DIOS'
+                  enchantments: DURABILITY:3 PROTECTION:4
+                '35':
+                  type: SHOP
+                  id: DIAMOND_BOOTS
+                  buy-price: 500000.0
+                  shop-name: '&bBOTAS DE DIOS'
+                  enchantments: DURABILITY:3 PROTECTION:4 FEATHER_FALLING:1
+
+                  # Diamante PRO
+                '36':
+                  type: SHOP
+                  id: DIAMOND_SWORD
+                  buy-price: 1500000.0
+                  shop-name: '&bESPADA DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 FIRE_ASPECT:1 LOOTING:3 SHARPNESS:5
+                '37':
+                  type: SHOP
+                  id: DIAMOND_PICKAXE
+                  buy-price: 2000000.0
+                  shop-name: '&bPICO DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 FORTUNE:3 EFFICIENCY:5
+                '38':
+                  type: SHOP
+                  id: DIAMOND_SHOVEL
+                  buy-price: 1500000.0
+                  shop-name: '&bPALA DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 FORTUNE:3 EFFICIENCY:5
+                '39':
+                  type: SHOP
+                  id: DIAMOND_AXE
+                  buy-price: 1500000.0
+                  shop-name: '&bHACHA DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 FORTUNE:3 EFFICIENCY:5 SHARPNESS:5
+                '40':
+                  type: SHOP
+                  id: DIAMOND_HOE
+                  buy-price: 1500000.0
+                  shop-name: '&bni se te ocurra'
+                  enchantments: DURABILITY:5 MENDING:1 EFFICIENCY:5
+                '41':
+                  type: SHOP
+                  id: DIAMOND_HELMET
+                  buy-price: 1500000.0
+                  shop-name: '&bCASCO DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 PROTECTION:5 THORNS:3 RESPIRATION:1
+                '42':
+                  type: SHOP
+                  id: DIAMOND_CHESTPLATE
+                  buy-price: 1500000.0
+                  shop-name: '&bPETO DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 PROTECTION:5 THORNS:3
+                '43':
+                  type: SHOP
+                  id: DIAMOND_LEGGINGS
+                  buy-price: 1500000.0
+                  shop-name: '&bPANTALONES DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 PROTECTION:5 THORNS:3 RESPIRATION:10
+                '44':
+                  type: SHOP
+                  id: DIAMOND_BOOTS
+                  buy-price: 1500000.0
+                  shop-name: '&bBOTAS DE DIOS'
+                  enchantments: DURABILITY:5 MENDING:1 PROTECTION:5 THORNS:3 RESPIRATION:10 FEATHER_FALLING:10
+
+                  # Netherite
+                '45':
                   type: SHOP
                   id: NETHERITE_SWORD
-                  buy-price: 1000000.0
+                  buy-price: 5000000.0
                   shop-name: '&bESPADA DE DIOS'
                   enchantments: DURABILITY:10 MENDING:1 FIRE_ASPECT:10 LOOTING:3 SHARPNESS:10
-                '5':
+                '46':
                   type: SHOP
                   id: NETHERITE_PICKAXE
-                  buy-price: 1000000.0
+                  buy-price: 10000000.0
                   shop-name: '&bPICO DE DIOS'
                   enchantments: DURABILITY:10 MENDING:1 FORTUNE:6 EFFICIENCY:10
-                '6':
+                '47':
                   type: SHOP
                   id: NETHERITE_SHOVEL
-                  buy-price: 1000000.0
+                  buy-price: 5000000.0
                   shop-name: '&bPALA DE DIOS'
                   enchantments: DURABILITY:10 MENDING:1 FORTUNE:6 EFFICIENCY:10
-                '7':
+                '48':
                   type: SHOP
                   id: NETHERITE_AXE
-                  buy-price: 1000000.0
+                  buy-price: 5000000.0
                   shop-name: '&bHACHA DE DIOS'
-                  enchantments: DURABILITY:10 MENDING:1 FORTUNE:6 EFFICIENCY:10
-                '8':
+                  enchantments: DURABILITY:10 MENDING:1 FORTUNE:6 EFFICIENCY:10 SHARPNESS:10
+                '49':
                   type: SHOP
                   id: NETHERITE_HOE
-                  buy-price: 1000000.0
+                  buy-price: 5000000.0
                   shop-name: '&bni se te ocurra'
                   enchantments: DURABILITY:10 MENDING:1 EFFICIENCY:10
+                '50':
+                  type: SHOP
+                  id: NETHERITE_HELMET
+                  buy-price: 5000000.0
+                  shop-name: '&bCASCO DE DIOS'
+                  enchantments: DURABILITY:10 MENDING:1 PROTECTION:10 THORNS:10 RESPIRATION:10
+                '51':
+                  type: SHOP
+                  id: NETHERITE_CHESTPLATE
+                  buy-price: 5000000.0
+                  shop-name: '&bPETO DE DIOS'
+                  enchantments: DURABILITY:10 MENDING:1 PROTECTION:10 THORNS:10
+                '52':
+                  type: SHOP
+                  id: NETHERITE_LEGGINGS
+                  buy-price: 5000000.0
+                  shop-name: '&bPANTALONES DE DIOS'
+                  enchantments: DURABILITY:10 MENDING:1 PROTECTION:10 THORNS:10 RESPIRATION:10
+                '53':
+                  type: SHOP
+                  id: NETHERITE_BOOTS
+                  buy-price: 5000000.0
+                  shop-name: '&bBOTAS DE DIOS'
+                  enchantments: DURABILITY:10 MENDING:1 PROTECTION:10 THORNS:10 RESPIRATION:10 FEATHER_FALLING:10
 
 Blocks:
     pages:

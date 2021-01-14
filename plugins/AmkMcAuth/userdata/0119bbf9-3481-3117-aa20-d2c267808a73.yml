@@ -1,0 +1,11 @@
+login:
+  username: chymuelo
+  logged_in: true
+  password: 4a822438a8188513e3d8225f717a6e4be5a802c8b7e4d6456bf47351fa1699d4ede33939d8f5562210fb86530c92287289aa13299faec510a40fc512cf4ed3e7
+  hash: AMKAUTH
+  ipaddress: 196.32.66.162
+timestamps:
+  join: 1610575895778
+  login: 1610575832656
+  quit: 1610576255312
+godmode_expires: 1610575905778

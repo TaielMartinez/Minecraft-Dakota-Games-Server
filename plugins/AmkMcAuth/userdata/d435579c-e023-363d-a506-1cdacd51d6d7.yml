@@ -1,0 +1,11 @@
+login:
+  username: Aqu_gm
+  logged_in: true
+  password: d6cdb7a0f0b9b1c98c6b025cbf3a1715f60a62084168615b0c3d3d7bd927d5b195ee16d464e0dc08bca95b04c85c836030eedae954fd67fe318879e1155bde95
+  hash: AMKAUTH
+  ipaddress: 181.31.100.99
+timestamps:
+  join: 1610500181255
+  login: 1610500194058
+  quit: 1610502910094
+godmode_expires: 1610500204059

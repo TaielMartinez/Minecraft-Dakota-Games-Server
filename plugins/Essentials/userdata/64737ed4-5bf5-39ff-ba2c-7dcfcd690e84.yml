@@ -1,0 +1,19 @@
+lastAccountName: tai2
+timestamps:
+  login: 1610502112308
+  logout: 1610503892695
+ipAddress: 192.168.1.1
+lastlocation:
+  world: survival-1
+  x: -580.5223385255244
+  y: 25.0
+  z: -566.9639470597792
+  yaw: -189.04346
+  pitch: 70.43628
+logoutlocation:
+  world: survival-1
+  x: -2.332677500866528
+  y: 63.0
+  z: -160.36400227876774
+  yaw: 139.23439
+  pitch: 31.80002

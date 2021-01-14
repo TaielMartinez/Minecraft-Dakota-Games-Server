@@ -1,39 +1,397 @@
 chestData:
 - ==: ChestData
-  playerUUID: 909e7f3b-f48a-3d54-aa49-93c614013cee
-  holographicTimer: survival-1;-114.5;81.79999995231628;417.5
+  playerUUID: a9932477-a1b5-3140-8d9f-b2572b0333a5
+  holographicTimer: survival-1;169.5;64.79999995231628;-912.5
   worldName: survival-1
-  as_timer_id: 2433c888-675b-4afe-ae5f-40f383b1c08b
-  playerName: taielmartinez
+  as_timer_id: 67c385cc-92c3-4ca8-934f-5fb43b82b6f3
+  playerName: Flames
   isInfinity: false
-  as_owner_id: 44c54b5d-5d1f-4d74-943a-9e6311cf5750
-  chestDate: 2021-01-11T00:30:47.519Z
+  as_owner_id: e991f660-17e8-4d3b-b65d-7f9a441a7f39
+  chestDate: 2021-01-13T02:27:35.397Z
   inventory:
   - ==: org.bukkit.inventory.ItemStack
     v: 2584
-    type: OAK_SIGN
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 71
   - ==: org.bukkit.inventory.ItemStack
     v: 2584
-    type: COOKED_BEEF
-    amount: 63
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 104
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 2
   - ==: org.bukkit.inventory.ItemStack
     v: 2584
     type: DIRT
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 1
+      Damage: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LOOT_BONUS_BLOCKS: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: TORCH
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COOKED_COD
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_INGOT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: SUGAR_CANE
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: LEATHER
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_NUGGET
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WHEAT_SEEDS
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_PLANKS
+    amount: 13
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_ORE
+    amount: 15
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COAL
+    amount: 15
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BEEF
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FIRE_CHARGE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FLINT_AND_STEEL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 56
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WHITE_WOOL
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: MUTTON
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: PORKCHOP
+    amount: 15
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OBSIDIAN
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 24
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        LOOT_BONUS_BLOCKS: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STRING
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_APPLE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: PUMPKIN_SEEDS
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_HORSE_ARMOR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BEETROOT_SEEDS
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BONE
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GUNPOWDER
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLD_INGOT
+    amount: 3
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1;169.0;64.0;-913.0
+- ==: ChestData
+  playerUUID: 4bce4614-72e9-370b-b287-af1a9e1678f6
+  holographicTimer: survival-1_nether;-698.5;68.79999995231628;741.5
+  worldName: survival-1_nether
+  as_timer_id: 6e8aef7a-a306-40b7-9ae8-d0ff687fe873
+  playerName: NachinSheep
+  isInfinity: false
+  as_owner_id: 0565ea27-efc5-4a57-86eb-0c60c76d046c
+  chestDate: 2021-01-13T16:46:06.433Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 50
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 75
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRACKED_POLISHED_BLACKSTONE_BRICKS
+    amount: 31
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 135
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BREAD
+    amount: 34
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FLINT_AND_STEEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_APPLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ENDER_PEARL
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 15
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: TIPPED_ARROW
+    amount: 4
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:regeneration
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 34
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: LANTERN
     amount: 2
   - null
   - ==: org.bukkit.inventory.ItemStack
     v: 2584
-    type: CLOCK
+    type: CRIMSON_PLANKS
+    amount: 18
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: POLISHED_BLACKSTONE_BRICKS
+    amount: 30
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRIMSON_STEM
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: NETHERRACK
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: LAVA_BUCKET
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BASALT
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_BOOTS
     meta:
       ==: ItemMeta
       meta-type: UNSPECIFIC
-      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"["},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"Example
-        Panel"},{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"]"}],"text":""}'
-      lore:
-      - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_aqua","text":"Click
-        me to open the panel!"}],"text":""}'
-      ItemFlags:
-      - HIDE_ATTRIBUTES
+      enchants:
+        PROTECTION_FALL: 2
+      Damage: 39
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      Damage: 39
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_PROJECTILE: 4
+      Damage: 39
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        WATER_WORKER: 1
+      Damage: 39
+  - null
+  chestLocation: survival-1_nether;-699.0;68.0;741.0
+- ==: ChestData
+  playerUUID: 4bce4614-72e9-370b-b287-af1a9e1678f6
+  holographicTimer: survival-1_nether;-437.5;47.799999952316284;424.5
+  worldName: survival-1_nether
+  as_timer_id: 59f1b700-7b5a-4a8b-82fd-4c8338cee97a
+  playerName: NachinSheep
+  isInfinity: false
+  as_owner_id: f4af838f-259c-4d87-95cc-a0217d047754
+  chestDate: 2021-01-13T17:05:44.436Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 12
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 61
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BASALT
+    amount: 46
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: NETHERRACK
+    amount: 54
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BLACKSTONE
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: QUARTZ
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BASALT
+    amount: 54
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: NETHERRACK
+    amount: 34
   - null
   - null
   - null
@@ -61,6 +419,87 @@ chestData:
   - null
   - null
   - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_FALL: 2
+      Damage: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+      Damage: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        PROTECTION_PROJECTILE: 4
+      Damage: 11
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BREAD
+    amount: 7
+  chestLocation: survival-1_nether;-438.0;47.0;424.0
+- ==: ChestData
+  playerUUID: 9806207b-6821-3873-ad18-e41db0354965
+  holographicTimer: survival-1;-605.5;69.79999995231628;278.5
+  worldName: survival-1
+  as_timer_id: de26d595-f73d-40c0-8a55-f1b362787d08
+  playerName: valen6000
+  isInfinity: false
+  as_owner_id: 7065b39c-6a12-489c-893c-ea83f322a87c
+  chestDate: 2021-01-13T22:52:24.188Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 25
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_PLANKS
+    amount: 15
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 17
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_PICKAXE
   - null
   - null
   - null
@@ -70,4 +509,202 @@ chestData:
   - null
   - null
   - null
-  chestLocation: survival-1;-115.0;81.0;417.0
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ACACIA_PLANKS
+    amount: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1;-606.0;69.0;278.0
+- ==: ChestData
+  playerUUID: 9806207b-6821-3873-ad18-e41db0354965
+  holographicTimer: survival-1;-764.5;66.79999995231628;-508.5
+  worldName: survival-1
+  as_timer_id: 668eeca3-9684-4923-af6c-0631226e220c
+  playerName: valen6000
+  isInfinity: false
+  as_owner_id: 1e94f0d3-452a-4943-bde2-3bca025c49bf
+  chestDate: 2021-01-13T23:28:16.263Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ROTTEN_FLESH
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BREAD
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DARK_OAK_PLANKS
+    amount: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 43
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: TORCH
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WHEAT
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 33
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DARK_OAK_BUTTON
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1;-765.0;66.0;-509.0
+- ==: ChestData
+  playerUUID: 9806207b-6821-3873-ad18-e41db0354965
+  holographicTimer: survival-1;-51.5;66.79999995231628;185.5
+  worldName: survival-1
+  as_timer_id: 88765052-5200-48d1-9be5-f9f115183b1c
+  playerName: valen6000
+  isInfinity: false
+  as_owner_id: 57277455-ef87-4600-a2fc-b534f8c8ef01
+  chestDate: 2021-01-13T23:32:36.838Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: SAND
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: APPLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 10
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 8
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_PLANKS
+    amount: 17
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1;-52.0;66.0;185.0

@@ -1,0 +1,11 @@
+login:
+  username: HoRancio
+  logged_in: true
+  password: afd0d251786e988b8fda727cebadca798765842e715764942c1cc072649f6366316a6d4e8f72a9c8c777f6ff85175ffb55d7ab59acd19f446f926c75b60a3f26
+  hash: AMKAUTH
+  ipaddress: 45.71.106.139
+timestamps:
+  join: 1610590692255
+  quit: 1610591920985
+  login: 1610590713855
+godmode_expires: 1610590723855

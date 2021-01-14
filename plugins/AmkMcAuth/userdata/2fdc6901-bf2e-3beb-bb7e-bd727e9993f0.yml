@@ -1,0 +1,11 @@
+login:
+  username: MANDY1914
+  logged_in: true
+  password: 1f7d3d294f3bb6124514ecc923a27c38be75a2077d70c4ea18adf5a43fd46e4c40688a91192f3b11374727849a20d898be0bd03437e533a083851a44b1dc028c
+  hash: AMKAUTH
+  ipaddress: 190.55.108.231
+timestamps:
+  join: 1610551509792
+  quit: 1610560817033
+  login: 1610549443904
+godmode_expires: 1610551519793

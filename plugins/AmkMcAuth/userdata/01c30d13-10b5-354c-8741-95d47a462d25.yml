@@ -1,0 +1,11 @@
+login:
+  username: 0_Tomy_0
+  logged_in: true
+  password: a9418b50e189ad7308dfc08313dbe3d84a154b11972d1bb0a5a0ff493d3a72489b274ef08a6a71a14eea7ec47c512ff067d4051ce57485010f98ee0d52bc9810
+  hash: AMKAUTH
+  ipaddress: 181.31.100.66
+timestamps:
+  join: 1610579049787
+  login: 1610572135802
+  quit: 1610580754362
+godmode_expires: 1610579059787

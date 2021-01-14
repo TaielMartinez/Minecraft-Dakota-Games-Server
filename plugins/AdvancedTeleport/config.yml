@@ -153,7 +153,7 @@ enable-distance-limitations: true
 
 # The maximum distance that a player can teleport.
 # This is the default distance applied to all commands when specified.
-maximum-teleport-distance: 1000
+maximum-teleport-distance: 10000000
 
 # Whether or not all teleportations - not just AT's - should be checked for distance.
 monitor-all-teleports-distance: false

@@ -1,0 +1,5 @@
+help: '&e%cmd% <playername> &7- &agets the Chatlog from a player.'
+error: '&cNo messages found from %name%'
+url: '&eURL: &a%url%'
+errorNotSaved: '&cNo report saved'
+cooldown: §cYou have to wait %seconds% seconds.

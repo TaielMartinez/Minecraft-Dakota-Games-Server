@@ -9,14 +9,14 @@
 OnlyOwnerCanOpenDeadChest: true
 
 # Duration of deadchest in seconds before it disappears ( 0 = infiny chest)
-DeadChestDuration: 300
+DeadChestDuration: 0
 
 # true  : Nothing can destroy a dead chest until a player get back inventory or DeadChestDuration is over.
 # false : Dead chest can be destroyable by players or explosions
 IndestuctibleChest: true
 
 # Maximum number of deadchest per player (0 = infiny)
-maxDeadChestPerPlayer: 5
+maxDeadChestPerPlayer: 10
 
 # Log a message in the console when a player die with the coordinate of the deadchest
 logDeadChestOnConsole: false

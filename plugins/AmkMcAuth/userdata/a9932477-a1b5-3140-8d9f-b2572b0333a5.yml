@@ -1,0 +1,11 @@
+login:
+  username: Flames
+  logged_in: true
+  password: e3f46c13bc01be4176410699ac125c98bbc4775a4afbc65208cc6530bc724d991b361052081f5847ce0a766ddd2363d6cc892ac0d729c8ccc4be4a019359a514
+  hash: AMKAUTH
+  ipaddress: 152.171.192.63
+timestamps:
+  join: 1610573893263
+  login: 1610573909449
+  quit: 1610577986800
+godmode_expires: 1610573919449
