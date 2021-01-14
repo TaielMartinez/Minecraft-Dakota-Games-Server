@@ -4,7 +4,9 @@ logs/*
 
 
 # Desactivar para backup del mundo
-survival-1/session.lock
-plugins/Essentials/userdata/*
-survival-1/advancements/*
+/survival-1/session.lock
+/plugins/Essentials/userdata/*
+/survival-1/advancements/*
 /CraftBukkit
+/survival-1_nether/session.lock
+/survival-1_the_end/session.lock
