@@ -293,8 +293,8 @@ menu-items:
     Type: 'SHOP'
     Enabled: true
     Item: 'SADDLE'
-    Desc: '&8(&fAnimales&8)'
-    Name: '&bAnimales'
+    Desc: '&8(&fOtros&8)'
+    Name: '&bOtros'
   Spawners:
     Type: 'SHOP'
     Enabled: true

@@ -16,3 +16,4 @@ countdown_over: "Eliminando items..."
 
 # Delay between removals (ticks)
 countdown_cycle: 10000
+# cada 8:30 minutos

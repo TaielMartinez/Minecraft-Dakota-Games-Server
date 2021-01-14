@@ -12,13 +12,15 @@
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
   inicio:
-    delay: 9999999999
+    delay: 99999999999999
     items:
-    - stone_sword 1
-    - stone_pickaxe 1
-    - stone_shovel 1
-    - stone_axe 1
+    - iron_sword 1
+    - iron_pickaxe 1 dig_speed:2
+    - iron_shovel 1
+    - iron_axe 1
     - shield 1 basecolor:16383998
-    - cobblestone 64
-    - coal_ore 1 name:&a&m<---&b_8_bloques_de_proteccion_&a&m---> lore:&6Pongo_en_medio_de_tu_casa_para_proteger_tus_cosas
+    - iron_helmet 1
+    - iron_chestplate 1
+    - iron_leggings 1
     - pumpkin_pie 64
+    - iron_boots 1

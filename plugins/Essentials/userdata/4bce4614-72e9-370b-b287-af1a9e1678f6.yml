@@ -1,13 +1,22 @@
 lastAccountName: NachinSheep
 timestamps:
-  login: 1610550129722
-  logout: 1610557772486
+  login: 1610622804898
+  logout: 1610621600401
+  kits:
+    inicio: 1610608861213
 ipAddress: 181.46.68.239
-money: '150.85905000000000726'
+money: '33499.48205000000012853'
 logoutlocation:
   world: survival-1
-  x: 217.44473630796045
-  y: 65.0
-  z: 349.67495385407966
-  yaw: -64.77777
-  pitch: 25.480799
+  x: 463.99172783497863
+  y: 64.0
+  z: -755.0693787620747
+  yaw: -135.14929
+  pitch: 18.600014
+lastlocation:
+  world: survival-1
+  x: -2394.5348506468404
+  y: 115.0
+  z: 2198.4169695958885
+  yaw: -202.81787
+  pitch: 28.050486

@@ -1,10 +1,10 @@
-useMySQL: false
+useMySQL: true
 MySQL-User: root
 MySQL-Host: localhost
 MySQL-Port: 3306
 MySQL-Database: minecraft
 MySQL-Table: Skillz
-moneyOnLevelup: 20
+moneyOnLevelup: 300
 itemOnLevelup: 89,1
 lightningOnLevelup: false
 broadcastOnLevelup: true
