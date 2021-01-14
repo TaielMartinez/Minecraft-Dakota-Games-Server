@@ -710,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-14 08:15:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-14 07:35:29 -0300"
@@ -1120,6 +1126,7 @@
       "minecraft:frozen_river": "2021-01-13 13:00:25 -0300",
       "minecraft:birch_forest": "2021-01-14 07:52:32 -0300",
       "minecraft:snowy_beach": "2021-01-13 12:30:31 -0300",
+      "minecraft:warm_ocean": "2021-01-14 08:14:18 -0300",
       "minecraft:deep_lukewarm_ocean": "2021-01-14 04:58:51 -0300",
       "minecraft:beach": "2021-01-13 12:02:09 -0300",
       "minecraft:dark_forest": "2021-01-13 12:06:37 -0300",
