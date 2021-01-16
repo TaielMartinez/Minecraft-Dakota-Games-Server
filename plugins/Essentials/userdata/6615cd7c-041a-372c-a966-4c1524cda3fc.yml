@@ -1,13 +1,13 @@
 lastAccountName: SNT_Player
 timestamps:
-  login: 1610580426001
-  logout: 1610580710802
+  login: 1610676888361
+  logout: 1610677462961
 ipAddress: 200.85.179.17
-money: '1189.12690000000000309'
+money: '1278.14570000000000399'
 logoutlocation:
   world: survival-1
-  x: -888.6999999880791
-  y: 63.0
-  z: -396.8218369131947
-  yaw: -158.47339
-  pitch: 9.82071
+  x: -880.3937013683097
+  y: 66.0
+  z: -386.41213524102005
+  yaw: -221.09311
+  pitch: 15.191591

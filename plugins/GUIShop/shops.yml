@@ -513,7 +513,7 @@ Spawners:
                 '4':
                   type: SHOP
                   id: FIREWORK_ROCKET
-                  buy-price: 8.0
+                  buy-price: 1.0
 
 
                   # Arcos

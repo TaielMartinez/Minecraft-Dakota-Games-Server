@@ -1,15 +1,15 @@
 lastAccountName: tutucas
 timestamps:
-  login: 1610573814470
+  login: 1610752018109
   kits:
     inicio: 1610585631965
-  logout: 1610592319238
+  logout: 1610762831507
 ipAddress: 200.114.147.3
-money: '37.3'
+money: '92.8'
 logoutlocation:
   world: survival-1
-  x: -1019.5221601399072
-  y: 67.0
-  z: 1076.1005471743847
-  yaw: 6.2123795
-  pitch: 11.804913
+  x: -1017.444554893591
+  y: 66.0
+  z: 1074.5896362903488
+  yaw: 152.31024
+  pitch: 27.869215

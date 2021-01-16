@@ -1,0 +1,9 @@
+login:
+  username: DaviJust
+  logged_in: true
+  password: 980c61563fbbb9184f64c75a829f259f097899a6b1bab2094a7b89ccb6e6db0ddbe4e7405c84709275724724eac9f6e6499064177b7acf0dddbfa50830fb0629
+  hash: AMKAUTH
+timestamps:
+  join: 1610828688151
+  login: 1610828715693
+godmode_expires: 1610828725693

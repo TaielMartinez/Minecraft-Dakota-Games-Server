@@ -1,0 +1,11 @@
+login:
+  username: hermano_de_tai
+  logged_in: true
+  password: 31e20a423b8b83ea522e900157739bb8e7fed633a5e842184ad3d591f3d3afd530111fa9d73766771efaa82f143da235c2dd40b47bcd6a41302972cf5ca02438
+  hash: AMKAUTH
+  ipaddress: 192.168.1.1
+timestamps:
+  join: 1610661831187
+  quit: 1610663077660
+  login: 1610661838970
+godmode_expires: 1610661848971

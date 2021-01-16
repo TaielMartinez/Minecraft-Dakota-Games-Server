@@ -1,0 +1,11 @@
+login:
+  username: RodolffHD
+  logged_in: true
+  password: 09f256f13d8b46f124b1623c5f7cef479799dd2062b1817d3885e1481a79d2b965b166014f51dd49f9a7071426b505097a4a6e45cb117daf6ee657c3065ea786
+  hash: AMKAUTH
+  ipaddress: 181.165.71.49
+timestamps:
+  join: 1610675250543
+  login: 1610675267066
+  quit: 1610675720604
+godmode_expires: 1610675277066

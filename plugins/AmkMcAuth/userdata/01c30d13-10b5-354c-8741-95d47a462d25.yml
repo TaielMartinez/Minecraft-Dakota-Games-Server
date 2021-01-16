@@ -5,7 +5,7 @@ login:
   hash: AMKAUTH
   ipaddress: 181.31.100.66
 timestamps:
-  join: 1610579049787
-  login: 1610572135802
-  quit: 1610580754362
-godmode_expires: 1610579059787
+  join: 1610751312348
+  login: 1610751328940
+  quit: 1610751481419
+godmode_expires: 1610751338940

@@ -1,0 +1,11 @@
+login:
+  username: MeluuLecc
+  logged_in: true
+  password: de8becc6acbf131a4b61df017803e1be68d576bfce8f00b4dcb8a12e4319b145c4e72b8e549fe13f38389b3d918cc771721faf161b872a2514d2a1811cb58292
+  hash: AMKAUTH
+  ipaddress: 181.228.35.191
+timestamps:
+  join: 1610747998608
+  quit: 1610752759612
+  login: 1610747214536
+godmode_expires: 1610748008609

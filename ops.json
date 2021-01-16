@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b2f16ea3-baa3-31bc-9682-87a39e2a4ad1",
+    "name": "FollowHD",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "909e7f3b-f48a-3d54-aa49-93c614013cee",
     "name": "taielmartinez",
     "level": 4,

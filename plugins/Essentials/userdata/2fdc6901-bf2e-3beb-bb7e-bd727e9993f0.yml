@@ -1,12 +1,13 @@
 lastAccountName: MANDY1914
 timestamps:
-  login: 1610551509802
-  logout: 1610560817034
+  login: 1610659316881
+  logout: 1610660881106
 ipAddress: 190.55.108.231
 logoutlocation:
   world: survival-1
-  x: -2391.5
-  y: 39.0
-  z: 2193.5
-  yaw: -183.44986
-  pitch: 5.7000017
+  x: -2463.5493682878628
+  y: 24.0
+  z: 2282.006294078014
+  yaw: -272.11108
+  pitch: 65.84962
+money: '0.0'

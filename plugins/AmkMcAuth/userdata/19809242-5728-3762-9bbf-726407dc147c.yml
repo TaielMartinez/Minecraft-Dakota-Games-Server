@@ -1,0 +1,11 @@
+login:
+  username: BertinaticaDBR__
+  logged_in: true
+  password: 7dc905dbf6a844d8c7c6f74217f37de8187e1db34f3f3997a7a4388af46d0cb6405b8911118f6264cda01f9521cadb9a2f519135b13afa338afdc9fef4940cff
+  hash: AMKAUTH
+  ipaddress: 95.94.167.149
+timestamps:
+  join: 1610830402811
+  quit: 1610830394949
+  login: 1610829671164
+godmode_expires: 1610830412812

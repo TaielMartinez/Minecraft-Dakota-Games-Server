@@ -6,6 +6,7 @@
 # |        auto-update and minor-updates-only is HEAVILY RECOMMENDED
 # |------------------------------------------------------------------------
 config:
+  auto-update-panels: false
   refresh-panels: true
   panel-blocks: true
   ingame-editor: true

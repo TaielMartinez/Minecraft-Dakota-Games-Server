@@ -1,0 +1,11 @@
+login:
+  username: FollowHD
+  logged_in: true
+  password: 6ba070bcbfe777a1e6979987d01dd8bffc279aa877f4a9ea96c2ce008316a22e7739fcde105b66311ad2c19fdea2ee3f901b9c5ac97fb9f28d6b9c29d2cff240
+  hash: AMKAUTH
+  ipaddress: 187.11.123.218
+timestamps:
+  join: 1610828303323
+  login: 1610827777589
+  quit: 1610828277892
+godmode_expires: 1610828313323

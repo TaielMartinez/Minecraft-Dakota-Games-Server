@@ -1,0 +1,1370 @@
+[00:04:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:04:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:04:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:04:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:10:51] [Craft Scheduler Thread - 78/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[00:12:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:12:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:12:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:12:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:20:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:20:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:20:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:20:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:25:51] [Craft Scheduler Thread - 81/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[00:29:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:29:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:29:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:29:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:37:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:37:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:37:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:37:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:40:51] [Craft Scheduler Thread - 84/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[00:45:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:45:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:45:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:45:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:54:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[00:54:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[00:54:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[00:54:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[00:55:51] [Craft Scheduler Thread - 87/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[01:02:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:02:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:02:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:02:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:10:51] [Craft Scheduler Thread - 90/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[01:10:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:10:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:10:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:10:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:19:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:19:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:19:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:19:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:25:51] [Craft Scheduler Thread - 91/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[01:27:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:27:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:27:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:27:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:35:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:35:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:35:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:35:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:40:51] [Craft Scheduler Thread - 94/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[01:44:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:44:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:44:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:44:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:52:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[01:52:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[01:52:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[01:52:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[01:55:51] [Craft Scheduler Thread - 97/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[02:00:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:00:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:00:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:00:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:09:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:09:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:09:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:09:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:10:51] [Craft Scheduler Thread - 100/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[02:17:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:17:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:17:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:17:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:25:51] [Craft Scheduler Thread - 103/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[02:25:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:25:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:25:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:25:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:34:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:34:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:34:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:34:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:40:51] [Craft Scheduler Thread - 104/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[02:42:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:42:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:42:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:42:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:50:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:50:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:50:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:50:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[02:55:51] [Craft Scheduler Thread - 107/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[02:59:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[02:59:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[02:59:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[02:59:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:07:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:07:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:07:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:07:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:10:51] [Craft Scheduler Thread - 110/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[03:15:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:15:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:15:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:15:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:24:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:24:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:24:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:24:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:25:51] [Craft Scheduler Thread - 113/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[03:32:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:32:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:32:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:32:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:40:51] [Craft Scheduler Thread - 116/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[03:40:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:40:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:40:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:40:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:49:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:49:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:49:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:49:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[03:55:51] [Craft Scheduler Thread - 117/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[03:57:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[03:57:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[03:57:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[03:57:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:05:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:05:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:05:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:05:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:10:51] [Craft Scheduler Thread - 120/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[04:14:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:14:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:14:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:14:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:22:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:22:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:22:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:22:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:25:51] [Craft Scheduler Thread - 123/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[04:30:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:30:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:30:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:30:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:39:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:39:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:39:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:39:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:40:51] [Craft Scheduler Thread - 126/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[04:47:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:47:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:47:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:47:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[04:55:51] [Craft Scheduler Thread - 129/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[04:55:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[04:55:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[04:55:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[04:55:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:04:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:04:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:04:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:04:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:10:51] [Craft Scheduler Thread - 130/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[05:12:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:12:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:12:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:12:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:20:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:20:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:20:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:20:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:25:51] [Craft Scheduler Thread - 133/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[05:29:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:29:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:29:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:29:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:37:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:37:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:37:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:37:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:40:51] [Craft Scheduler Thread - 136/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[05:40:51] [Craft Scheduler Thread - 138/INFO]: [Vault] Checking for Updates ... 
+[05:40:52] [Craft Scheduler Thread - 138/INFO]: [Vault] No new version available
+[05:45:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:45:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:45:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:45:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:54:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[05:54:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[05:54:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[05:54:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[05:55:51] [Craft Scheduler Thread - 140/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[06:02:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:02:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:02:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:02:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:10:51] [Craft Scheduler Thread - 143/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[06:10:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:10:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:10:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:10:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:19:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:19:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:19:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:19:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:25:51] [Craft Scheduler Thread - 144/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[06:27:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:27:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:27:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:27:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:35:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:35:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:35:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:35:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:40:51] [Craft Scheduler Thread - 147/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[06:44:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:44:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:44:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:44:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:52:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[06:52:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[06:52:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[06:52:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[06:55:51] [Craft Scheduler Thread - 150/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[07:00:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:00:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:00:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:00:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:09:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:09:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:09:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:09:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:10:51] [Craft Scheduler Thread - 153/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[07:17:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:17:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:17:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:17:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:25:51] [Craft Scheduler Thread - 156/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[07:25:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:25:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:25:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:25:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:34:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:34:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:34:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:34:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:40:51] [Craft Scheduler Thread - 157/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[07:42:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:42:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:42:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:42:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:50:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:50:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:50:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:50:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[07:55:51] [Craft Scheduler Thread - 160/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[07:59:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[07:59:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[07:59:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[07:59:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:07:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:07:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:07:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:07:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:10:51] [Craft Scheduler Thread - 163/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[08:15:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:15:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:15:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:15:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:24:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:24:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:24:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:24:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:25:51] [Craft Scheduler Thread - 166/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[08:32:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:32:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:32:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:32:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:40:51] [Craft Scheduler Thread - 169/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[08:40:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:40:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:40:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:40:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:49:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:49:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:49:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:49:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[08:55:51] [Craft Scheduler Thread - 170/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[08:57:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[08:57:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[08:57:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[08:57:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:05:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:05:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:05:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:05:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:10:51] [Craft Scheduler Thread - 173/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[09:14:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:14:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:14:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:14:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:22:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:22:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:22:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:22:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:25:51] [Craft Scheduler Thread - 176/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[09:30:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:30:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:30:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:30:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:39:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:39:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:39:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:39:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:40:51] [Craft Scheduler Thread - 179/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[09:47:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:47:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:47:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:47:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[09:55:51] [Craft Scheduler Thread - 182/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[09:55:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[09:55:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[09:55:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[09:55:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:04:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:04:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:04:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:04:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:10:51] [Craft Scheduler Thread - 183/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[10:12:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:12:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:12:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:12:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:20:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:20:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:20:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:20:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:25:51] [Craft Scheduler Thread - 186/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[10:29:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:29:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:29:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:29:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:37:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:37:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:37:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:37:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:40:51] [Craft Scheduler Thread - 189/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[10:45:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:45:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:45:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:45:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:54:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[10:54:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[10:54:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[10:54:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[10:55:51] [Craft Scheduler Thread - 192/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[11:02:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:02:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:02:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:02:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:10:51] [Craft Scheduler Thread - 195/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[11:10:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:10:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:10:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:10:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:19:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:19:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:19:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:19:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:25:51] [Craft Scheduler Thread - 196/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[11:27:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:27:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:27:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:27:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:35:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:35:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:35:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:35:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:40:51] [Craft Scheduler Thread - 199/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[11:40:51] [Craft Scheduler Thread - 201/INFO]: [Vault] Checking for Updates ... 
+[11:40:52] [Craft Scheduler Thread - 201/INFO]: [Vault] No new version available
+[11:44:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:44:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:44:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:44:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:52:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[11:52:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[11:52:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[11:52:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[11:55:51] [Craft Scheduler Thread - 203/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[12:00:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:00:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:00:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:00:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:09:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:09:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:09:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:09:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:10:51] [Craft Scheduler Thread - 206/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[12:17:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:17:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:17:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:17:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:25:51] [Craft Scheduler Thread - 209/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[12:25:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:25:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:25:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:25:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:34:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:34:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:34:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:34:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:40:51] [Craft Scheduler Thread - 210/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[12:42:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:42:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:42:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:42:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:50:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:50:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:50:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:50:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[12:55:51] [Craft Scheduler Thread - 213/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[12:59:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[12:59:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[12:59:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[12:59:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:07:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:07:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:07:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:07:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:10:51] [Craft Scheduler Thread - 216/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:15:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:15:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:15:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:15:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:21:27] [User Authenticator #1/INFO]: UUID of player m2wDakota is e872fc58-c98b-32f6-922d-ad6db61d2a92
+[13:21:27] [Server thread/INFO]: m2wDakota[/190.245.120.70:51194] logged in with entity id 326 at ([survival-1]97.30000001192093, 65.0, -15.300000011920933)
+[13:21:28] [Craft Scheduler Thread - 219/WARN]: Unable to fetch GeoIP data for m2wDakota. Please ensure that your license key and configuration are correct.
+[13:21:37] [Server thread/INFO]: m2wDakota issued server command: /login abicapa
+[13:21:37] [Server thread/INFO]: [AmkMcAuth] m2wDakota has logged in.
+[13:24:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:24:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:24:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:24:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:25:26] [Server thread/INFO]: m2wDakota lost connection: Disconnected
+[13:25:26] [Server thread/INFO]: m2wDakota left the game
+[13:25:32] [User Authenticator #2/INFO]: UUID of player m2wDakota is e872fc58-c98b-32f6-922d-ad6db61d2a92
+[13:25:32] [Server thread/INFO]: [AmkMcAuth] m2wDakota was logged in via session.
+[13:25:32] [Server thread/INFO]: m2wDakota[/190.245.120.70:51215] logged in with entity id 936 at ([survival-1]94.8404606317415, 66.0, -31.377955398840577)
+[13:25:32] [Craft Scheduler Thread - 222/WARN]: Unable to fetch GeoIP data for m2wDakota. Please ensure that your license key and configuration are correct.
+[13:25:51] [Craft Scheduler Thread - 223/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:26:00] [Server thread/INFO]: m2wDakota has made the advancement [Monster Hunter]
+[13:26:11] [Server thread/INFO]: m2wDakota was shot by Skeleton
+[13:28:16] [Server thread/INFO]: m2wDakota was slain by Zombie
+[13:29:32] [Server thread/INFO]: m2wDakota was shot by Skeleton
+[13:29:35] [Server thread/INFO]: m2wDakota lost connection: Disconnected
+[13:29:35] [Server thread/INFO]: m2wDakota left the game
+[13:32:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:32:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:32:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:32:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:40:51] [Craft Scheduler Thread - 225/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:40:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:40:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:40:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:40:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:49:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:49:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:49:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:49:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:55:51] [Craft Scheduler Thread - 226/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:57:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:57:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:57:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:57:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:05:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:05:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:05:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:05:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:10:51] [Craft Scheduler Thread - 229/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:11:55] [User Authenticator #3/INFO]: UUID of player joaquin is 386de523-e971-3ef2-a261-efcae197ceaa
+[14:11:55] [Server thread/INFO]: joaquin[/181.164.150.35:50885] logged in with entity id 1509 at ([survival-1]74.5, 64.0, -42.5)
+[14:11:55] [Craft Scheduler Thread - 231/WARN]: Unable to fetch GeoIP data for joaquin. Please ensure that your license key and configuration are correct.
+[14:11:55] [pool-13-thread-1/INFO]: Creando configuración vacía: C:\Users\tatai\Documents\Minecraft-Dakota-Games-Server\plugins\Essentials\userdata\386de523-e971-3ef2-a261-efcae197ceaa.yml
+[14:13:05] [Server thread/INFO]: joaquin lost connection: You took too long to login!
+[14:13:05] [Server thread/INFO]: joaquin left the game
+[14:14:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:14:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:14:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:14:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:22:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:22:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:22:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:22:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:25:51] [Craft Scheduler Thread - 233/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:30:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:30:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:30:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:30:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:39:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:39:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:39:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:39:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:40:51] [Craft Scheduler Thread - 236/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:47:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:47:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:47:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:47:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:55:51] [Craft Scheduler Thread - 239/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:55:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:55:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:55:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:55:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:04:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:04:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:04:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:04:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:10:51] [Craft Scheduler Thread - 240/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:12:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:12:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:12:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:12:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:20:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:20:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:20:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:20:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:25:51] [Craft Scheduler Thread - 243/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:29:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:29:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:29:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:29:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:37:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:37:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:37:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:37:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:40:51] [Craft Scheduler Thread - 246/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:45:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:45:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:45:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:45:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:54:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:54:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:54:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:54:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:55:51] [Craft Scheduler Thread - 249/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:02:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:02:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:02:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:02:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:10:51] [Craft Scheduler Thread - 251/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:10:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:10:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:10:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:10:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:19:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:19:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:19:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:19:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:25:51] [Craft Scheduler Thread - 252/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:27:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:27:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:27:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:27:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:35:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:35:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:35:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:35:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:40:51] [Craft Scheduler Thread - 255/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:44:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:44:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:44:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:44:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:52:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:52:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:52:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:52:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:55:51] [Craft Scheduler Thread - 258/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[17:00:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:00:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:00:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:00:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:09:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:09:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:09:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:09:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:10:51] [Craft Scheduler Thread - 261/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[17:17:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:17:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:17:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:17:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:25:51] [Craft Scheduler Thread - 264/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[17:25:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:25:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:25:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:25:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:34:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:34:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:34:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:34:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:40:51] [Craft Scheduler Thread - 265/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[17:40:51] [Craft Scheduler Thread - 267/INFO]: [Vault] Checking for Updates ... 
+[17:40:52] [Craft Scheduler Thread - 267/INFO]: [Vault] No new version available
+[17:42:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:42:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:42:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:42:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:50:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:50:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:50:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:50:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[17:55:51] [Craft Scheduler Thread - 269/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[17:59:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[17:59:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[17:59:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[17:59:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:07:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:07:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:07:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:07:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:10:51] [Craft Scheduler Thread - 272/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[18:15:07] [User Authenticator #4/INFO]: UUID of player chymuelo is 0119bbf9-3481-3117-aa20-d2c267808a73
+[18:15:08] [Server thread/INFO]: chymuelo[/196.32.66.162:54082] logged in with entity id 1690 at ([survival-1]58.5, 68.0, -46.5)
+[18:15:08] [Craft Scheduler Thread - 274/WARN]: Unable to fetch GeoIP data for chymuelo. Please ensure that your license key and configuration are correct.
+[18:15:08] [pool-13-thread-1/INFO]: Creando configuración vacía: C:\Users\tatai\Documents\Minecraft-Dakota-Games-Server\plugins\Essentials\userdata\0119bbf9-3481-3117-aa20-d2c267808a73.yml
+[18:15:19] [Server thread/INFO]: chymuelo issued server command: /register 12345
+[18:15:19] [Server thread/INFO]: [AmkMcAuth] Login Ip-Address 196.32.66.162 used by 0 player(s) 
+[18:15:19] [Server thread/INFO]: [AmkMcAuth] Configured maximum allowed players from one Ip-Address is: 50
+[18:15:19] [Server thread/INFO]: [AmkMcAuth] chymuelo !!!! has registered.
+[18:15:24] [Server thread/INFO]: chymuelo issued server command: /login 12345
+[18:15:24] [Server thread/INFO]: [AmkMcAuth] chymuelo has logged in.
+[18:15:39] [Server thread/INFO]: chymuelo issued server command: /register 12345 12345
+[18:15:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:15:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:15:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:15:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:16:59] [Server thread/INFO]: chymuelo lost connection: Disconnected
+[18:16:59] [Server thread/INFO]: chymuelo left the game
+[18:17:18] [User Authenticator #5/INFO]: UUID of player chymuelo is 0119bbf9-3481-3117-aa20-d2c267808a73
+[18:17:18] [Server thread/INFO]: [AmkMcAuth] chymuelo was logged in via session.
+[18:17:18] [Server thread/INFO]: chymuelo[/196.32.66.162:54090] logged in with entity id 2000 at ([survival-1]60.50917041309515, 68.0, -52.505479090465286)
+[18:17:18] [Craft Scheduler Thread - 276/WARN]: Unable to fetch GeoIP data for chymuelo. Please ensure that your license key and configuration are correct.
+[18:17:31] [Server thread/INFO]: chymuelo issued server command: /shop
+[18:17:47] [Server thread/INFO]: chymuelo issued server command: /ah
+[18:20:47] [Server thread/INFO]: chymuelo has made the advancement [Stone Age]
+[18:24:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:24:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:24:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:24:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:24:20] [Server thread/INFO]: chymuelo has made the advancement [Sweet Dreams]
+[18:24:53] [Server thread/INFO]: chymuelo has made the advancement [Getting an Upgrade]
+[18:25:51] [Craft Scheduler Thread - 278/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[18:28:45] [Server thread/INFO]: chymuelo has made the advancement [Best Friends Forever]
+[18:32:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:32:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:32:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:32:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:38:17] [Server thread/INFO]: chymuelo has made the advancement [Monster Hunter]
+[18:39:10] [Server thread/INFO]: chymuelo was shot by Skeleton
+[18:39:56] [Server thread/INFO]: chymuelo was shot by Skeleton
+[18:40:51] [Craft Scheduler Thread - 281/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[18:40:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:40:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:40:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:40:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:44:49] [Server thread/INFO]: chymuelo issued server command: /
+[18:45:19] [Server thread/INFO]: chymuelo lost connection: Disconnected
+[18:45:19] [Server thread/INFO]: chymuelo left the game
+[18:49:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:49:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:49:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:49:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[18:55:51] [Craft Scheduler Thread - 283/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[18:57:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[18:57:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[18:57:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[18:57:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[19:05:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[19:05:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[19:05:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[19:05:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m

@@ -26,6 +26,7 @@ Scoreboards:
         - ""
       9:
         - "&7» &6&lDinero &7%vault_eco_balance_formatted%"
+        #- "%server_countdown_dd.MM.yyyy_01.01.2021%"
       8:
         - ""
       7:

@@ -1,0 +1,1129 @@
+[13:45:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:45:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[13:45:06] [Worker-Main-14/INFO]: Loaded 7 recipes
+[13:45:07] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[13:45:07] [Server thread/INFO]: Loading properties
+[13:45:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a56d446-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[13:45:08] [Server thread/INFO]: Debug logging is disabled
+[13:45:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:45:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:45:08] [Server thread/INFO]: Default game type: SURVIVAL
+[13:45:08] [Server thread/INFO]: Generating keypair
+[13:45:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:45:08] [Server thread/INFO]: Using default channel type
+[13:45:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:45:13] [Server thread/WARN]: Legacy plugin AntiLag v2.0 does not specify an api-version.
+[13:45:13] [Server thread/WARN]: Legacy plugin LibelulaProtectionBlocks v2.0.10 Release does not specify an api-version.
+[13:45:13] [Server thread/WARN]: Legacy plugin AmkMcAuth v1.3.4 does not specify an api-version.
+[13:45:13] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
+[13:45:13] [Server thread/WARN]: Legacy plugin Skillz v5.8 does not specify an api-version.
+[13:45:13] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.76
+[13:45:14] [Server thread/INFO]: [AntiLag] Loading AntiLag v2.0
+[13:45:14] [Server thread/INFO]: [LibelulaProtectionBlocks] Loading LibelulaProtectionBlocks v2.0.10 Release
+[13:45:14] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
+[13:45:14] [Server thread/INFO]: [AmkMcAuth] Loading AmkMcAuth v1.3.4
+[13:45:14] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[13:45:14] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[13:45:14] [Server thread/INFO]: [Skillz] Loading Skillz v5.8
+[13:45:14] [Server thread/INFO]: [GUIShop] Loading GUIShop v8.4
+[13:45:14] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.1+299386a
+[13:45:14] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@56c06938]
+[13:45:14] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[13:45:14] [Server thread/INFO]: [AdvancedTeleport] Loading AdvancedTeleport v5.4-SNAPSHOT-1
+[13:45:14] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[13:45:14] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[13:45:14] [Server thread/INFO]: [CommandPanels] Loading CommandPanels v3.15.1.1
+[13:45:14] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[13:45:14] [Server thread/INFO]: [SimpleScore] Loading SimpleScore v3.6.2
+[13:45:14] [Server thread/INFO]: [Jobs] Loading Jobs v4.17.0
+[13:45:14] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.3.0
+[13:45:14] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[13:45:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.76
+[13:45:15] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[13:45:15] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.2.76[m
+[13:45:15] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[13:45:15] [Server thread/INFO]: [m
+[13:45:15] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[13:45:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[13:45:16] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[13:45:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[13:45:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1304ms)
+[13:45:16] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:45:16] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[13:45:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:45:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:45:16] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:45:16] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[13:45:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.1+299386a
+[13:45:16] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[13:45:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[13:45:17] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:45:17] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[13:45:17] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[13:45:17] [Server thread/WARN]: [WorldEdit]   
+[13:45:17] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[13:45:17] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[13:45:17] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[13:45:17] [Server thread/WARN]: [WorldEdit]   
+[13:45:17] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[13:45:17] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[13:45:17] [Server thread/WARN]: [WorldEdit]   
+[13:45:17] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[13:45:17] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[13:45:17] [Server thread/WARN]: [WorldEdit]   
+[13:45:17] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[13:45:17] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:45:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:45:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:45:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:45:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:45:17] [Server thread/INFO]: Preparing level "survival-1"
+[13:45:17] [Server thread/INFO]: -------- World Settings For [survival-1] --------
+[13:45:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:45:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:45:17] [Server thread/INFO]: View Distance: 10
+[13:45:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:45:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:45:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:45:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:45:17] [Server thread/INFO]: Mob Spawn Range: 6
+[13:45:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:45:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:45:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:45:17] [Server thread/INFO]: Max TNT Explosions: 100
+[13:45:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:45:18] [Server thread/INFO]: -------- World Settings For [survival-1_nether] --------
+[13:45:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:45:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:45:18] [Server thread/INFO]: View Distance: 10
+[13:45:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:45:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:45:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:45:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:45:18] [Server thread/INFO]: Mob Spawn Range: 6
+[13:45:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:45:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:45:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Max TNT Explosions: 100
+[13:45:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:18] [Server thread/INFO]: -------- World Settings For [survival-1_the_end] --------
+[13:45:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:45:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:45:18] [Server thread/INFO]: View Distance: 10
+[13:45:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:45:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:45:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:45:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:45:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[13:45:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:45:18] [Server thread/INFO]: Mob Spawn Range: 6
+[13:45:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:45:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:45:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:45:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:45:18] [Server thread/INFO]: Max TNT Explosions: 100
+[13:45:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:45:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:45:19] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:19] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:19] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:19] [Server thread/INFO]: Time elapsed: 1257 ms
+[13:45:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:45:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:20] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:20] [Worker-Main-15/INFO]: Preparing spawn area: 83%
+[13:45:21] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[13:45:21] [Worker-Main-16/INFO]: Preparing spawn area: 83%
+[13:45:22] [Worker-Main-16/INFO]: Preparing spawn area: 83%
+[13:45:22] [Worker-Main-12/INFO]: Preparing spawn area: 90%
+[13:45:22] [Server thread/INFO]: Time elapsed: 3480 ms
+[13:45:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:45:23] [Server thread/INFO]: Preparing spawn area: 0%
+[13:45:23] [Worker-Main-12/INFO]: Preparing spawn area: 84%
+[13:45:23] [Server thread/INFO]: Time elapsed: 763 ms
+[13:45:23] [Server thread/INFO]: [AntiLag] Enabling AntiLag v2.0
+[13:45:23] [Server thread/INFO]: [LibelulaProtectionBlocks] Enabling LibelulaProtectionBlocks v2.0.10 Release
+[13:45:23] [Server thread/INFO]: [LibelulaProtectionBlocks] English language has been selected.
+[13:45:23] [Server thread/WARN]: [LibelulaProtectionBlocks] Loaded class com.sk89q.worldguard.protection.regions.ProtectedRegion from WorldGuard v7.0.4+f7ff984 which is not a depend, softdepend or loadbefore of this plugin.
+[13:45:23] [Server thread/ERROR]: Error occurred while enabling LibelulaProtectionBlocks v2.0.10 Release (Is it up to date?)
+java.lang.NoSuchMethodError: com.sk89q.worldguard.bukkit.WorldGuardPlugin.getRegionContainer()Lcom/sk89q/worldguard/bukkit/RegionContainer;
+	at me.libelula.pb.WorldGuardManager.initialize(WorldGuardManager.java:92) ~[?:?]
+	at me.libelula.pb.Main.onEnable(Main.java:72) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:494) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:408) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:45:23] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
+[13:45:23] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] Enabling AmkMcAuth v1.3.4
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] Configuration settings loaded/reloaded from config.yml.
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] User profile data AutoSave Task is started (interval: 5 minutes)
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] Counting PlayerBase, IP-Adresses and nlp-players.
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] Counting done, PlayerBaseCount: 3, Ip-AddressCount: 1, nlp-PlayerCount: 0.
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] Metrics enabled. Thank you!
+[13:45:23] [Server thread/INFO]: [AmkMcAuth] AmkMcAuth v1.3.4 enabled.
+[13:45:23] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[13:45:23] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[13:45:23] [Server thread/INFO]: [PingTab] Checking for new versions...
+[13:45:24] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[13:45:24] [Server thread/INFO]: [Skillz] Enabling Skillz v5.8
+[13:45:24] [Server thread/ERROR]: Error occurred while enabling Skillz v5.8 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(I)V
+	at nl.lolmen.Skills.SkillManager.loadSkillsSettings(SkillManager.java:188) ~[?:?]
+	at nl.lolmen.Skillz.Skillz.loadSkillz(Skillz.java:148) ~[?:?]
+	at nl.lolmen.Skillz.Skillz.onEnable(Skillz.java:81) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:494) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:408) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:45:24] [Server thread/INFO]: [GUIShop] Enabling GUIShop v8.4
+[13:45:24] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[13:45:24] [Server thread/INFO]: [GUIShop] Warming Items...
+[13:45:24] [Thread-13/INFO]: [AmkMcAuth] You have the Latest AmkMcAuth Version (1.3.4) running.
+[13:45:27] [Server thread/INFO]: [GUIShop] Item warming completed in: 2.628ms
+[13:45:27] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[13:45:27] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[13:45:27] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[13:45:27] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:45:27] [Server thread/INFO]: No kits found to migrate.
+[13:45:27] [Server thread/INFO]: Loaded 25599 items from items.json.
+[13:45:27] [Server thread/INFO]: Using locale es_AR
+[13:45:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:45:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:45:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[13:45:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[13:45:27] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v5.4-SNAPSHOT-1
+[13:45:27] [Server thread/INFO]: Advanced Teleport is now enabling...
+[13:45:27] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[13:45:27] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[13:45:27] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[13:45:27] [Server thread/ERROR]: ¡No se encontró ninguna clave de licencia! Por favor visite https://essentialsx.cf/geoip para obtener instrucciones de configuración por primera vez.
+[13:45:27] [Server thread/ERROR]: ¡Error al leer la base de datos de GeoIP!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (El sistema no puede encontrar el archivo especificado)
+	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_51]
+	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_51]
+	at java.io.RandomAccessFile.<init>(Unknown Source) ~[?:1.8.0_51]
+	at com.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.db.Reader.<init>(Reader.java:116) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:52) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) [EssentialsXGeoIP-2.18.2.0.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:494) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:408) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:45:27] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[13:45:27] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[13:45:27] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.15.1.1
+[13:45:27] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.1 Plugin Loading...
+[13:45:27] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.1 Plugin Loaded!
+[13:45:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1) TNT ignition is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1) Lighters are PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1) Lava fire is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1) Fire spread is UNRESTRICTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1'
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_nether) TNT ignition is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lighters are PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lava fire is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Fire spread is UNRESTRICTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_nether'
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) TNT ignition is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lighters are PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lava fire is PERMITTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Fire spread is UNRESTRICTED.
+[13:45:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_the_end'
+[13:45:28] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:45:28] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.6.2
+[13:45:28] [Server thread/INFO]: [SimpleScore] Loading disabled scoreboards...
+[13:45:28] [Server thread/INFO]: [SimpleScore] Disabled scoreboards loaded.
+[13:45:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: simplescore
+[13:45:28] [Server thread/INFO]: [Jobs] Enabling Jobs v4.17.0
+[13:45:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: jobsr
+[13:45:29] [Server thread/INFO]: [0;33;1m[Jobs] PlaceholderAPI hooked.[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1076 custom item names![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 72 custom entity names![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 2 custom MythicMobs names![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 38 custom enchant names![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[13:45:31] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[13:45:31] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[13:45:31] [ForkJoinPool.commonPool-worker-9/INFO]: [0;33;1m[Jobs] Preloaded 2 players data in 0.0[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (56)[m
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[13:45:31] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.3.0
+[13:45:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:45:31] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[13:45:31] [Server thread/INFO]: Done (14.444s)! For help, type "help"
+[13:45:31] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[13:45:31] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.2.76 which is not a depend, softdepend or loadbefore of this plugin.
+[13:45:31] [Craft Scheduler Thread - 1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[13:45:31] [Craft Scheduler Thread - 11/INFO]: [Vault] Checking for Updates ... 
+[13:45:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms
+[13:45:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[13:45:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[13:45:31] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[13:45:31] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[13:45:31] [Server thread/INFO]: 4[0;32;1m placeholder hooks successfully registered![m
+[13:45:32] [Craft Scheduler Thread - 5/INFO]: [AdvancedTeleport] §3[§bAdvancedTeleport§3] §bPlugin is up to date!
+[13:45:32] [Craft Scheduler Thread - 11/INFO]: [Vault] No new version available
+[13:45:37] [User Authenticator #1/INFO]: UUID of player taielmartinez is 909e7f3b-f48a-3d54-aa49-93c614013cee
+[13:45:37] [Server thread/INFO]: taielmartinez[/192.168.1.1:64792] logged in with entity id 280 at ([survival-1]56.38252538477944, 98.28260138842293, -160.07802163813275)
+[13:45:43] [Server thread/INFO]: taielmartinez issued server command: /login 1
+[13:45:43] [Server thread/INFO]: [AmkMcAuth] taielmartinez has logged in.
+[13:45:45] [Server thread/INFO]: taielmartinez issued server command: /shop
+[13:47:09] [Server thread/INFO]: CONSOLE issued server command: /heal taielmartinez
+[13:47:09] [Server thread/INFO]: [0;37;22mHas curado a [0;31;22mtaielmartinez[m.[m
+[13:47:09] [Server thread/INFO]: CONSOLE issued server command: /broadcast taielmartinez purchased &4Heal Command Test&a for 200.0.
+[13:48:47] [Server thread/INFO]: taielmartinez issued server command: /shop
+[13:53:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[13:53:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[13:53:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[13:53:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[13:54:34] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[13:54:34] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[13:54:34] [Server thread/INFO]: [GUIShop] Warming Items...
+[13:54:34] [Server thread/INFO]: [GUIShop] Item warming completed in: 17ms
+[13:54:34] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[13:54:35] [Server thread/INFO]: taielmartinez issued server command: /shop
+[13:56:15] [Server thread/INFO]: taielmartinez issued server command: /shop
+[13:57:42] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[13:57:42] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[13:57:42] [Server thread/INFO]: [GUIShop] Warming Items...
+[13:57:42] [Server thread/INFO]: [GUIShop] Item warming completed in: 13ms
+[13:57:42] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[13:57:43] [Server thread/INFO]: taielmartinez issued server command: /shop
+[13:58:05] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:00:31] [Craft Scheduler Thread - 12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:02:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:02:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:02:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:02:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:05:04] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:05:04] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:05:04] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:05:04] [Server thread/INFO]: [GUIShop] Item warming completed in: 10ms
+[14:05:04] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:05:05] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:06:21] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:06:21] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:06:21] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:06:21] [Server thread/INFO]: [GUIShop] Item warming completed in: 15ms
+[14:06:21] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:06:21] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:10:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:10:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:10:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:10:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:11:03] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:11:03] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:11:03] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:11:03] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:11:03] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:11:04] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:11:53] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:14:09] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:14:09] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:14:09] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:14:09] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:14:09] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:14:10] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:14:50] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:14:50] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:14:50] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:14:50] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:14:50] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:14:51] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:14:59] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:14:59] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:14:59] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:14:59] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:14:59] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:15:01] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:15:15] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:15:31] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:18:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:18:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:18:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:18:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:19:16] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:19:16] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:19:16] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:19:16] [Server thread/INFO]: [GUIShop] Item warming completed in: 16ms
+[14:19:16] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:19:17] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:19:29] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:19:29] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:19:29] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:19:30] [Server thread/INFO]: [GUIShop] Item warming completed in: 6ms
+[14:19:30] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:19:30] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:20:10] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:20:10] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:20:10] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:20:10] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:20:10] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:20:11] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:20:52] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:20:52] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:20:52] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:20:52] [Server thread/INFO]: [GUIShop] Item warming completed in: 6ms
+[14:20:52] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:20:53] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:21:17] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:21:17] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:21:17] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:21:17] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:21:17] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:21:18] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:21:47] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:21:47] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:21:47] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:21:47] [Server thread/INFO]: [GUIShop] Item warming completed in: 6ms
+[14:21:47] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:21:47] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:22:12] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:22:12] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:22:12] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:22:12] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:22:12] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:22:13] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:22:37] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:22:37] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:22:37] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:22:37] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:22:37] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:22:37] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:23:05] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:23:28] [Server thread/INFO]: taielmartinez issued server command: /vault-convert
+[14:23:36] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:23:36] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:23:36] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:23:36] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:23:36] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:23:37] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:27:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:27:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:27:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:27:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:29:41] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:29:41] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:29:41] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:29:41] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:29:41] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:29:42] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:29:52] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:29:52] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:29:52] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:29:52] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:29:52] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:29:52] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:30:31] [Craft Scheduler Thread - 18/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:31:00] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:31:22] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:31:22] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:31:22] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:31:22] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:31:22] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:31:22] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:35:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:35:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:35:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:35:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:37:17] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:37:17] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:37:17] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:37:17] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:37:17] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:37:42] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:37:42] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:37:42] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:37:42] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:37:44] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:37:46] [Server thread/ERROR]: Could not pass event InventoryClickEvent to GUIShop v8.4
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:319) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:2277) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:32) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInWindowClick.a(SourceFile:10) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:164) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.openShop(Menu.java:172) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.onShopClick(Menu.java:157) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$5574/106539987.accept(Unknown Source) ~[?:?]
+	at com.github.stefvanschie.inventoryframework.GuiListener.onInventoryClick(GuiListener.java:59) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor44.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_51]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:315) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 20 more
+[14:38:02] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:38:02] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:38:02] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:38:02] [Server thread/INFO]: [GUIShop] Item warming completed in: 6ms
+[14:38:02] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:38:11] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:38:11] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:38:11] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:38:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:38:22] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:38:23] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:38:23] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:38:23] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:38:23] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:38:23] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:38:33] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:38:33] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:38:33] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:38:33] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:38:47] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:38:47] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:38:47] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:38:47] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:39:43] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:39:43] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:39:43] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:39:43] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(SourceFile:127) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:919) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:39:52] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:39:52] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:39:52] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:39:52] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:39:52] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:40:34] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:40:34] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:40:34] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:40:34] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:40:34] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:40:40] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:40:40] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:40:40] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:40:40] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'guishop' in plugin GUIShop v8.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:763) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:1788) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:1631) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1584) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:47) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils$$Lambda$5418/831507752.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(SourceFile:144) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(SourceFile:118) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:942) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:935) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(SourceFile:103) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:918) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:851) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3226/140872617.run(Unknown Source) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+Caused by: java.util.NoSuchElementException: No value present
+	at java.util.Optional.get(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Shop.loadShop(Shop.java:362) ~[?:?]
+	at com.pablo67340.guishop.listenable.Shop.loadItems(Shop.java:160) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu.lambda$itemWarmup$1(Menu.java:48) ~[?:?]
+	at com.pablo67340.guishop.listenable.Menu$$Lambda$4912/1099679014.accept(Unknown Source) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline$2$1.accept(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Iterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source) ~[?:1.8.0_51]
+	at java.util.stream.ReferencePipeline.forEachOrdered(Unknown Source) ~[?:1.8.0_51]
+	at com.pablo67340.guishop.listenable.Menu.itemWarmup(Menu.java:46) ~[?:?]
+	at com.pablo67340.guishop.Main.loadShopDefs(Main.java:187) ~[?:?]
+	at com.pablo67340.guishop.Main.reload(Main.java:405) ~[?:?]
+	at com.pablo67340.guishop.commands.GuishopCommand.onCommand(GuishopCommand.java:284) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	... 21 more
+[14:40:47] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:40:47] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:40:47] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:40:47] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:40:47] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:41:20] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:41:20] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:41:20] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:41:20] [Server thread/INFO]: [GUIShop] Item warming completed in: 4ms
+[14:41:20] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:41:21] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:42:11] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:42:11] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:42:11] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:42:11] [Server thread/INFO]: [GUIShop] Item warming completed in: 7ms
+[14:42:11] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:42:12] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:43:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:43:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:43:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:43:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[14:44:00] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:45:12] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:45:31] [Craft Scheduler Thread - 21/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[14:45:41] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:46:54] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:48:40] [Server thread/INFO]: taielmartinez issued server command: /guishop reload
+[14:48:40] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[14:48:40] [Server thread/INFO]: [GUIShop] Warming Items...
+[14:48:40] [Server thread/INFO]: [GUIShop] Item warming completed in: 5ms
+[14:48:40] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[14:48:41] [Server thread/INFO]: taielmartinez issued server command: /shop
+[14:52:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[14:52:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[14:52:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[14:52:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:00:31] [Craft Scheduler Thread - 24/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:00:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:00:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:00:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:00:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:08:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:08:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:08:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:08:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:15:31] [Craft Scheduler Thread - 25/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:17:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:17:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:17:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:17:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:25:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:25:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:25:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:25:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:30:31] [Craft Scheduler Thread - 28/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:33:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:33:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:33:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:33:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:42:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:42:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:42:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:42:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:45:31] [Craft Scheduler Thread - 31/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[15:50:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:50:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:50:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:50:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[15:51:41] [Server thread/INFO]: taielmartinez lost connection: Disconnected
+[15:51:41] [Server thread/INFO]: taielmartinez left the game
+[15:58:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[15:58:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[15:58:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[15:58:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:00:32] [Craft Scheduler Thread - 35/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:07:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:07:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:07:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:07:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:15:31] [Craft Scheduler Thread - 38/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:15:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:15:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:15:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:15:35] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:23:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:23:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:23:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:23:55] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[16:30:31] [Craft Scheduler Thread - 39/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_51]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_51]
+[16:32:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[16:32:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[16:32:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[16:32:15] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m

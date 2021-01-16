@@ -1,0 +1,11 @@
+login:
+  username: chainspaaa
+  logged_in: true
+  password: ab936909aa2a1b3098814caedcaf429e1ddb550cf3b2c24c30428ae127c3a417ed8127a6158ce0753118e26ff82477b9746e4e3fdb8c0bf84f6d0e6055cb6122
+  hash: AMKAUTH
+  ipaddress: 181.46.231.0
+timestamps:
+  join: 1610755995815
+  login: 1610756041470
+  quit: 1610757197019
+godmode_expires: 1610756051470
