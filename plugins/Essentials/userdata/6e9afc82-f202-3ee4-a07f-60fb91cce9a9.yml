@@ -1,18 +1,18 @@
 lastAccountName: Romerovich
 timestamps:
-  login: 1610808576415
-  logout: 1610811503563
+  login: 1611021807797
+  logout: 1611024193412
   kits:
     inicio: 1610630230980
 ipAddress: 181.169.14.227
 logoutlocation:
   world: survival-1
-  x: 71.57570385923567
-  y: 66.0
-  z: 102.9472909090442
-  yaw: 318.28568
-  pitch: 23.88592
-money: '15133.02999999999985144'
+  x: 67.46052264020614
+  y: 67.0
+  z: 102.32414065462731
+  yaw: -89.83496
+  pitch: 3.2443902
+money: '11175.09734999999992981'
 lastlocation:
   world: survival-1
   x: 70.32198181715572

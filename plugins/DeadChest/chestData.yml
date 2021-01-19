@@ -543,148 +543,6 @@ chestData:
   - null
   chestLocation: survival-1;-52.0;66.0;185.0
 - ==: ChestData
-  playerUUID: eac10e02-ee4e-356e-8c57-7cd740fd1f96
-  holographicTimer: survival-1;-1423.5;35.799999952316284;338.5
-  worldName: survival-1
-  as_timer_id: 94d5ffd2-9870-4b21-b179-ec1215c53289
-  playerName: taiel
-  isInfinity: false
-  as_owner_id: 1d2ebdc0-7565-4952-84da-4455e1556dc0
-  chestDate: 2021-01-14T06:00:56.115Z
-  inventory:
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: STONE_SWORD
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 48
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: IRON_PICKAXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 77
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: STONE_SHOVEL
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: STONE_AXE
-    meta:
-      ==: ItemMeta
-      meta-type: UNSPECIFIC
-      Damage: 66
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: COAL
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: COBBLESTONE
-    amount: 64
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: IRON_ORE
-    amount: 33
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: PUMPKIN_PIE
-    amount: 58
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: GRANITE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: ROTTEN_FLESH
-    amount: 7
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: COAL_BLOCK
-    amount: 9
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: DIRT
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: COBBLESTONE
-    amount: 64
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: ANDESITE
-    amount: 4
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: FURNACE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: COBBLESTONE
-    amount: 12
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: STRING
-    amount: 3
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: DARK_OAK_LOG
-    amount: 62
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: STICK
-    amount: 2
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: IRON_INGOT
-    amount: 5
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: CRAFTING_TABLE
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: ARROW
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: BONE
-    amount: 2
-  - null
-  - null
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: GRAVEL
-    amount: 3
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: DARK_OAK_PLANKS
-    amount: 6
-  - null
-  - null
-  - null
-  - null
-  - null
-  - ==: org.bukkit.inventory.ItemStack
-    v: 2584
-    type: SHIELD
-    meta:
-      ==: ItemMeta
-      meta-type: TILE_ENTITY
-      Damage: 15
-      internal: H4sIAAAAAAAAAONiYOBi4HPKyU/Ods0rySypDElMZ2ZgrGAAAiBdCaWrQDQHA1NmCoNAbmZeanJRYlqJVVJiXl5qEScDR0BiSUlqUV4xA0Q5i1NicSqYzQAAybsouGAAAAA=
-      blockMaterial: SHIELD
-  chestLocation: survival-1;-1424.0;35.0;338.0
-- ==: ChestData
   playerUUID: 75375eb6-7ede-3780-b8b9-cb3c9438e11e
   holographicTimer: survival-1;4129.5;59.799999952316284;-4993.5
   worldName: survival-1
@@ -1371,3 +1229,706 @@ chestData:
   - null
   - null
   chestLocation: survival-1;-4715.0;70.0;-3252.0
+- ==: ChestData
+  playerUUID: 08de8592-3dd5-3655-8e68-0af43e110647
+  holographicTimer: survival-1_nether;93.5;55.799999952316284;-115.5
+  worldName: survival-1_nether
+  as_timer_id: 432128cb-5a72-406c-b549-0c93b52c87da
+  playerName: DaviJust
+  isInfinity: false
+  as_owner_id: 5e554ac5-ee4f-4738-a740-25d375fb30b9
+  chestDate: 2021-01-16T21:40:13.140Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BROWN_MUSHROOM
+    amount: 3
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1_nether;93.0;55.0;-116.0
+- ==: ChestData
+  playerUUID: fe62cbb2-d7c6-32b9-908d-1d008a3560b1
+  holographicTimer: survival-1_nether;89.5;24.799999952316284;-108.5
+  worldName: survival-1_nether
+  as_timer_id: 1cd979ec-c334-410f-90d1-fc8bb7229ec9
+  playerName: PedrinzzzzzS2
+  isInfinity: false
+  as_owner_id: d76a732b-d1bf-45a9-9a50-cb0c7a71b1e7
+  chestDate: 2021-01-16T21:41:56.288Z
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 19
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 19
+  - null
+  chestLocation: survival-1_nether;89.0;24.0;-109.0
+- ==: ChestData
+  playerUUID: 08de8592-3dd5-3655-8e68-0af43e110647
+  holographicTimer: SpeedRun;-117.5;67.79999995231628;11.5
+  worldName: SpeedRun
+  as_timer_id: d315b797-f870-4250-a26d-aecefa2286c2
+  playerName: DaviJust
+  isInfinity: false
+  as_owner_id: a02897c0-7a96-497d-9449-882cd1ff3917
+  chestDate: 2021-01-16T21:46:02.492Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 1
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRAFTING_TABLE
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WHEAT_SEEDS
+    amount: 9
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: SpeedRun;-118.0;67.0;11.0
+- ==: ChestData
+  playerUUID: 08de8592-3dd5-3655-8e68-0af43e110647
+  holographicTimer: SpeedRun;-75.5;67.79999995231628;-16.5
+  worldName: SpeedRun
+  as_timer_id: 1c375778-fa09-4540-b819-35d21ce309a6
+  playerName: DaviJust
+  isInfinity: false
+  as_owner_id: b0351744-0d19-4e39-97e3-992e7e157e96
+  chestDate: 2021-01-16T21:46:52.496Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 2
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: SpeedRun;-76.0;67.0;-17.0
+- ==: ChestData
+  playerUUID: 823a292d-9ef6-3568-863c-6d369cf37051
+  holographicTimer: survival-1_nether;81.5;45.799999952316284;152.5
+  worldName: survival-1_nether
+  as_timer_id: 87c4075b-8b70-4b7f-ac3d-a25340ca31e4
+  playerName: iTzXzy
+  isInfinity: false
+  as_owner_id: 160a4213-b92b-4b35-962f-5146ce35199e
+  chestDate: 2021-01-16T21:47:16.938Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 10
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WOODEN_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 17
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRAFTING_TABLE
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CRIMSON_PLANKS
+    amount: 26
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: TORCH
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+    amount: 4
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BOWL
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BROWN_MUSHROOM
+    amount: 27
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: RED_MUSHROOM
+    amount: 25
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: survival-1_nether;81.0;45.0;152.0
+- ==: ChestData
+  playerUUID: 823a292d-9ef6-3568-863c-6d369cf37051
+  holographicTimer: SpeedRun;-76.5;67.79999995231628;-19.5
+  worldName: SpeedRun
+  as_timer_id: 2051f0d6-8e74-4549-aa82-c2b539f31a87
+  playerName: iTzXzy
+  isInfinity: false
+  as_owner_id: 5cc90d70-01d4-457f-ae0b-d5d63774d97a
+  chestDate: 2021-01-16T21:49:31.253Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COBBLESTONE
+    amount: 9
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BREAD
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  chestLocation: SpeedRun;-77.0;67.0;-20.0
+- ==: ChestData
+  playerUUID: 823a292d-9ef6-3568-863c-6d369cf37051
+  holographicTimer: SpeedRun;93.5;65.79999995231628;90.5
+  worldName: SpeedRun
+  as_timer_id: 028dba47-f3f1-466b-b5a6-0722388de2f0
+  playerName: iTzXzy
+  isInfinity: false
+  as_owner_id: 6faf7de2-f273-4e67-b13e-a18305252937
+  chestDate: 2021-01-16T21:52:38.851Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 24
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 28
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STONE_HOE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 9
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_PLANKS
+    amount: 20
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BREAD
+    amount: 29
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_BOAT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: REDSTONE
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLD_NUGGET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_INGOT
+    amount: 11
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: OAK_SLAB
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: SAND
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLD_INGOT
+    amount: 7
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ANDESITE
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BONE
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BIRCH_LOG
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: APPLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ARROW
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: EMERALD
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 362
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_NUGGET
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIRT
+    amount: 32
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: STICK
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: LAPIS_BLOCK
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FLINT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: COAL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GOLDEN_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 51
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 52
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 59
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 52
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      Damage: 20
+      blockMaterial: SHIELD
+  chestLocation: SpeedRun;93.0;65.0;90.0
+- ==: ChestData
+  playerUUID: fe62cbb2-d7c6-32b9-908d-1d008a3560b1
+  holographicTimer: SpeedRun;-352.5;75.79999995231628;-47.5
+  worldName: SpeedRun
+  as_timer_id: e40b2c3b-4702-413c-bf90-469a9f08996f
+  playerName: PedrinzzzzzS2
+  isInfinity: false
+  as_owner_id: ff66e7f2-b7fa-49ac-9442-998d92480bb9
+  chestDate: 2021-01-16T23:11:04.539Z
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FIREWORK_ROCKET
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: CREEPER_HEAD
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GUNPOWDER
+    amount: 50
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: DIAMOND
+    amount: 64
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: PAPER
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FIREWORK_ROCKET
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      firework-effects:
+      - ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          RED: 255
+          BLUE: 255
+          GREEN: 255
+        fade-colors:
+        - ==: Color
+          RED: 222
+          BLUE: 42
+          GREEN: 207
+        type: BALL
+      power: 1
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: YELLOW_DYE
+    amount: 62
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: GUNPOWDER
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FIREWORK_ROCKET
+    amount: 42
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      power: 1
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: FIREWORK_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK_EFFECT
+      firework-effect:
+        ==: Firework
+        flicker: false
+        trail: false
+        colors:
+        - ==: Color
+          RED: 255
+          BLUE: 255
+          GREEN: 255
+        fade-colors:
+        - ==: Color
+          RED: 222
+          BLUE: 42
+          GREEN: 207
+        type: BALL
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 144
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: ELYTRA
+  - ==: org.bukkit.inventory.ItemStack
+    v: 2584
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 145
+  - null
+  chestLocation: SpeedRun;-353.0;75.0;-48.0

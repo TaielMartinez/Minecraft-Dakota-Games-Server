@@ -1,0 +1,159 @@
+#Translated by darkbeatx
+prefix: "&3&lClima &5\u2771"
+errors:
+    consoleError: "&cLos comandos solo se pueden realizar a través del usuario!"
+    noPermissions: "&cNo tienes permitido usar este comando!"
+    noStatePermissions: "&cNo está permitido iniciar este estado.!"
+    noVotePermissions: "&cNo tienes permitido votar!"
+    noSignPermissions: "&cNo tienes permitido votar por letreros!"
+    wrongUsageOfCommand: "&cComando incorecto!"
+
+    noCycle: "&cNo hay ciclo de votación en este momento.!"
+    cycle: "&c¡La votación ya ha comenzado! Espera hasta que termine!"
+    voted: "&cYa has votado en la votación actual.!"
+    pause: "&cLa votación no está disponible debido a una pausa! Por favor, inténtalo de nuevo en unos segundos.!"
+    notEnoughPlayers: "&cNo hay suficientes jugadores para empezar a votar.!"
+    disabledWorld: "&cNo está permitido votar en este mundo.!"
+    custom: "&cPregunta personalizada &3{customName} &cno existe!"
+    money:
+        start: "&cNo tienes suficiente dinero para empezar una votación!"
+        vote: "&cNo tienes suficiente dinero para participar en la votación.!"
+    requiredWorlds: "&cNo estás en el mismo mundo de la votacion.!"
+    world:
+        notExist: "&cEl mundo &3{world} &cno existe!"
+        exist: "&cEl mundo &3{world} &cya se ha agregado a esta lista!"
+success:
+    vote: "&7Tu voto ha sido recibido correctamente!"
+    start: "&7Jugador &6{player} &7empezó una votación para &6{state} &7en el mundo &6{world}&7!"
+    result:
+        FAIL: "&cVotación por &6{state} &cen el mundo &6{world}&c fallido!"
+        SUCCESS: "&7Votación por &6{state} &7en el mundo &6{world}&7 se ha verificado!"
+        ADMIN: "&7Resultado de la votacion: &5\u00BB &a{yes}&7:&c{no}&7"
+    reload: "&7Archivos correctamente recargados"
+    sign:
+        create: "&7Cartel correctamente creado!"
+        remove: "&7Cartel correctamente borrado!"
+    world:
+        set: "&El mundo &3{world} &7con el alias &3{alias} &7añadido a la lista!"
+        disable: "&7El mundo &3{world} &7añadido a la lista de mundos discapacitados!"
+aliases:
+    worlds:
+        world: "Survival"
+    state:
+        DAY: "Dia"
+        NIGHT: "Noche"
+        SUN: "Soleado"
+        RAIN: "Lluvia"
+        STORM: "Tormenta"
+clickable:
+    participate:
+        agree:
+            ul: "&5\u25CF "
+            message: "&7&nDea cuerdo con la votacion"
+            hover: "&7Click, si estás de acuerdo con la votación!"
+            command: "/voting yes"
+        disagree:
+            ul: "&5\u25CF "
+            message: "&7&nDesacuerdo con la votacion"
+            hover: "&7Click, si estás en desacuerdo con la votación!"
+            command: "/voting no"
+bossBar:
+    DEFAULT: "&7&lVotacion para &2&l{state} &7&len el mundo &2&l{world}&7&l! | &2&l{time}&7&ls"
+signs:
+    voting:
+        1: "&9[Clima]"
+        2: "&l{state}"
+        3:
+            Waiting: "&8Esperando..."
+            Running: "&4&lComenzando"
+            Ending: "&4&lAcabando..."
+        4:
+            Waiting: "&1&lClick para comenzar"
+            Running: "&3&lAcaba en &4&l{time}"
+            Ending: "&3&lEspera! &4&l{time}"
+            Finish: "&4&lAcaba"
+
+GUI:
+    VotingGUI:
+        nameOfInventory: "&1&lClima"
+    CommonItems:
+        INFO:
+            headName: "&2&lInformacion basica"
+            lore:
+            - "&6\u270E &7Esta votacíon permite cambiar"
+            - "&7el tiempo. Cada jugador puede participar"
+            - "&7para votar al momento y dejar su"
+            - "&7opinión!"
+            - ""
+            - "&6\u25CF &7Votar lleva su tiempo. Despues de eso acaba"
+            - "&7El sistema decidirá el resultado!"
+    Buttons:
+        AGREE:
+            headName: "&2&De acuerdo con la votacion"
+            lore:
+            - "&6\u25CF &7Click, si estás de acuerdo con la votación!"
+        DISAGREE:
+            headName: "&2&lDesacuerdo con la votacion"
+            lore:
+            - "&6\u25CF &7Click, si estás en desacuerdo con la votación!"
+    States:
+        DAY:
+            headName: "&2&lDia"
+            lore:
+            - "&6\u25CF &7Click para empezar la votación!"
+        NIGHT:
+            headName: "&2&lNoche"
+            lore:
+            - "&6\u25CF &7Click para empezar la votación!"
+        SUN:
+            headName: "&2&lSoleado"
+            lore:
+            - "&6\u25CF &7Click para empezar la votación!"
+        RAIN:
+            headName: "&2&lLluvia"
+            lore:
+            - "&6\u25CF &7Click para empezar la votación!"
+        STORM:
+            headName: "&2&lTormenta"
+            lore:
+            - "&6\u25CF &7Click para empezar la votación!"
+    Core:
+        Custom:
+            Running:
+                headName: "&2&lClima"
+                lore:
+                - "&6\u25CF &7Termina en: &6\u00BB &3{countDown}s"
+        Waiting:
+            headName: "&2&lSin votacion"
+            lore:
+            - "&6\u25CF &7No voting cycle, now!"
+        Running:
+            headName: "&2&lClima"
+            lore:
+            - "&6\u25CF &7Para &6\u00BB &3{coreState}"
+            - "&6\u25CF &7En el mundo &6\u00BB &3{world}"
+            - ""
+            - "&6\u25CF &7Termina en: &6\u00BB &3{countDown}s"
+        Ending:
+            headName: "&2&lBreak"
+            lore:
+            - "&6\u25CF &7Termina en: &6\u00BB &3{countDown}s"
+Custom:
+    Event:
+        start: "&7Quieres &3Event&7?"
+        result:
+            FAIL: "&cVotación por &3Event &cno fue exitosa!"
+            SUCCESS: "&7Votación por &3Event &7Exitosa!"
+            ADMIN: "&7Resultado de la votación &5\u00BB &a{yes}&7:&c{no}&7"
+        clickable:
+            agree:
+                ul: "&5\u25CF "
+                message: "&7&De acuerdo con el evento"
+                hover: "&7Click, si estás de acuerdo con el evento!"
+                command: "/voting yes"
+            disagree:
+                ul: "&5\u25CF "
+                message: "&7&nDesacuerdo con el evento"
+                hover: "&7Click, si estás desacuerdo con el evento!"
+                command: "/voting no"
+        bossBar: "&7&lVotando por &2&lEvent&7&l! | &2&l{time}&7&ls"

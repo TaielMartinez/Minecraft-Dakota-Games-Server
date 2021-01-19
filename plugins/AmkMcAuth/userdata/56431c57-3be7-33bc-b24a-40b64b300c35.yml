@@ -1,0 +1,11 @@
+login:
+  username: SinLimiteRandom
+  logged_in: true
+  password: 8f46b1d3e0c70cc592fb0dd7a766dbe4b1fa98e45bbfb3407ff5f76dc24018c61f612569e474d03727869d7bc6a5769d7b9902be423797a54a38322c2f1e21fb
+  hash: AMKAUTH
+  ipaddress: 181.45.115.80
+timestamps:
+  join: 1611072231749
+  login: 1611072242559
+  quit: 1611073651403
+godmode_expires: 1611072252559

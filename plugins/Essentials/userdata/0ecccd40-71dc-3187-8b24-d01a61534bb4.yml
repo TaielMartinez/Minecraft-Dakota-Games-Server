@@ -1,15 +1,15 @@
 lastAccountName: Dead_ware
 timestamps:
-  login: 1610748195130
-  logout: 1610748920313
+  login: 1611025891954
+  logout: 1611027794892
   kits:
     inicio: 1610748359343
 ipAddress: 181.46.69.20
 logoutlocation:
   world: survival-1
-  x: -5057.218490464947
-  y: 11.0
-  z: 3677.1078816824347
-  yaw: -216.2881
-  pitch: 31.950043
+  x: -4923.508281009133
+  y: 85.875
+  z: 3651.699999988079
+  yaw: -217.42609
+  pitch: 46.799988
 money: '316.6799999999999967'

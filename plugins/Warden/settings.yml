@@ -1,0 +1,21 @@
+Alerts:
+  Message: |-
+    %prefix%&f%player% &7failed %check_name% %check_type% &7VL: &f%vl% &r&7PING: &f%ping% &7TPS: &f%tps%
+     &7INFO: §o%message% &7VERSION: &f%version%
+pandora:
+  alerts:
+    permission: pandora.alerts
+Punish:
+  Commands:
+  - |-
+    kick %player% &3WARDEN CHEAT DETECTION
+
+    &7You have been removed from the server for cheating.
+
+    &7Detected for: &b%check_name% %check_type%
+
+    &7If you feel like this was &funfair&7, please &fcontact &7a server administrator.
+  Broadcast:
+    Enabled: true
+    Message: '%prefix%&f%player% &7has been removed from the server for cheating.'
+prefix: '&b(&3Warden&b)'

@@ -1,0 +1,11 @@
+login:
+  username: GrayWolfB
+  logged_in: true
+  password: d0a45e4b3523fcb48e5e28ce16c30ebb94cb0de5f77f59d7bb8a73cc3a0164ce0b9609ec9eedb4cf2250ff1dce1cbac35e84743b5b55df381130eed8bb2bca79
+  hash: AMKAUTH
+  ipaddress: 200.85.179.150
+timestamps:
+  join: 1610880433176
+  login: 1610880460435
+  quit: 1610886536252
+godmode_expires: 1610880470435

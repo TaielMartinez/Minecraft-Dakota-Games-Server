@@ -1,0 +1,11 @@
+login:
+  username: ELCUB0HIDRATADO
+  logged_in: true
+  password: 4031d6883efb10ed03b507d639284983a2131a28c36311e0bd833a3db7bb3cd849398610d757777a736c5d7856162da095686ddc28ae0a26aab1c01e14cb5b93
+  hash: AMKAUTH
+  ipaddress: 187.204.63.152
+timestamps:
+  join: 1611044524700
+  login: 1611044557159
+  quit: 1611044709833
+godmode_expires: 1611044567159

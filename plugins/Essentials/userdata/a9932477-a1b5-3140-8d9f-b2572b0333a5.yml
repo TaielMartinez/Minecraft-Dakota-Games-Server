@@ -1,13 +1,13 @@
 lastAccountName: Flames
 timestamps:
   login: 1610829578154
-  logout: 1610778800924
+  logout: 1610830532728
 ipAddress: 152.171.192.63
 money: '3893.15200000000001363'
 logoutlocation:
   world: survival-1
-  x: -1316.643845330994
-  y: 65.0
-  z: 509.3020723851031
-  yaw: 162.443
-  pitch: 18.451359
+  x: -1317.699999988079
+  y: 63.0
+  z: 510.30000001192093
+  yaw: 111.496826
+  pitch: 36.29961

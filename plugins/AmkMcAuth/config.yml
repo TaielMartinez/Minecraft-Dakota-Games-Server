@@ -55,7 +55,7 @@ login:
     # Spawn in special world (Default="": use default server spawn setting)
     teleportToSpawnWorld: ""
     # useSpawnAtLocation to Spawn at specific Location XYZ coordinates (default=false: use default server spawn setting)
-    useSpawnAtLocation: false
+    useSpawnAtLocation: true
     # if useSpawnAtLocation=true: Spawn at this XYZ coordinates location (must be a valid spawn point/block, otherwise horror??)
     spawnAtLocationX: 0
     spawnAtLocationY: 66
@@ -70,7 +70,7 @@ login:
       # Kick players that take too long to log in?
       enabled: true
       # How long to wait for a player to login before kicking them in seconds
-      wait: 60.0
+      wait: 300.0
 
 # Login sessions. If you log out and log back in, you will not be prompted for a
 # password again if these are configured.

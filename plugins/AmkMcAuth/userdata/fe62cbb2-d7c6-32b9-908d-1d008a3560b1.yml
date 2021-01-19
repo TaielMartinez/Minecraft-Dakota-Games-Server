@@ -3,7 +3,9 @@ login:
   logged_in: true
   password: a2e8978ead65f1a7c27a6ee7a971b321166b5d6ba82f06117c63501af9e61c30677abe1ad9008c454239a9783133dca21749fd8bbe5bf61a6cb079848ccbf389
   hash: AMKAUTH
+  ipaddress: 177.70.145.236
 timestamps:
   join: 1610829024005
   login: 1610829055878
+  quit: 1610838726786
 godmode_expires: 1610829065879

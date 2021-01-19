@@ -180,6 +180,16 @@ Ores:
                   id: QUARTZ
                   buy-price: 8.0
                   sell-price: 2.0
+                '10':
+                  type: SHOP
+                  id: COAL_BLOCK
+                  buy-price: 270.0
+                  sell-price: 90.0
+                '11':
+                  type: SHOP
+                  id: LAPIS_BLOCK
+                  buy-price: 270.0
+                  sell-price: 27.0
 FarmingDrops:
     pages:
         Page0:
@@ -520,9 +530,18 @@ Spawners:
                 '5':
                   type: SHOP
                   id: BOW
-                  buy-price: 8.0
+                  buy-price: 50.0
                   shop-name: '&bArco comun'
-                  Enchatments: infinity:1
+                '6':
+                  type: SHOP
+                  id: ARROW
+                  buy-price: 1.0
+                  shop-name: '&bArco comun'
+                '7':
+                  type: SHOP
+                  id: IRON_PICKAXE
+                  buy-price: 10.0
+                  shop-name: '&bPico comun'
 
 
                   # Hierro Noob
@@ -691,7 +710,7 @@ Spawners:
                   id: DIAMOND_BOOTS
                   buy-price: 100000.0
                   shop-name: '&bBotas Semi-dios'
-                  enchantments: DURABILITY:5 PROTECTION:5 FEATHER_FALLING:2
+                  enchantments: DURABILITY:5 PROTECTION:5 FEATHER_FALLING:4
 
                   # Netherite
                 '45':
@@ -705,7 +724,7 @@ Spawners:
                   id: NETHERITE_PICKAXE
                   buy-price: 2500000.0
                   shop-name: '&bPICO DE DIOS'
-                  enchantments: DURABILITY:10 MENDING:1 FORTUNE:6 EFFICIENCY:10
+                  enchantments: DURABILITY:10 MENDING:1 FORTUNE:3 EFFICIENCY:5
                 '47':
                   type: SHOP
                   id: NETHERITE_SHOVEL

@@ -1,16 +1,16 @@
 lastAccountName: lucas
 timestamps:
-  login: 1610786630829
-  logout: 1610790630775
+  login: 1610838560762
+  logout: 1610839854244
 ipAddress: 181.31.100.26
-money: '11318.19549999999979144'
+money: '12012.99549999999993708'
 logoutlocation:
   world: survival-1
-  x: -616.2631957568415
-  y: 59.0
-  z: -449.7871156533335
-  yaw: 238.7334
-  pitch: 20.922998
+  x: -605.5789658909491
+  y: 64.0
+  z: -454.39208191676516
+  yaw: 50.222286
+  pitch: -2.3443315
 lastlocation:
   world: survival-1
   x: -1854.6865484009259

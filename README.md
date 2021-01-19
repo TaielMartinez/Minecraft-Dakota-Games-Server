@@ -31,6 +31,7 @@ ops - Lista de usuarios administradores
 /spawn - TP al spawn
 /sethome {nombre} - Guarda la ubicacion sobre la que estas parada como "casa"
 /home {nombre} - TP a la ubicacion previamente guardada
+/delhome {nombre} - Borra un home
 /warps - Muestra la lista de ubicaciones
 /warp {nombre} - TP a una ubicacion especifica
 /dc list - Muestra las tumbas (con coordenadas)

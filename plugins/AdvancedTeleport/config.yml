@@ -227,16 +227,16 @@ command-rules:
 ##############
 
 # The maximum X coordinate to go up to when selecting a random location.
-maximum-x: 5000
+maximum-x: 15000
 
 # The maximum Z coordinate to go up to when selecting a random location.
-maximum-z: 5000
+maximum-z: 15000
 
 # The minimum X coordinate to go down to when selecting a random location.
-minimum-x: -5000
+minimum-x: -15000
 
 # The minimum Z coordinate to go down to when selecting a random location.
-minimum-z: -5000
+minimum-z: -15000
 
 # When WorldBorder is installed, AT will check the border of each world instead rather than using the minimum and maximum coordinates.
 use-world-border: true
@@ -265,7 +265,7 @@ allowed-worlds:
 # The default maximum of homes people can have.
 # This can be overridden by giving people permissions such as at.member.homes.10.
 # To disable this, use -1 as provided by default.
-default-homes-limit: 5
+default-homes-limit: 2
 
 # Whether or not the bed home should be added to /homes.
 add-bed-to-homes: false

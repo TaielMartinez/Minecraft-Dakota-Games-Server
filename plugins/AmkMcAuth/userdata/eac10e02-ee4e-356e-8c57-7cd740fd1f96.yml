@@ -1,11 +1,11 @@
 login:
   username: taiel
-  logged_in: true
+  logged_in: false
   password: 66ccb141b9adb2ffaa8851157e1ffac092f54ce62abd47fb0b501d4269d90e312998759ad72a4aef2311a20a62862146e6fdba802c68d02c797d35ddd8e5be6b
   hash: AMKAUTH
   ipaddress: 192.168.1.1
 timestamps:
-  join: 1610603428979
-  login: 1610603442754
-  quit: 1610604594814
-godmode_expires: 1610603452754
+  join: 1611013608310
+  login: 1610996159808
+  quit: 1611013613660
+godmode_expires: 1610999688834
