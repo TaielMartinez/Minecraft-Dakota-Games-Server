@@ -1,0 +1,11 @@
+login:
+  username: CorrentinoRancio
+  logged_in: true
+  password: e0634b3fc6a686da698c1bcfde0923d2e81d55d989394d3bb0950fbf9558f4b4dbfffd90ad81a03c45a719c0512e46726cec0ea6978aae7d6083863910d6d411
+  hash: AMKAUTH
+  ipaddress: 190.137.207.93
+timestamps:
+  join: 1611186666731
+  login: 1611186671283
+  quit: 1611190891091
+godmode_expires: 1611186681284

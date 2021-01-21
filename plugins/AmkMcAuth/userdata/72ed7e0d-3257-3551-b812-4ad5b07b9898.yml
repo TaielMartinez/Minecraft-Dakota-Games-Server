@@ -1,0 +1,11 @@
+login:
+  username: Ganskaiser
+  logged_in: true
+  password: 67cbed62c0aa581e58ce59209c217dea0a49115324df062820a2041bda7a59ae7ddebbf84e0f68e0e3cdb02c62bb2af524c241742ae9520484d1f8d4274ba4f3
+  hash: AMKAUTH
+  ipaddress: 138.219.250.135
+timestamps:
+  join: 1611119672594
+  login: 1611114650910
+  quit: 1611119757062
+godmode_expires: 1611119682594

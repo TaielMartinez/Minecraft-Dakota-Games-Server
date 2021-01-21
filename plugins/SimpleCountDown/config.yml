@@ -1,0 +1,25 @@
+# SimpleCountDown v1.3 Config
+# 
+# StartCountDownText is the message shown when a player starts a new countdown.
+# EndedCountDownText is the message shown when a countdown has ended.
+# CommandsList holds all count down names. You can do /countdown start <time> <commandslist>
+# NoticeTimesInSeconds is a list of integers that represent time values. When time is equal to such a integer, a message will be shown
+# how much time is left. By default SimpleCountdown will show a message on 300 seconds, 60, 30 and 10 seconds.
+# DisplayTextOn let's you show text on a specific time mark. The digit after the '>' sign, is the time (in seconds) that it will be shown at
+# 
+# You can use special variables in commandslists:
+# 	%onlineplayers% perform a command for every online player
+StartCountDownText: A countdown has been started by &6%player%&f and will last %duration%
+EndedCountDownText: '&eCountdown has ended!'
+CommandsList:
+  herobrine:
+  - broadcast I am herobrine!
+  staartvin:
+  - broadcast Staartvin is awesome!
+NoticeTimesInSeconds:
+- '10'
+- '30'
+- '60'
+- '300'
+DisplayTextOn:
+- '&eTen seconds to go!>10'

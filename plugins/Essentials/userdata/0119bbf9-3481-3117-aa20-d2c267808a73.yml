@@ -1,22 +1,22 @@
 lastAccountName: chymuelo
 timestamps:
-  login: 1611020559128
-  logout: 1611021483676
+  login: 1611189701887
+  logout: 1611189916987
   kits:
     inicio: 1610680157687
 ipAddress: 196.32.66.162
 logoutlocation:
   world: survival-1
-  x: 180.8671274777366
-  y: 71.0
-  z: 27.254268720526568
-  yaw: -157.05072
-  pitch: 19.949942
+  x: 180.5
+  y: 77.0
+  z: 27.5
+  yaw: 106.92114
+  pitch: 0.0
 lastlocation:
-  world: survival-1
-  x: 96.30000001192093
-  y: 65.0
-  z: -21.699999988079067
-  yaw: -107.22393
-  pitch: 8.699973
-money: '45.945899999999998'
+  world: survival-1_nether
+  x: -116.2162015793452
+  y: 44.0
+  z: 143.69999998807907
+  yaw: 277.95087
+  pitch: 21.450245
+money: '27.1186000000000084'

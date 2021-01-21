@@ -1,1 +1,1 @@
-{"SURVIVAL":{"stats":{"el":"0","xp":"0.0","txp":"0"}}}
+{"SURVIVAL":{"inventoryContents":{},"potions":[],"bedSpawnLocation":{"==":"org.bukkit.Location","world":"survival-1","x":-4926.5,"y":85.5625,"z":3650.5,"pitch":0.0,"yaw":0.0},"armorContents":{},"enderChestContents":{},"offHandItem":{"==":"org.bukkit.inventory.ItemStack","v":2584,"type":"AIR","amount":0},"stats":{"ex":"0.0","ma":"300","fl":"20","el":"0","xp":"0.0","hp":"20.0","txp":"0","ft":"-20","fd":"0.0","sa":"5.0","ra":"300"}}}

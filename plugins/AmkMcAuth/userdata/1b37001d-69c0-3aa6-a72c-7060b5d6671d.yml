@@ -1,0 +1,11 @@
+login:
+  username: TheMasterSlow10
+  logged_in: true
+  password: 7a897de278fff7da39fa4e43045ccf263e5221434f83114c524328d12973b236a9a89f8689e4baf136b8ef89da7a9763104f40a33389bb6fb38542c92ce11140
+  hash: AMKAUTH
+  ipaddress: 190.30.134.29
+timestamps:
+  join: 1611194658104
+  login: 1611194667103
+  quit: 1611190522099
+godmode_expires: 1611194677103

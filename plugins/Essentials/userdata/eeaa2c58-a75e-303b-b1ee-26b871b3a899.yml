@@ -1,18 +1,18 @@
 lastAccountName: FERNANFLOW
 timestamps:
-  login: 1610880429352
-  logout: 1610889032911
+  login: 1611191633791
+  logout: 1611191626142
   kits:
     inicio: 1610588396289
-ipAddress: 190.14.158.252
+ipAddress: 190.14.158.253
 logoutlocation:
-  world: survival-1
-  x: -893.2213729035562
-  y: 63.0
-  z: -398.09054631328365
-  yaw: -316.68738
-  pitch: 6.205397
-money: '282.48364999999452223'
+  world: survival-1_the_end
+  x: 1066.818007941829
+  y: 149.01035877123311
+  z: 1996.910175456687
+  yaw: 119.05687
+  pitch: 27.735294
+money: '1169.51764999999456333'
 lastlocation:
   world: survival-1_nether
   x: -6.409869318988441

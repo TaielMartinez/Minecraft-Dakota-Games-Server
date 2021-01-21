@@ -1,15 +1,22 @@
 lastAccountName: RodolffHD
 timestamps:
-  login: 1610994853834
+  login: 1611192686963
   kits:
     inicio: 1610662510577
-  logout: 1610996176813
+  logout: 1611162352631
 ipAddress: 181.165.71.49
-money: '104926.69902500000334453'
+money: '123321.34872500000352903'
 logoutlocation:
   world: survival-1
-  x: -891.3000000119209
-  y: 67.0
-  z: -392.61293922746705
-  yaw: 92.89221
-  pitch: 20.750847
+  x: -885.9240749951932
+  y: 63.0
+  z: -396.6826024475001
+  yaw: 33.935852
+  pitch: 33.158295
+lastlocation:
+  world: survival-1
+  x: -893.849799376026
+  y: 63.0
+  z: -394.7604589485126
+  yaw: 86.810135
+  pitch: 11.315722

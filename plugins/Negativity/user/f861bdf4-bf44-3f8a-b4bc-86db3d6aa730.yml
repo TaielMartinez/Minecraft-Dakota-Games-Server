@@ -1,0 +1,17 @@
+playername: Panda_R3D
+lang: en_US
+minerate-full-mined: 1442
+minerate:
+  diamond: 32
+  gold: 0
+  iron: 22
+  coal: 34
+  ancient debris: 0
+better-click: 6
+cheats:
+  timer: 3
+  fly: 1
+  pingspoof: 2
+  fastladder: 1
+  fastplace: 3
+creation-time: 1611093512328

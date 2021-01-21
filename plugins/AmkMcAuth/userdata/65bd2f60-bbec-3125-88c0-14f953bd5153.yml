@@ -1,0 +1,11 @@
+login:
+  username: SrQuAqUin
+  logged_in: true
+  password: 61099f3962b28d5585a96cdf8be5d1500c35adff88452791db2fe616a0025c02f177ee75efdc74b48346127f12392e8ab4078a7cd8329ab3df2fb4a77dcdf1d2
+  hash: AMKAUTH
+  ipaddress: 181.90.140.121
+timestamps:
+  join: 1611119343704
+  login: 1611110448613
+  quit: 1611119777464
+godmode_expires: 1611119353704

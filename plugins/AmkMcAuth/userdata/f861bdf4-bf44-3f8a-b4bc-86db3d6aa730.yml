@@ -1,0 +1,11 @@
+login:
+  username: Panda_R3D
+  logged_in: true
+  password: ee59ed441f283ed7cd8833034808b277b1c486cada8db1f66684ce4e96d8aec5cc10a55569162dbe321ab02db2b542b89497531c6ec480f3babd21702bf0078a
+  hash: AMKAUTH
+  ipaddress: 45.175.149.228
+timestamps:
+  join: 1611096364875
+  login: 1611093525636
+  quit: 1611097526067
+godmode_expires: 1611096374876

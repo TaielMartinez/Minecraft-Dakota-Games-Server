@@ -1,0 +1,11 @@
+login:
+  username: Lukahx1
+  logged_in: true
+  password: 0f4b3dd66f0fbf734a60e2789f9a9611fc7b413474c2a50b0f218f6536e4397810ddd8b3e9a734c72fa05b041daecdc6a6f0b0b8a5b4d545e4ba836c786f944b
+  hash: AMKAUTH
+  ipaddress: 186.139.235.134
+timestamps:
+  join: 1611094090749
+  login: 1611094110580
+  quit: 1611094678722
+godmode_expires: 1611094120580

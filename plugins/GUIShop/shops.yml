@@ -190,6 +190,11 @@ Ores:
                   id: LAPIS_BLOCK
                   buy-price: 270.0
                   sell-price: 27.0
+                '12':
+                  type: SHOP
+                  id: GOLD_BLOCK
+                  buy-price: 1350.0
+                  sell-price: 900.0
 FarmingDrops:
     pages:
         Page0:

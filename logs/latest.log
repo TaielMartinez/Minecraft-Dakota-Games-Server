@@ -1,20 +1,19 @@
-[13:02:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:02:15] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[13:02:16] [Worker-Main-14/INFO]: Loaded 7 recipes
-[13:02:17] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[13:02:17] [Server thread/INFO]: Loading properties
-[13:02:17] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a56d446-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[13:02:17] [Server thread/INFO]: Debug logging is disabled
-[13:02:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:02:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:02:17] [Server thread/INFO]: Default game type: SURVIVAL
-[13:02:17] [Server thread/INFO]: Generating keypair
-[13:02:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:02:18] [Server thread/INFO]: Using default channel type
-[13:02:20] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[13:02:22] [Server thread/WARN]: Legacy plugin Visage v1.0.7-SNAPSHOT does not specify an api-version.
-[13:02:22] [Server thread/WARN]: Legacy plugin Warden v1.2 does not specify an api-version.
-[13:02:22] [Server thread/ERROR]: Could not load 'plugins\AntiCheatReloaded.jar' in folder 'plugins'
+[20:49:52] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:49:52] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:49:53] [Worker-Main-13/INFO]: Loaded 7 recipes
+[20:49:54] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[20:49:54] [Server thread/INFO]: Loading properties
+[20:49:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a56d446-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[20:49:55] [Server thread/INFO]: Debug logging is disabled
+[20:49:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:49:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:49:56] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:56] [Server thread/INFO]: Generating keypair
+[20:49:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:56] [Server thread/INFO]: Using default channel type
+[20:49:57] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:50:00] [Server thread/WARN]: Legacy plugin Visage v1.0.7-SNAPSHOT does not specify an api-version.
+[20:50:00] [Server thread/ERROR]: Could not load 'plugins\AntiCheatReloaded.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
@@ -22,11 +21,12 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:22] [Server thread/WARN]: Legacy plugin AntiLag v2.0 does not specify an api-version.
-[13:02:23] [Server thread/WARN]: Legacy plugin Skillz v5.8 does not specify an api-version.
-[13:02:23] [Server thread/WARN]: Legacy plugin ChatLog v1.11.0 does not specify an api-version.
-[13:02:23] [Server thread/WARN]: Legacy plugin AmkMcAuth v1.3.4 does not specify an api-version.
-[13:02:23] [Server thread/ERROR]: Could not load 'plugins\Kauri-Free.jar' in folder 'plugins'
+[20:50:00] [Server thread/WARN]: Legacy plugin AntiLag v2.0 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin SimpleCountDown v1.3 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin Skillz v5.8 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin ChatLog v1.11.0 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin AmkMcAuth v1.3.4 does not specify an api-version.
+[20:50:01] [Server thread/ERROR]: Could not load 'plugins\Kauri-Free.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown dependency Atlas. Please download and install Atlas to run this plugin.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
@@ -34,7 +34,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Atlas. Please d
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:23] [Server thread/ERROR]: Could not load 'plugins\WitherAC_0.23.1.jar' in folder 'plugins'
+[20:50:01] [Server thread/ERROR]: Could not load 'plugins\WitherAC_0.23.1.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Please download and install ProtocolLib to run this plugin.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:269) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServer.java:383) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
@@ -42,202 +42,203 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ProtocolLib. Pl
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:23] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
-[13:02:23] [Server thread/WARN]: Legacy plugin EnderSpawn v1.2 does not specify an api-version.
-[13:02:23] [Server thread/WARN]: Legacy plugin Voting v2.6.0 does not specify an api-version.
-[13:02:23] [Server thread/INFO]: [Visage] Loading Visage v1.0.7-SNAPSHOT
-[13:02:23] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.76
-[13:02:24] [Server thread/INFO]: [Warden] Loading Warden v1.2
-[13:02:24] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.5
-[13:02:24] [Server thread/INFO]: [AntiLag] Loading AntiLag v2.0
-[13:02:24] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
-[13:02:24] [Server thread/INFO]: [SoaromaSAC] Loading SoaromaSAC v0.9.62
-[13:02:24] [Server thread/INFO]: [PlayerTracker] Loading PlayerTracker v1.5.1
-[13:02:24] [Server thread/INFO]: [Skillz] Loading Skillz v5.8
-[13:02:24] [Server thread/INFO]: [ChatLog] Loading ChatLog v1.11.0
-[13:02:24] [Server thread/INFO]: [AmkMcAuth] Loading AmkMcAuth v1.3.4
-[13:02:24] [Server thread/INFO]: [OpenAFK] Loading OpenAFK v1.1.2
-[13:02:24] [Server thread/INFO]: [ServerRestorer] Loading ServerRestorer v1.0.39
-[13:02:24] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[13:02:24] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[13:02:24] [Server thread/INFO]: [EnderSpawn] Loading EnderSpawn v1.2
-[13:02:24] [Server thread/INFO]: [EnderSpawn] Successfully loaded all data.
-[13:02:24] [Server thread/INFO]: [BottledExp] Loading BottledExp v2.2.8.2
-[13:02:24] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.1+299386a
-[13:02:25] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@30e87005]
-[13:02:25] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
-[13:02:25] [Server thread/INFO]: [Voting] Loading Voting v2.6.0
-[13:02:25] [Server thread/INFO]: [CommandPanels] Loading CommandPanels v3.15.1.2
-[13:02:25] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
-[13:02:25] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
-[13:02:25] [Server thread/INFO]: [GUIShop] Loading GUIShop v8.4
-[13:02:25] [Server thread/INFO]: [antiRedstoneClock] Loading antiRedstoneClock v1.4.0
-[13:02:25] [Server thread/INFO]: [antiRedstoneClock] WorldGuard 7 found
-[13:02:25] [Server thread/INFO]: [antiRedstoneClock] Flag antiredstoneclock registered
-[13:02:25] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.21.2
-[13:02:25] [Server thread/INFO]: [AdvancedTeleport] Loading AdvancedTeleport v5.4-SNAPSHOT-1
-[13:02:25] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v3.0.0-b459
-[13:02:25] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
-[13:02:25] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
-[13:02:25] [Server thread/INFO]: [Negativity] Loading Negativity v1.9.6
-[13:02:25] [Server thread/INFO]: [ProtectionStones] Loading ProtectionStones v2.7.7
-[13:02:25] [Server thread/INFO]: [SimpleScore] Loading SimpleScore v3.6.2
-[13:02:25] [Server thread/INFO]: [Jobs] Loading Jobs v4.17.0
-[13:02:25] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.3.0
-[13:02:25] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
-[13:02:25] [Server thread/INFO]: [Drop2Inventory] Loading Drop2Inventory v4.8.0
-[13:02:25] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.76
-[13:02:25] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
-[13:02:25] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.2.76[m
-[13:02:25] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
-[13:02:25] [Server thread/INFO]: [m
-[13:02:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[13:02:25] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[13:02:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[13:02:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[13:02:26] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1202ms)
-[13:02:26] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[13:02:26] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[13:02:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[13:02:26] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[13:02:26] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[13:02:26] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[13:02:26] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.1+299386a
-[13:02:26] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[13:02:27] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
-[13:02:27] [Server thread/WARN]: [WorldEdit] ====================================================
-[13:02:27] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[13:02:27] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[13:02:27] [Server thread/WARN]: [WorldEdit]   
-[13:02:27] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[13:02:27] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[13:02:27] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[13:02:27] [Server thread/WARN]: [WorldEdit]   
-[13:02:27] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[13:02:27] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[13:02:27] [Server thread/WARN]: [WorldEdit]   
-[13:02:27] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[13:02:27] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[13:02:27] [Server thread/WARN]: [WorldEdit]   
-[13:02:27] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[13:02:27] [Server thread/WARN]: [WorldEdit] ====================================================
-[13:02:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:02:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:02:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:02:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:02:27] [Server thread/INFO]: Preparing level "survival-1"
-[13:02:27] [Server thread/INFO]: -------- World Settings For [survival-1] --------
-[13:02:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:02:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:02:27] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:02:27] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:02:27] [Server thread/INFO]: View Distance: 10
-[13:02:27] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:02:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:02:27] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:02:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:02:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:02:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:02:27] [Server thread/INFO]: Max TNT Explosions: 100
-[13:02:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:02:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:02:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:02:27] [Server thread/INFO]: Mob Spawn Range: 6
-[13:02:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:02:28] [Server thread/INFO]: -------- World Settings For [survival-1_nether] --------
-[13:02:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:02:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:02:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:02:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:02:28] [Server thread/INFO]: View Distance: 10
-[13:02:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:02:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:02:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:02:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:02:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:02:28] [Server thread/INFO]: Max TNT Explosions: 100
-[13:02:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:02:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:02:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:02:28] [Server thread/INFO]: Mob Spawn Range: 6
-[13:02:28] [Server thread/INFO]: -------- World Settings For [survival-1_the_end] --------
-[13:02:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:02:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:02:28] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:02:28] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:02:28] [Server thread/INFO]: View Distance: 10
-[13:02:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:02:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:02:28] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:02:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:02:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:02:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:02:28] [Server thread/INFO]: Max TNT Explosions: 100
-[13:02:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:02:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:02:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:02:28] [Server thread/INFO]: Mob Spawn Range: 6
-[13:02:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:02:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:29] [Server thread/INFO]: Preparing spawn area: 59%
-[13:02:29] [Server thread/INFO]: Time elapsed: 1140 ms
-[13:02:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:02:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:30] [Server thread/INFO]: Time elapsed: 854 ms
-[13:02:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:02:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:30] [Server thread/INFO]: Time elapsed: 257 ms
-[13:02:30] [Server thread/INFO]: [Visage] Enabling Visage v1.0.7-SNAPSHOT
-[13:02:30] [Server thread/INFO]: [Visage] Trying to start visage...[m
-[13:02:30] [Server thread/ERROR]: Error occurred while enabling Visage v1.0.7-SNAPSHOT (Is it up to date?)
+[20:50:01] [Server thread/WARN]: Legacy plugin PingTab v1.3.5 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin EnderSpawn v1.2 does not specify an api-version.
+[20:50:01] [Server thread/WARN]: Legacy plugin Voting v2.6.0 does not specify an api-version.
+[20:50:01] [Server thread/INFO]: [Visage] Loading Visage v1.0.7-SNAPSHOT
+[20:50:01] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.76
+[20:50:02] [Server thread/INFO]: [SeePlayerInventory] Loading SeePlayerInventory v2.7.1
+[20:50:02] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.5
+[20:50:02] [Server thread/INFO]: [AntiLag] Loading AntiLag v2.0
+[20:50:02] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
+[20:50:02] [Server thread/INFO]: [SimpleCountDown] Loading SimpleCountDown v1.3
+[20:50:02] [Server thread/INFO]: [SoaromaSAC] Loading SoaromaSAC v0.9.62
+[20:50:02] [Server thread/INFO]: [PlayerTracker] Loading PlayerTracker v1.5.1
+[20:50:02] [Server thread/INFO]: [Skillz] Loading Skillz v5.8
+[20:50:02] [Server thread/INFO]: [ChatLog] Loading ChatLog v1.11.0
+[20:50:02] [Server thread/INFO]: [AmkMcAuth] Loading AmkMcAuth v1.3.4
+[20:50:02] [Server thread/INFO]: [OpenAFK] Loading OpenAFK v1.1.2
+[20:50:02] [Server thread/INFO]: [ServerRestorer] Loading ServerRestorer v1.0.39
+[20:50:02] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[20:50:02] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[20:50:02] [Server thread/INFO]: [EnderSpawn] Loading EnderSpawn v1.2
+[20:50:02] [Server thread/INFO]: [EnderSpawn] Successfully loaded all data.
+[20:50:02] [Server thread/INFO]: [BottledExp] Loading BottledExp v2.2.8.2
+[20:50:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.1+299386a
+[20:50:03] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2392add1]
+[20:50:03] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.2.0
+[20:50:03] [Server thread/INFO]: [Voting] Loading Voting v2.6.0
+[20:50:03] [Server thread/INFO]: [CommandPanels] Loading CommandPanels v3.15.1.2
+[20:50:03] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[20:50:03] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.4+f7ff984
+[20:50:03] [Server thread/INFO]: [GUIShop] Loading GUIShop v8.4
+[20:50:03] [Server thread/INFO]: [antiRedstoneClock] Loading antiRedstoneClock v1.4.0
+[20:50:03] [Server thread/INFO]: [antiRedstoneClock] WorldGuard 7 found
+[20:50:03] [Server thread/INFO]: [antiRedstoneClock] Flag antiredstoneclock registered
+[20:50:03] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.21.2
+[20:50:03] [Server thread/INFO]: [AdvancedTeleport] Loading AdvancedTeleport v5.4-SNAPSHOT-1
+[20:50:03] [Server thread/INFO]: [Multiverse-Inventories] Loading Multiverse-Inventories v3.0.0-b459
+[20:50:03] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.18.2.0
+[20:50:03] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.18.2.0
+[20:50:03] [Server thread/INFO]: [Negativity] Loading Negativity v1.9.6
+[20:50:03] [Server thread/INFO]: [ProtectionStones] Loading ProtectionStones v2.7.7
+[20:50:03] [Server thread/INFO]: [SimpleScore] Loading SimpleScore v3.6.2
+[20:50:03] [Server thread/INFO]: [Jobs] Loading Jobs v4.17.0
+[20:50:03] [Server thread/INFO]: [DeadChest] Loading DeadChest v4.3.0
+[20:50:03] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[20:50:03] [Server thread/INFO]: [Drop2Inventory] Loading Drop2Inventory v4.8.0
+[20:50:03] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.76
+[20:50:03] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[20:50:03] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.2.76[m
+[20:50:03] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[20:50:03] [Server thread/INFO]: [m
+[20:50:03] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:50:04] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:50:04] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:50:04] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:50:05] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1532ms)
+[20:50:05] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:50:05] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.18.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[20:50:05] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[20:50:05] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:50:05] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:50:05] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[20:50:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.1+299386a
+[20:50:05] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:50:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[20:50:06] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:50:06] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[20:50:06] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[20:50:06] [Server thread/WARN]: [WorldEdit]   
+[20:50:06] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[20:50:06] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[20:50:06] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[20:50:06] [Server thread/WARN]: [WorldEdit]   
+[20:50:06] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[20:50:06] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[20:50:06] [Server thread/WARN]: [WorldEdit]   
+[20:50:06] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[20:50:06] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[20:50:06] [Server thread/WARN]: [WorldEdit]   
+[20:50:06] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[20:50:06] [Server thread/WARN]: [WorldEdit] ====================================================
+[20:50:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:50:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:50:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:50:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:50:06] [Server thread/INFO]: Preparing level "survival-1"
+[20:50:06] [Server thread/INFO]: -------- World Settings For [survival-1] --------
+[20:50:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:06] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:06] [Server thread/INFO]: View Distance: 10
+[20:50:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:50:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:06] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:06] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:50:06] [Server thread/INFO]: -------- World Settings For [survival-1_nether] --------
+[20:50:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:06] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:06] [Server thread/INFO]: View Distance: 10
+[20:50:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:50:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:06] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:06] [Server thread/INFO]: -------- World Settings For [survival-1_the_end] --------
+[20:50:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:06] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:06] [Server thread/INFO]: View Distance: 10
+[20:50:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:50:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:06] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:50:07] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:07] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:07] [Server thread/INFO]: Preparing spawn area: 1%
+[20:50:08] [Server thread/INFO]: Time elapsed: 1295 ms
+[20:50:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:50:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:08] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:09] [Server thread/INFO]: Time elapsed: 970 ms
+[20:50:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:50:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:09] [Server thread/INFO]: Time elapsed: 333 ms
+[20:50:09] [Server thread/INFO]: [Visage] Enabling Visage v1.0.7-SNAPSHOT
+[20:50:09] [Server thread/INFO]: [Visage] Trying to start visage...[m
+[20:50:09] [Server thread/ERROR]: Error occurred while enabling Visage v1.0.7-SNAPSHOT (Is it up to date?)
 java.lang.NoClassDefFoundError: cc/funkemunky/api/events/AtlasListener
 	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_271]
 	at java.lang.ClassLoader.defineClass(Unknown Source) ~[?:1.8.0_271]
@@ -266,40 +267,22 @@ Caused by: java.lang.ClassNotFoundException: cc.funkemunky.api.events.AtlasListe
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_271]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_271]
 	... 20 more
-[13:02:30] [Server thread/INFO]: [Warden] Enabling Warden v1.2
-[13:02:32] [pool-14-thread-1/INFO]: [PacketEvents] Checking for an update, please wait...
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura B has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura C has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura D has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura E has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m KillAura F has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Reach A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m FastClimb A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Flight A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Flight B has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Flight C has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Flight D has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Flight E has been [31mdisabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Gravity A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Invalid A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Invalid B has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Jesus A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Speed A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Speed B has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m BadPackets A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m BadPackets B has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m FastPlace A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Timer A has been [36menabled[0m
-[13:02:32] [Server thread/INFO]: [36m([34mWarden[36m)[0m Enabled Warden!
-[13:02:32] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.5
-[13:02:32] [Server thread/INFO]: [AntiLag] Enabling AntiLag v2.0
-[13:02:32] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
-[13:02:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[13:02:32] [Server thread/INFO]: [SoaromaSAC] Enabling SoaromaSAC v0.9.62
-[13:02:32] [Server thread/INFO]: [PlayerTracker] Enabling PlayerTracker v1.5.1
-[13:02:32] [Server thread/INFO]: [Skillz] Enabling Skillz v5.8
-[13:02:32] [Server thread/ERROR]: Error occurred while enabling Skillz v5.8 (Is it up to date?)
+[20:50:09] [Server thread/INFO]: [SeePlayerInventory] Enabling SeePlayerInventory v2.7.1
+[20:50:09] [Server thread/INFO]: [36m[SeePlayerInventory] [32mSeePlayerInventory Enabled.[0m
+[20:50:09] [Server thread/INFO]: [36m[SeePlayerInventory] [32mPlugin by [33m[peti446][0m
+[20:50:09] [Server thread/INFO]: [36m[SeePlayerInventory] [32mVersion: [33m2.7.1[0m
+[20:50:09] [Server thread/INFO]: [36m[SeePlayerInventory] [32mChecking for updates.............[0m
+[20:50:09] [Server thread/INFO]: [36m[SeePlayerInventory] [32mChecking for updates................[0m
+[20:50:10] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.5
+[20:50:10] [Server thread/INFO]: [AntiLag] Enabling AntiLag v2.0
+[20:50:10] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
+[20:50:10] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:50:10] [Server thread/INFO]: [SimpleCountDown] Enabling SimpleCountDown v1.3
+[20:50:10] [Server thread/INFO]: [SimpleCountDown] SimpleCountDown v1.3 has been enabled!
+[20:50:10] [Server thread/INFO]: [SoaromaSAC] Enabling SoaromaSAC v0.9.62
+[20:50:10] [Server thread/INFO]: [PlayerTracker] Enabling PlayerTracker v1.5.1
+[20:50:10] [Server thread/INFO]: [Skillz] Enabling Skillz v5.8
+[20:50:10] [Server thread/ERROR]: Error occurred while enabling Skillz v5.8 (Is it up to date?)
 java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(I)V
 	at nl.lolmen.Skills.SkillManager.loadSkillsSettings(SkillManager.java:188) ~[?:?]
 	at nl.lolmen.Skillz.Skillz.loadSkillz(Skillz.java:148) ~[?:?]
@@ -314,143 +297,142 @@ java.lang.NoSuchMethodError: org.bukkit.inventory.ItemStack.<init>(I)V
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:32] [Server thread/INFO]: [ChatLog] Enabling ChatLog v1.11.0
-[13:02:32] [Server thread/INFO]: [ChatLog] Loading MySQL ...
-[13:02:32] [pool-14-thread-1/INFO]: [PacketEvents] There is an update available for the PacketEvents API! Your build: (1.7.5) | Update: (1.7.9)
-[13:02:39] [Server thread/WARN]: [ChatLog] Failled to load MySQL: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+[20:50:10] [Server thread/INFO]: [ChatLog] Enabling ChatLog v1.11.0
+[20:50:10] [Server thread/INFO]: [ChatLog] Loading MySQL ...
+[20:50:17] [Server thread/WARN]: [ChatLog] Failled to load MySQL: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
 
 The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
-[13:02:39] [Server thread/INFO]: [ChatLog] Loading bStats ...
-[13:02:39] [Server thread/INFO]: [ChatLog] bStats successfully loaded.
-[13:02:39] [Server thread/INFO]: [ChatLog] Skipping Cleanup because it is disabled.
-[13:02:39] [Server thread/INFO]: [ChatLog] Plugin successfully started.
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] Enabling AmkMcAuth v1.3.4
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] Configuration settings loaded/reloaded from config.yml.
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] User profile data AutoSave Task is started (interval: 5 minutes)
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] Counting PlayerBase, IP-Adresses and nlp-players.
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] Counting done, PlayerBaseCount: 38, Ip-AddressCount: 29, nlp-PlayerCount: 0.
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] Metrics enabled. Thank you!
-[13:02:39] [Server thread/INFO]: [AmkMcAuth] AmkMcAuth v1.3.4 enabled.
-[13:02:39] [Server thread/INFO]: [OpenAFK] Enabling OpenAFK v1.1.2
-[13:02:39] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
-[13:02:39] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
-[13:02:39] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
-[13:02:39] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
-[13:02:39] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
-[13:02:39] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
-[13:02:39] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
-[13:02:39] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
-[13:02:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: openafk
-[13:02:39] [Server thread/INFO]: [ServerRestorer] Enabling ServerRestorer v1.0.39
-[13:02:39] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
-[13:02:39] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[13:02:39] [Server thread/INFO]: [PingTab] Checking for new versions...
-[13:02:40] [Thread-17/INFO]: [AmkMcAuth] You have the Latest AmkMcAuth Version (1.3.4) running.
-[13:02:40] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[13:02:40] [Server thread/INFO]: [EnderSpawn] Enabling EnderSpawn v1.2
-[13:02:40] [Server thread/WARN]: [EnderSpawn] "EnderSpawn v1.2" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void org.enderspawn.EnderSpawnListener.onEntityCreatePortal(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Glitchfinder].
-[13:02:40] [Server thread/INFO]: [BottledExp] Enabling BottledExp v2.2.8.2
-[13:02:44] [Server thread/INFO]: [0;36;22m[BottledExp][0;33;22m Version 2.2.8.2 has been enabled[m
-[13:02:44] [Server thread/INFO]: [BottledExp] Using LuckPerms via Vault.
-[13:02:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
-[13:02:44] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
-[13:02:44] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[13:02:44] [Server thread/INFO]: No kits found to migrate.
-[13:02:44] [Server thread/INFO]: Loaded 25599 items from items.json.
-[13:02:44] [Server thread/INFO]: Using locale es_AR
-[13:02:44] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[13:02:44] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[13:02:44] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[13:02:44] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[13:02:44] [Server thread/INFO]: [Voting] Enabling Voting v2.6.0
-[13:02:44] [Server thread/INFO]: [0;37;22m[Voting] Plugin enabled![m
-[13:02:44] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.15.1.2
-[13:02:44] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.2 Plugin Loading...
-[13:02:44] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.2 Plugin Loaded!
-[13:02:44] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
-[13:02:44] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[13:02:44] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[13:02:44] [Server thread/INFO]: -------- World Settings For [spawn] --------
-[13:02:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:02:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:02:44] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:02:44] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:02:44] [Server thread/INFO]: View Distance: 10
-[13:02:44] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:02:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:02:44] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:02:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:02:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:02:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:02:44] [Server thread/INFO]: Max TNT Explosions: 100
-[13:02:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:02:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:02:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:02:44] [Server thread/INFO]: Mob Spawn Range: 6
-[13:02:44] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
-[13:02:44] [Server thread/INFO]: Preparing spawn area: 0%
-[13:02:44] [Worker-Main-22/INFO]: Preparing spawn area: 87%
-[13:02:45] [Server thread/INFO]: Preparing spawn area: 98%
-[13:02:45] [Server thread/INFO]: Time elapsed: 1059 ms
-[13:02:45] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[13:02:45] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[13:02:45] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1) TNT ignition is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1) Lighters are PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1) Lava fire is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1) Fire spread is UNRESTRICTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1'
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_nether) TNT ignition is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lighters are PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lava fire is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Fire spread is UNRESTRICTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_nether'
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) TNT ignition is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lighters are PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lava fire is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Fire spread is UNRESTRICTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_the_end'
-[13:02:45] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
-[13:02:45] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
-[13:02:45] [Server thread/INFO]: [WorldGuard] Loading region data...
-[13:02:46] [Server thread/INFO]: [GUIShop] Enabling GUIShop v8.4
-[13:02:46] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
-[13:02:46] [Server thread/INFO]: [GUIShop] Warming Items...
-[13:02:46] [Server thread/INFO]: [GUIShop] Item warming completed in: 179ms
-[13:02:46] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
-[13:02:46] [Server thread/INFO]: [antiRedstoneClock] Enabling antiRedstoneClock v1.4.0
-[13:02:46] [Server thread/INFO]: [antiRedstoneClock] Enabling Metrics
-[13:02:46] [Server thread/INFO]: [antiRedstoneClock] Metrics loaded
-[13:02:46] [Server thread/WARN]: [antiRedstoneClock] PlotSquared hasn't been found!
-[13:02:46] [Server thread/INFO]: [antiRedstoneClock] Plugin loaded in 11 ms
-[13:02:46] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.21.2
-[13:02:46] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v5.4-SNAPSHOT-1
-[13:02:46] [Server thread/INFO]: Advanced Teleport is now enabling...
-[13:02:46] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v3.0.0-b459
-[13:02:46] [Server thread/INFO]: [Multiverse-Inventories 3.0.0-b459] enabled.
-[13:02:46] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
-[13:02:46] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[13:02:46] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
-[13:02:46] [Server thread/ERROR]: ¡No se encontró ninguna clave de licencia! Por favor visite https://essentialsx.cf/geoip para obtener instrucciones de configuración por primera vez.
-[13:02:46] [Server thread/ERROR]: ¡Error al leer la base de datos de GeoIP!
+[20:50:17] [Server thread/INFO]: [ChatLog] Loading bStats ...
+[20:50:17] [Server thread/INFO]: [ChatLog] bStats successfully loaded.
+[20:50:17] [Server thread/INFO]: [ChatLog] Skipping Cleanup because it is disabled.
+[20:50:17] [Server thread/INFO]: [ChatLog] Plugin successfully started.
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] Enabling AmkMcAuth v1.3.4
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] Configuration settings loaded/reloaded from config.yml.
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] User profile data AutoSave Task is started (interval: 5 minutes)
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] Counting PlayerBase, IP-Adresses and nlp-players.
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] Counting done, PlayerBaseCount: 43, Ip-AddressCount: 34, nlp-PlayerCount: 0.
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] Metrics enabled. Thank you!
+[20:50:17] [Server thread/INFO]: [AmkMcAuth] AmkMcAuth v1.3.4 enabled.
+[20:50:17] [Server thread/INFO]: [OpenAFK] Enabling OpenAFK v1.1.2
+[20:50:17] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
+[20:50:17] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
+[20:50:17] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
+[20:50:17] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
+[20:50:17] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
+[20:50:17] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
+[20:50:17] [Server thread/WARN]: [OpenAFK] [AfkAreaAction] No AFK area was set. Set it with /openafk set afkarea and then reload the server.
+[20:50:17] [Server thread/WARN]: [OpenAFK] Action afkarea had an issue with the config provided.
+[20:50:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: openafk
+[20:50:17] [Server thread/INFO]: [ServerRestorer] Enabling ServerRestorer v1.0.39
+[20:50:17] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[20:50:17] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[20:50:17] [Server thread/INFO]: [PingTab] Checking for new versions...
+[20:50:17] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[20:50:17] [Server thread/INFO]: [EnderSpawn] Enabling EnderSpawn v1.2
+[20:50:17] [Server thread/WARN]: [EnderSpawn] "EnderSpawn v1.2" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void org.enderspawn.EnderSpawnListener.onEntityCreatePortal(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Glitchfinder].
+[20:50:17] [Server thread/INFO]: [BottledExp] Enabling BottledExp v2.2.8.2
+[20:50:18] [Thread-16/INFO]: [AmkMcAuth] You have the Latest AmkMcAuth Version (1.3.4) running.
+[20:50:21] [Server thread/INFO]: [0;36;22m[BottledExp][0;33;22m Version 2.2.8.2 has been enabled[m
+[20:50:21] [Server thread/INFO]: [BottledExp] Using LuckPerms via Vault.
+[20:50:21] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.2.0
+[20:50:21] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[20:50:22] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[20:50:22] [Server thread/INFO]: No kits found to migrate.
+[20:50:22] [Server thread/INFO]: Loaded 25599 items from items.json.
+[20:50:22] [Server thread/INFO]: Using locale es_AR
+[20:50:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:50:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:50:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[20:50:22] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[20:50:22] [Server thread/INFO]: [Voting] Enabling Voting v2.6.0
+[20:50:22] [Server thread/INFO]: [0;37;22m[Voting] Plugin enabled![m
+[20:50:22] [Server thread/INFO]: [CommandPanels] Enabling CommandPanels v3.15.1.2
+[20:50:22] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.2 Plugin Loading...
+[20:50:22] [Server thread/INFO]: [CommandPanels] RockyHawk's CommandPanels v3.15.1.2 Plugin Loaded!
+[20:50:22] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[20:50:22] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[20:50:22] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[20:50:22] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[20:50:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:22] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:22] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:22] [Server thread/INFO]: View Distance: 10
+[20:50:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:50:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:22] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:22] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:22] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:23] [Worker-Main-8/INFO]: Preparing spawn area: 87%
+[20:50:23] [Server thread/INFO]: Preparing spawn area: 96%
+[20:50:23] [Server thread/INFO]: Time elapsed: 1113 ms
+[20:50:23] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[20:50:23] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[20:50:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.4+f7ff984
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1) TNT ignition is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1) Lighters are PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1) Lava fire is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1) Fire spread is UNRESTRICTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1'
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_nether) TNT ignition is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lighters are PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Lava fire is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_nether) Fire spread is UNRESTRICTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_nether'
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) TNT ignition is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lighters are PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Lava fire is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (survival-1_the_end) Fire spread is UNRESTRICTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival-1_the_end'
+[20:50:24] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[20:50:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[20:50:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:50:24] [Server thread/INFO]: [GUIShop] Enabling GUIShop v8.4
+[20:50:24] [Server thread/WARN]: [GUIShop] Unknown commands-mode REGISTER
+[20:50:24] [Server thread/INFO]: [GUIShop] Warming Items...
+[20:50:24] [Server thread/INFO]: [GUIShop] Item warming completed in: 186ms
+[20:50:24] [Server thread/INFO]: [GUIShop] Registering/unregistering commands shop|buy and sell
+[20:50:24] [Server thread/INFO]: [antiRedstoneClock] Enabling antiRedstoneClock v1.4.0
+[20:50:24] [Server thread/INFO]: [antiRedstoneClock] Enabling Metrics
+[20:50:24] [Server thread/INFO]: [antiRedstoneClock] Metrics loaded
+[20:50:24] [Server thread/WARN]: [antiRedstoneClock] PlotSquared hasn't been found!
+[20:50:24] [Server thread/INFO]: [antiRedstoneClock] Plugin loaded in 11 ms
+[20:50:24] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.21.2
+[20:50:24] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v5.4-SNAPSHOT-1
+[20:50:24] [Server thread/INFO]: Advanced Teleport is now enabling...
+[20:50:24] [Server thread/INFO]: [Multiverse-Inventories] Enabling Multiverse-Inventories v3.0.0-b459
+[20:50:24] [Server thread/INFO]: [Multiverse-Inventories 3.0.0-b459] enabled.
+[20:50:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.18.2.0
+[20:50:24] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[20:50:24] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.18.2.0
+[20:50:24] [Server thread/ERROR]: ¡No se encontró ninguna clave de licencia! Por favor visite https://essentialsx.cf/geoip para obtener instrucciones de configuración por primera vez.
+[20:50:24] [Server thread/ERROR]: ¡Error al leer la base de datos de GeoIP!
 java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (El sistema no puede encontrar el archivo especificado)
 	at java.io.RandomAccessFile.open0(Native Method) ~[?:1.8.0_271]
 	at java.io.RandomAccessFile.open(Unknown Source) ~[?:1.8.0_271]
@@ -473,94 +455,96 @@ java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (El s
 	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:809) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:46] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
-[13:02:46] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
-[13:02:46] [Server thread/INFO]: [Negativity] Enabling Negativity v1.9.6
-[13:02:46] [Server thread/INFO]: [Negativity] Detected server version: v1_16 (v1_16_R3)
-[13:02:46] [Server thread/INFO]: [Negativity] This plugin is free, but you can support me : https://www.patreon.com/elikill58 <3
-[13:02:47] [Server thread/INFO]: [Negativity] Loaded support for Essentials, WorldGuard.
-[13:02:47] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.7.7
-[13:02:47] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
-[13:02:47] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
-[13:02:47] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
-[13:02:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: protectionstones
-[13:02:47] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (12)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - LAPIS_ORE (16)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (20)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (32)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (64)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] - COAL_ORE (8)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] Building region cache...
-[13:02:47] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
-[13:02:47] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
-[13:02:47] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
-[13:02:47] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.6.2
-[13:02:47] [Server thread/INFO]: [SimpleScore] Loading disabled scoreboards...
-[13:02:47] [Server thread/INFO]: [SimpleScore] Disabled scoreboards loaded.
-[13:02:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: simplescore
-[13:02:47] [Server thread/INFO]: [Jobs] Enabling Jobs v4.17.0
-[13:02:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: jobsr
-[13:02:48] [Server thread/INFO]: [0;33;1m[Jobs] PlaceholderAPI hooked.[m
-[13:02:48] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (d4d6c649fb4435341540fdc95e89208617435e76)
-[13:02:49] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
-[13:02:49] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1076 custom item names![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 72 custom entity names![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 2 custom MythicMobs names![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 38 custom enchant names![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 95 furnace for reassigning.[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 5 brewing for reassigning.[m
-[13:02:49] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
-[13:02:49] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
-[13:02:49] [ForkJoinPool.commonPool-worker-11/INFO]: [0;33;1m[Jobs] Preloaded 38 players data in 0.01[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 10 block protection entries. 2ms[m
-[13:02:49] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
-[13:02:50] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (1252)[m
-[13:02:50] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
-[13:02:50] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[13:02:50] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.3.0
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Servidor encontrado G:Dakota.Games Minecraft(799952732676816896)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????????(799952732676816899)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0001(800300465220485150)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:infomacion(800873164393545808)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:????????(800103313492017222)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799953795680567338)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????????(799956993460797450)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799953061850251294)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:??????(799956130964963339)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:??????????????(799956426994745384)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799956496208494612)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0001(800930268944269312)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enviar la consola al canal asignado TC:???????(799956496208494612)
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
-[13:02:50] [Server thread/INFO]: [Drop2Inventory] Enabling Drop2Inventory v4.8.0
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de Essentials
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de LuckPerms
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Sin complementos
-[13:02:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de PlaceholderAPI
-[13:02:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[13:02:50] [Server thread/INFO]: Done (23.005s)! For help, type "help"
-[13:02:50] [Craft Scheduler Thread - 2/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 17
+[20:50:24] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[20:50:24] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[20:50:24] [Server thread/INFO]: [Negativity] Enabling Negativity v1.9.6
+[20:50:24] [Server thread/INFO]: [Negativity] Detected server version: v1_16 (v1_16_R3)
+[20:50:24] [Server thread/INFO]: [Negativity] This plugin is free, but you can support me : https://www.patreon.com/elikill58 <3
+[20:50:25] [Server thread/INFO]: [Negativity] New version available (1.9.7). Download it here: https://www.spigotmc.org/resources/48399/
+[20:50:26] [Server thread/INFO]: [Negativity] Loaded support for Essentials, WorldGuard.
+[20:50:26] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.7.7
+[20:50:26] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[20:50:26] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[20:50:26] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[20:50:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: protectionstones
+[20:50:26] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - IRON_ORE (12)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - LAPIS_ORE (16)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - GOLD_ORE (20)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (32)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - DIAMOND_ORE (64)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] - COAL_ORE (8)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[20:50:26] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[20:50:26] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[20:50:26] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[20:50:26] [Server thread/INFO]: [SimpleScore] Enabling SimpleScore v3.6.2
+[20:50:26] [Server thread/INFO]: [SimpleScore] Loading disabled scoreboards...
+[20:50:26] [Server thread/INFO]: [SimpleScore] Disabled scoreboards loaded.
+[20:50:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: simplescore
+[20:50:26] [Server thread/INFO]: [Jobs] Enabling Jobs v4.17.0
+[20:50:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: jobsr
+[20:50:26] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (d4d6c649fb4435341540fdc95e89208617435e76)
+[20:50:27] [Server thread/INFO]: [0;33;1m[Jobs] PlaceholderAPI hooked.[m
+[20:50:27] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[20:50:27] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 8 titles![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 75 protected blocks timers![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1076 custom item names![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 72 custom entity names![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 2 custom MythicMobs names![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 38 custom enchant names![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 16 custom color names![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 4 shop items![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Fisherman[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Hunter[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Explorer[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Digger[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Enchanter[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Brewer[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Weaponsmith[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Miner[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Crafter[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Builder[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Farmer[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 1 quests for Woodcutter[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 12 jobs![m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 126 furnace for reassigning.[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 6 brewing for reassigning.[m
+[20:50:28] [Jobs-DatabaseSaveTask/INFO]: [0;33;1m[Jobs] Started database save task.[m
+[20:50:28] [Jobs-BufferedPaymentThread/INFO]: [0;33;1m[Jobs] Started buffered payment thread.[m
+[20:50:28] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[20:50:28] [ForkJoinPool.commonPool-worker-2/INFO]: [0;33;1m[Jobs] Preloaded 43 players data in 0.01[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] WorldGuard detected.[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded 11 block protection entries. 2ms[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loading explorer data[m
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Servidor encontrado G:Dakota.Games Minecraft(799952732676816896)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????????(799952732676816899)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0001(800300465220485150)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:infomacion(800873164393545808)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:????????(800103313492017222)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799953795680567338)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????????(799956993460797450)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799953061850251294)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:??????(799956130964963339)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:??????????????(799956426994745384)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:???????(799956496208494612)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0001(800930268944269312)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:closed-0002(801270584596103208)
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enviar la consola al canal asignado TC:???????(799956496208494612)
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Loaded explorer data (1281)[m
+[20:50:28] [Server thread/INFO]: [0;33;1m[Jobs] Plugin has been enabled successfully.[m
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de Essentials
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de LuckPerms
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Sin complementos
+[20:50:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Activando complementos de PlaceholderAPI
+[20:50:28] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.3.0
+[20:50:28] [Server thread/INFO]: [Drop2Inventory] Enabling Drop2Inventory v4.8.0
+[20:50:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:50:29] [Server thread/INFO]: Done (23.223s)! For help, type "help"
+[20:50:29] [Craft Scheduler Thread - 2/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -570,47 +554,109 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:02:50] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: discordsrv
-[13:02:50] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.2.76 which is not a depend, softdepend or loadbefore of this plugin.
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
-[13:02:50] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
-[13:02:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
-[13:02:50] [Server thread/INFO]: 5[0;32;1m placeholder hooks successfully registered![m
-[13:02:50] [Craft Scheduler Thread - 8/INFO]: [Vault] Checking for Updates ... 
-[13:02:50] [Craft Scheduler Thread - 6/INFO]: [AdvancedTeleport] §3[§bAdvancedTeleport§3] §bPlugin is up to date!
-[13:02:50] [User Authenticator #1/INFO]: UUID of player taielmartinez is 909e7f3b-f48a-3d54-aa49-93c614013cee
-[13:02:51] [Craft Scheduler Thread - 8/INFO]: [Vault] No new version available
-[13:02:51] [Server thread/INFO]: taielmartinez[/192.168.1.1:51911] logged in with entity id 404 at ([survival-1]4197.88613073263, 82.2267405239806, -2893.0869551969145)
-[13:02:51] [Server thread/INFO]: [Drop2Inventory] You are using the latest version of Drop2Inventory.
-[13:02:59] [Server thread/INFO]: taielmartinez issued server command: /login 1
-[13:02:59] [Server thread/INFO]: [AmkMcAuth] taielmartinez has logged in.
-[13:03:51] [User Authenticator #2/INFO]: UUID of player SinLimiteRandom is 56431c57-3be7-33bc-b24a-40b64b300c35
-[13:03:51] [Server thread/INFO]: SinLimiteRandom[/181.45.115.80:55536] logged in with entity id 587 at ([survival-1]4366.07375122538, 80.0, -3062.9717711340986)
-[13:03:51] [Craft Scheduler Thread - 2/WARN]: Unable to fetch GeoIP data for SinLimiteRandom. Please ensure that your license key and configuration are correct.
-[13:03:55] [Server thread/INFO]: SinLimiteRandom issued server command: /login yaestanaqui
-[13:03:55] [Server thread/WARN]: [AmkMcAuth] SinLimiteRandom tried to log in with an incorrect password!
-[13:04:02] [Server thread/INFO]: SinLimiteRandom issued server command: /login SinLimiteRandom
-[13:04:02] [Server thread/INFO]: [AmkMcAuth] SinLimiteRandom has logged in.
-[13:04:10] [Server thread/INFO]: SinLimiteRandom issued server command: /buy
-[13:04:15] [Server thread/INFO]: taielmartinez issued server command: /tp SinLimiteRandom
-[13:04:26] [Server thread/INFO]: SinLimiteRandom issued server command: /home
-[13:04:30] [Server thread/INFO]: SinLimiteRandom issued server command: /home casa
-[13:08:26] [Server thread/INFO]: SinLimiteRandom issued server command: /jobs brw
-[13:08:28] [Server thread/INFO]: SinLimiteRandom issued server command: /jobs brwse
-[13:08:31] [Server thread/INFO]: SinLimiteRandom issued server command: /jobs browse
-[13:11:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
-[13:11:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
-[13:11:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
-[13:11:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
-[13:14:55] [Server thread/INFO]: SinLimiteRandom issued server command: /buy
-[13:16:27] [Server thread/INFO]: taielmartinez issued server command: /shop
-[13:16:28] [Server thread/INFO]: SinLimiteRandom issued server command: /buy
-[13:16:34] [Server thread/INFO]: SinLimiteRandom issued server command: /buy
-[13:17:50] [Craft Scheduler Thread - 9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 17
+[20:50:29] [Server thread/INFO]: [0;33;1m[Jobs] Successfully linked with Vault.[m
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: discordsrv
+[20:50:29] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.2.76 which is not a depend, softdepend or loadbefore of this plugin.
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[20:50:29] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[20:50:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[20:50:29] [Server thread/INFO]: 5[0;32;1m placeholder hooks successfully registered![m
+[20:50:29] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
+[20:50:29] [Craft Scheduler Thread - 4/INFO]: [AdvancedTeleport] §3[§bAdvancedTeleport§3] §bPlugin is up to date!
+[20:50:30] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[20:50:31] [Server thread/INFO]: [Drop2Inventory] You are using the latest version of Drop2Inventory.
+[20:51:06] [User Authenticator #1/INFO]: UUID of player CorrentinoRancio is cb250d64-540b-3372-b9d8-ac66f6ae9c9e
+[20:51:06] [Server thread/INFO]: CorrentinoRancio[/190.137.207.93:60884] logged in with entity id 417 at ([survival-1]4352.433131372469, 76.0, -3007.9717400349014)
+[20:51:06] [Craft Scheduler Thread - 7/WARN]: Unable to fetch GeoIP data for CorrentinoRancio. Please ensure that your license key and configuration are correct.
+[20:51:11] [Server thread/INFO]: CorrentinoRancio issued server command: /login leandro
+[20:51:11] [Server thread/INFO]: [AmkMcAuth] CorrentinoRancio has logged in.
+[20:51:12] [User Authenticator #2/INFO]: UUID of player FERNANFLOW is eeaa2c58-a75e-303b-b1ee-26b871b3a899
+[20:51:12] [Server thread/INFO]: FERNANFLOW[/190.14.158.253:52856] logged in with entity id 578 at ([survival-1_the_end]-14.050647966028556, 79.67231003630582, -17.1464934234864)
+[20:51:12] [Craft Scheduler Thread - 5/WARN]: Unable to fetch GeoIP data for FERNANFLOW. Please ensure that your license key and configuration are correct.
+[20:51:12] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:51:12] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:51:22] [Server thread/INFO]: FERNANFLOW issued server command: /login cipolletti
+[20:51:22] [Server thread/INFO]: [AmkMcAuth] FERNANFLOW has logged in.
+[20:51:24] [Async Chat Thread - #0/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m No entres al end gil que se cayo el server[m
+[20:51:24] [Craft Scheduler Thread - 7/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 7597
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[20:51:28] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 0.0 : ping 29.0[m
+[20:51:32] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 1.0 : ping 29.0[m
+[20:53:07] [Server thread/INFO]: FERNANFLOW has made the advancement [Remote Getaway]
+[20:54:41] [Server thread/INFO]: FERNANFLOW has made the advancement [The City at the End of the Game]
+[20:54:43] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 2.0 : ping 28.0[m
+[20:55:53] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 2.0 : ping 47.0[m
+[20:55:54] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 2.0 : ping 47.0[m
+[20:55:57] [Server thread/INFO]: CorrentinoRancio issued server command: /tpa FERNANFLOW
+[20:55:58] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 2.0 : ping 47.0[m
+[20:55:58] [Craft Scheduler Thread - 31/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 3.0 : ping 47.0[m
+[20:55:58] [Craft Scheduler Thread - 31/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 4.0 : ping 47.0[m
+[20:56:35] [Craft Scheduler Thread - 21/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 42.0[m
+[20:58:17] [Craft Scheduler Thread - 39/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 50/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 40/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 52/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 42/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 47/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 51/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 43/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 49/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 48/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 54/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 29/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 41/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 6.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 38/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 19.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 46/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 19.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 53/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 19.0 : ping 32.0[m
+[20:58:17] [Craft Scheduler Thread - 33/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using flight : violation 19.0 : ping 32.0[m
+[20:58:17] [Server thread/INFO]: FERNANFLOW lost connection: You have been kicked
+[20:58:17] [Server thread/INFO]: FERNANFLOW left the game
+[20:58:41] [User Authenticator #3/INFO]: UUID of player FERNANFLOW is eeaa2c58-a75e-303b-b1ee-26b871b3a899
+[20:58:41] [Server thread/INFO]: [AmkMcAuth] FERNANFLOW was logged in via session.
+[20:58:41] [Server thread/INFO]: FERNANFLOW[/190.14.158.253:22167] logged in with entity id 2786 at ([survival-1_the_end]997.4013063576333, 87.20025190355463, 2016.056367581729)
+[20:58:41] [Craft Scheduler Thread - 53/WARN]: Unable to fetch GeoIP data for FERNANFLOW. Please ensure that your license key and configuration are correct.
+[20:58:47] [Craft Scheduler Thread - 29/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 7.0[m
+[20:58:47] [Craft Scheduler Thread - 53/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 7.0[m
+[20:58:47] [Craft Scheduler Thread - 46/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 7.0[m
+[20:58:47] [Craft Scheduler Thread - 49/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 7.0[m
+[20:58:47] [Craft Scheduler Thread - 33/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 7.0[m
+[20:58:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[20:58:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[20:58:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[20:58:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[20:59:04] [Craft Scheduler Thread - 48/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 63/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 86/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 45/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 72/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 56/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 57/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 69/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 60/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 19/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 21/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 53/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 31/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 41/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 39/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 59/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 50/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 67/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 61/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:04] [Craft Scheduler Thread - 54/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 7.0[m
+[20:59:08] [Craft Scheduler Thread - 53/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 25.0 : ping 12.0[m
+[20:59:08] [Server thread/INFO]: FERNANFLOW lost connection: You have been kicked
+[20:59:08] [Server thread/INFO]: FERNANFLOW left the game
+[21:05:29] [Craft Scheduler Thread - 107/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -620,21 +666,105 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:18:05] [Server thread/INFO]: taielmartinez issued server command: /shop
-[13:19:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
-[13:19:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
-[13:19:33] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
-[13:19:34] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
-[13:19:36] [Server thread/INFO]: SinLimiteRandom issued server command: /home
-[13:19:46] [Server thread/INFO]: SinLimiteRandom issued server command: /home casa
-[13:20:19] [Server thread/INFO]: SinLimiteRandom issued server command: /buy
-[13:27:31] [Server thread/INFO]: SinLimiteRandom lost connection: Disconnected
-[13:27:31] [Server thread/INFO]: SinLimiteRandom left the game
-[13:27:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
-[13:27:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
-[13:27:53] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
-[13:27:54] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
-[13:32:50] [Craft Scheduler Thread - 15/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 17
+[21:07:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:07:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:07:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:07:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:08:30] [Server thread/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Starting to save directory. Please wait.[m
+[21:08:30] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[21:08:30] [Craft Scheduler Thread - 109/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m[0;31;1mBackup-2021-01-20-03-06-04.zip: The current save goes over the max savesize, and so the oldest file has been deleted. If you wish to save older backups, copy them to another location.[m
+[21:14:00] [Craft Scheduler Thread - 109/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Skipping file C:\Users\tatai\Documents\Minecraft-Dakota-Games-Server\plugins\LuckPerms\luckperms-h2.mv.db due to another process that has locked a portion of the file[m
+[21:15:29] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:15:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:15:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:15:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:15:48] [User Authenticator #4/INFO]: UUID of player TheMasterSlow10 is 1b37001d-69c0-3aa6-a72c-7060b5d6671d
+[21:15:48] [Server thread/INFO]: TheMasterSlow10[/190.30.134.29:52271] logged in with entity id 4631 at ([survival-1]71.5, 65.0, -37.5)
+[21:15:48] [Craft Scheduler Thread - 104/WARN]: Unable to fetch GeoIP data for TheMasterSlow10. Please ensure that your license key and configuration are correct.
+[21:15:48] [pool-15-thread-1/INFO]: Creando configuración vacía: C:\Users\tatai\Documents\Minecraft-Dakota-Games-Server\plugins\Essentials\userdata\1b37001d-69c0-3aa6-a72c-7060b5d6671d.yml
+[21:15:54] [Craft Scheduler Thread - 108/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using speed : violation 0.0 : ping 1372.0[m
+[21:15:54] [Craft Scheduler Thread - 108/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using long jump : violation 1.0 : ping 1372.0[m
+[21:16:03] [Server thread/INFO]: TheMasterSlow10 issued server command: /register nazareno nazareno
+[21:16:03] [Server thread/INFO]: [AmkMcAuth] Login Ip-Address 190.30.134.29 used by 0 player(s) 
+[21:16:03] [Server thread/INFO]: [AmkMcAuth] Configured maximum allowed players from one Ip-Address is: 50
+[21:16:03] [Server thread/INFO]: [AmkMcAuth] TheMasterSlow10 !!!! has registered.
+[21:16:11] [Server thread/INFO]: TheMasterSlow10 issued server command: /login nazareno
+[21:16:11] [Server thread/INFO]: [AmkMcAuth] TheMasterSlow10 has logged in.
+[21:17:21] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs browse
+[21:18:11] [Craft Scheduler Thread - 109/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Done! Backup took:9M, 40S[m
+[21:18:14] [Craft Scheduler Thread - 109/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Compressed server with size of 6,0 GiB to 4,6 GiB[m
+[21:18:27] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m che[m
+[21:18:27] [Craft Scheduler Thread - 113/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 488656
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:18:37] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m Q[m
+[21:18:37] [Craft Scheduler Thread - 116/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 494997
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:08] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m nada nada[m
+[21:19:08] [Craft Scheduler Thread - 113/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 519630
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:13] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m ya lo solucione[m
+[21:19:13] [Craft Scheduler Thread - 113/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 523697
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:36] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m apretaba el enter como estupido pensando que se asi se habria el chat[m
+[21:19:36] [Craft Scheduler Thread - 119/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 539355
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:37] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m e[m
+[21:19:37] [Craft Scheduler Thread - 119/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 539956
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:41] [Async Chat Thread - #1/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m tengo que dejar el lol[m
+[21:19:41] [Craft Scheduler Thread - 119/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 543079
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:19:52] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs browse
+[21:20:06] [Server thread/INFO]: TheMasterSlow10 lost connection: Disconnected
+[21:20:07] [Server thread/INFO]: TheMasterSlow10 left the game
+[21:20:09] [User Authenticator #5/INFO]: UUID of player TheMasterSlow10 is 1b37001d-69c0-3aa6-a72c-7060b5d6671d
+[21:20:09] [Server thread/INFO]: [AmkMcAuth] TheMasterSlow10 was logged in via session.
+[21:20:09] [Server thread/INFO]: TheMasterSlow10[/190.30.134.29:52317] logged in with entity id 5828 at ([survival-1]100.77776863426746, 65.0, -19.041218785542355)
+[21:20:09] [Craft Scheduler Thread - 120/WARN]: Unable to fetch GeoIP data for TheMasterSlow10. Please ensure that your license key and configuration are correct.
+[21:20:24] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs browse
+[21:20:29] [Craft Scheduler Thread - 120/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -644,9 +774,583 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
-[13:36:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
-[13:36:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
-[13:36:13] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
-[13:36:14] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
-[13:41:14] [Server thread/INFO]: taielmartinez lost connection: Disconnected
-[13:41:14] [Server thread/INFO]: taielmartinez left the game
+[21:21:10] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs browse
+[21:21:18] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs browse
+[21:21:34] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs
+[21:21:44] [Server thread/INFO]: TheMasterSlow10 issued server command: /jobs join Miner
+[21:21:50] [Server thread/INFO]: TheMasterSlow10 issued server command: /kit inicio
+[21:21:50] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Suit Up]
+[21:21:50] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Isn't It Iron Pick]
+[21:22:32] [Server thread/INFO]: TheMasterSlow10 issued server command: /rtp
+[21:22:36] [Server thread/WARN]: Entity EntityPlayer['TheMasterSlow10'/5828, l='ServerLevel[survival-1]', x=12179.50, y=64.00, z=11568.50](TheMasterSlow10 at 12179.5,64.0,11568.5) left loaded chunk area
+[21:22:36] [Craft Scheduler Thread - 114/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using groundSpoof : violation 0.0 : ping 157.0[m
+[21:22:36] [Craft Scheduler Thread - 128/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using groundSpoof : violation 0.0 : ping 157.0[m
+[21:22:36] [Craft Scheduler Thread - 127/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using groundSpoof : violation 0.0 : ping 157.0[m
+[21:22:36] [Craft Scheduler Thread - 125/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using groundSpoof : violation 0.0 : ping 157.0[m
+[21:22:52] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Stone Age]
+[21:23:22] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using killAura : violation 4.0 : ping 107.0[m
+[21:23:25] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using killAura : violation 5.0 : ping 107.0[m
+[21:23:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:23:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:23:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:23:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:26:32] [Server thread/INFO]: TheMasterSlow10 issued server command: /rtp
+[21:26:36] [Server thread/WARN]: Entity EntityPlayer['TheMasterSlow10'/5828, l='ServerLevel[survival-1]', x=7196.50, y=106.00, z=-4661.50](TheMasterSlow10 at 7196.5,106.0,-4661.5) left loaded chunk area
+[21:28:07] [Server thread/INFO]: CorrentinoRancio issued server command: /sell:sell
+[21:28:27] [Server thread/INFO]: [Negativity] New Violation for TheMasterSlow10 (43 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use NoFall Reliability: 100 [survival-1: 7332,79,-4704]
+[21:28:28] [Server thread/INFO]: TheMasterSlow10 fell from a high place
+[21:28:34] [Server thread/INFO]: TheMasterSlow10 issued server command: /rtp
+[21:28:37] [Server thread/WARN]: Entity EntityPlayer['TheMasterSlow10'/5828, l='ServerLevel[survival-1]', x=-4483.50, y=66.00, z=654.50](TheMasterSlow10 at -4483.5,66.0,654.5) left loaded chunk area
+[21:32:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:32:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:32:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:32:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:32:58] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Getting an Upgrade]
+[21:33:06] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using killAura : violation 6.0 : ping 42.0[m
+[21:33:31] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m correntino[m
+[21:33:31] [Craft Scheduler Thread - 166/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1014548
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:33:37] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m Q[m
+[21:33:37] [Craft Scheduler Thread - 173/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1017905
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:33:43] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m granjas y eso[m
+[21:33:43] [Craft Scheduler Thread - 166/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1021332
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:33:45] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m ni a palos[m
+[21:33:45] [Craft Scheduler Thread - 173/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1022461
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:34:03] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m nop se crashea si hacen granjas de mobs o algo[m
+[21:34:03] [Craft Scheduler Thread - 166/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1029909
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:34:10] [User Authenticator #6/INFO]: UUID of player chymuelo is 0119bbf9-3481-3117-aa20-d2c267808a73
+[21:34:11] [Server thread/INFO]: chymuelo[/196.32.66.162:49381] logged in with entity id 10512 at ([survival-1]162.79825164021537, 71.0, 27.629647499994558)
+[21:34:11] [Craft Scheduler Thread - 166/WARN]: Unable to fetch GeoIP data for chymuelo. Please ensure that your license key and configuration are correct.
+[21:34:12] [Craft Scheduler Thread - 162/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m TheMasterSlow10 could be using groundSpoof : violation 7.0 : ping 314.0[m
+[21:34:12] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m se satura de entidades[m
+[21:34:12] [Craft Scheduler Thread - 166/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1035688
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:34:18] [Async Chat Thread - #2/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m claro[m
+[21:34:18] [Craft Scheduler Thread - 178/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1041121
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:34:28] [Server thread/INFO]: chymuelo issued server command: /login 12345
+[21:34:28] [Server thread/INFO]: [AmkMcAuth] chymuelo has logged in.
+[21:34:36] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 99 [survival-1: 165,71,28]
+[21:34:57] [Server thread/INFO]: chymuelo issued server command: /shop
+[21:35:02] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 176,71,27]
+[21:35:11] [Craft Scheduler Thread - 180/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using long jump : violation 0.0 : ping 595.0[m
+[21:35:14] [Craft Scheduler Thread - 166/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using bHop : violation 1.0 : ping 595.0[m
+[21:35:15] [Craft Scheduler Thread - 177/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using irregularEventCount : violation 2.0 : ping 595.0[m
+[21:35:15] [Craft Scheduler Thread - 179/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using irregularEventCount : violation 2.0 : ping 595.0[m
+[21:35:27] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 129,73,90]
+[21:35:30] [Craft Scheduler Thread - 183/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:35:52] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 135,73,95]
+[21:36:08] [Server thread/INFO]: chymuelo issued server command: /shop
+[21:36:17] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 135,71,94]
+[21:36:33] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Monster Hunter]
+[21:36:42] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 135,51,121]
+[21:37:05] [Craft Scheduler Thread - 177/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using irregularEventCount : violation 4.0 : ping 257.0[m
+[21:37:09] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 147,73,45]
+[21:37:32] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 136,23,149]
+[21:37:57] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 230,11,169]
+[21:38:27] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 277,22,81]
+[21:38:34] [Server thread/INFO]: chymuelo was blown up by Creeper
+[21:38:42] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m jaskajka[m
+[21:38:42] [Craft Scheduler Thread - 181/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1278853
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:38:44] [Server thread/INFO]: chymuelo issued server command: /home home
+[21:38:47] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 99,65,-18]
+[21:38:47] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m oye[m
+[21:38:47] [Craft Scheduler Thread - 195/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1286198
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:02] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m me puede ayudar en un prolema[m
+[21:39:02] [Craft Scheduler Thread - 195/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1302870
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:11] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m que paso[m
+[21:39:11] [Craft Scheduler Thread - 181/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1309275
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:12] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 134,73,95]
+[21:39:19] [Server thread/INFO]: CorrentinoRancio issued server command: /tell TheMasterSlow10 tiene 10 año no le haga enoja es el hermanito del admin creo
+[21:39:22] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m paso un bug que no esta mi core de muerte[m
+[21:39:22] [Craft Scheduler Thread - 196/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1318037
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:28] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m me ayudan[m
+[21:39:29] [Craft Scheduler Thread - 190/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1323656
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:39:37] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 149,75,81]
+[21:39:48] [Server thread/INFO]: TheMasterSlow10 issued server command: /msg CorrentinoRancio mejor ni le contesto
+[21:40:02] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 151,80,95]
+[21:40:14] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Acquire Hardware]
+[21:40:20] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m a mi me paso tambien no me dejo el cofre cuando mori ni idea de donde esta ahora[m
+[21:40:20] [Craft Scheduler Thread - 191/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1357842
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:40:27] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 147,74,88]
+[21:40:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:40:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:40:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:40:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:40:35] [Async Chat Thread - #3/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m ai que desirlo al gerente[m
+[21:40:35] [Craft Scheduler Thread - 190/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1366019
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:40:51] [Server thread/INFO]: chymuelo issued server command: /dc list
+[21:40:56] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 136,12,164]
+[21:41:24] [Server thread/INFO]: chymuelo lost connection: Disconnected
+[21:41:25] [Server thread/INFO]: chymuelo left the game
+[21:41:41] [User Authenticator #7/INFO]: UUID of player chymuelo is 0119bbf9-3481-3117-aa20-d2c267808a73
+[21:41:41] [Server thread/INFO]: [AmkMcAuth] chymuelo was logged in via session.
+[21:41:41] [Server thread/INFO]: chymuelo[/196.32.66.162:49394] logged in with entity id 13664 at ([survival-1]234.23376766208543, 16.0, 139.93151549177185)
+[21:41:41] [Craft Scheduler Thread - 202/WARN]: Unable to fetch GeoIP data for chymuelo. Please ensure that your license key and configuration are correct.
+[21:41:56] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using reach : violation 0.0 : ping 583.0[m
+[21:41:56] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using reach : violation 1.0 : ping 583.0[m
+[21:42:01] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using reach : violation 2.0 : ping 583.0[m
+[21:42:07] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 99 [survival-1: 240,16,131]
+[21:42:22] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using killAura : violation 3.0 : ping 462.0[m
+[21:42:22] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m chymuelo could be using killAura : violation 4.0 : ping 462.0[m
+[21:42:33] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 247,14,146]
+[21:43:02] [Server thread/INFO]: chymuelo burned to death
+[21:43:12] [Server thread/INFO]: chymuelo issued server command: /home pajaro
+[21:43:22] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 179,71,26]
+[21:43:23] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m ese cofre tenia 4 diamantes ;-;[m
+[21:43:23] [Craft Scheduler Thread - 229/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1544243
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:43:24] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/9666, l='ServerLevel[survival-1]', x=-4805.52, y=63.00, z=489.41] died, message: 'Leatherworker was slain by Zombie'
+[21:43:44] [Async Chat Thread - #4/INFO]: [[0;37;1msurvival-1[0;37;1m][mchymuelo[m[0;37;22m:[m perfecto que guarde todo el hierro[m
+[21:43:44] [Craft Scheduler Thread - 224/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1564047
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:43:48] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 179,77,26]
+[21:44:13] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 179,77,26]
+[21:44:29] [Server thread/INFO]: CorrentinoRancio issued server command: /sell:sell
+[21:44:37] [Server thread/INFO]: [Negativity] New Warning for chymuelo (100 ms, UUID: 0119bbf9-3481-3117-aa20-d2c267808a73) seem to use PingSpoof Reliability: 100 [survival-1: 179,77,26]
+[21:45:16] [Server thread/INFO]: chymuelo lost connection: Disconnected
+[21:45:16] [Server thread/INFO]: chymuelo left the game
+[21:48:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:48:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:48:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:48:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:49:25] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[21:50:19] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[21:50:28] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[21:50:29] [Craft Scheduler Thread - 233/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:51:08] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[21:51:40] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m che correntino c[m
+[21:51:40] [Craft Scheduler Thread - 224/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1805516
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:51:43] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m Q[m
+[21:51:43] [Craft Scheduler Thread - 233/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1806798
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:51:44] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m como vendia cosas?[m
+[21:51:44] [Craft Scheduler Thread - 234/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1807192
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:51:51] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival-1[0;37;1m][mCorrentinoRancio[m[0;37;22m:[m ./sell:sell[m
+[21:51:51] [Craft Scheduler Thread - 233/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1810054
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:51:58] [Async Chat Thread - #5/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m thanks[m
+[21:51:58] [Craft Scheduler Thread - 224/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1813040
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:52:41] [Server thread/INFO]: TheMasterSlow10 has made the advancement [Diamonds!]
+[21:53:59] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (57 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed 2 times Reliability: 85 [survival-1: -4836,12,467]
+[21:54:00] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (57 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed 2 times Reliability: 87 [survival-1: -4829,12,467]
+[21:54:01] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (57 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 87 [survival-1: -4822,12,467]
+[21:54:05] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (57 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 88 [survival-1: -4793,12,467]
+[21:54:14] [Server thread/INFO]: TheMasterSlow10 issued server command: /sell:sell
+[21:54:39] [Server thread/INFO]: TheMasterSlow10 issued server command: /sell:sell
+[21:54:51] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (58 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed 2 times Reliability: 90 [survival-1: -4796,12,467]
+[21:54:52] [Server thread/INFO]: [Negativity] New Violation for TheMasterSlow10 (59 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed 2 times Reliability: 92 [survival-1: -4805,12,467]
+[21:54:55] [Server thread/INFO]: [Negativity] New Violation for TheMasterSlow10 (60 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed 2 times Reliability: 94 [survival-1: -4828,12,467]
+[21:54:56] [Server thread/INFO]: [Negativity] New Violation for TheMasterSlow10 (60 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 95 [survival-1: -4832,12,467]
+[21:55:20] [Async Chat Thread - #6/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m entro mas tarde[m
+[21:55:20] [Craft Scheduler Thread - 224/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 1910875
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[21:55:22] [Server thread/INFO]: TheMasterSlow10 lost connection: Disconnected
+[21:55:22] [Server thread/INFO]: TheMasterSlow10 left the game
+[21:55:43] [Craft Scheduler Thread - 295/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 0.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 261/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 0.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 255/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 1.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 224/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 1.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 251/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 0.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 294/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 0.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 252/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 0.0 : ping 130.0[m
+[21:55:43] [Craft Scheduler Thread - 252/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using long jump : violation 7.0 : ping 130.0[m
+[21:55:44] [Server thread/INFO]: [Negativity] New Warning for CorrentinoRancio (100 ms, UUID: cb250d64-540b-3372-b9d8-ac66f6ae9c9e) seem to use Speed 9 times Reliability: 100 [survival-1: 4348,71,-3008]
+[21:55:45] [Craft Scheduler Thread - 252/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using irregularEventCount : violation 8.0 : ping 130.0[m
+[21:55:45] [Server thread/INFO]: [Negativity] New Warning for CorrentinoRancio (100 ms, UUID: cb250d64-540b-3372-b9d8-ac66f6ae9c9e) seem to use Speed Reliability: 100 [survival-1: 4348,75,-3012]
+[21:57:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[21:57:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[21:57:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[21:57:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[21:59:33] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using killAura : violation 9.0 : ping 144.0[m
+[21:59:49] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using killAura : violation 10.0 : ping 144.0[m
+[22:00:03] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m CorrentinoRancio could be using killAura : violation 11.0 : ping 168.0[m
+[22:01:31] [Server thread/INFO]: CorrentinoRancio lost connection: Disconnected
+[22:01:31] [Server thread/INFO]: CorrentinoRancio left the game
+[22:05:29] [Craft Scheduler Thread - 309/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[22:05:29] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:05:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:05:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:05:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:13:32] [User Authenticator #8/INFO]: UUID of player FERNANFLOW is eeaa2c58-a75e-303b-b1ee-26b871b3a899
+[22:13:32] [Server thread/INFO]: FERNANFLOW[/190.14.158.253:23359] logged in with entity id 17787 at ([survival-1_the_end]1066.818007941829, 149.01035877123311, 1996.910175456687)
+[22:13:32] [Craft Scheduler Thread - 311/WARN]: Unable to fetch GeoIP data for FERNANFLOW. Please ensure that your license key and configuration are correct.
+[22:13:46] [Server thread/WARN]: FERNANFLOW was kicked for floating too long!
+[22:13:46] [Server thread/INFO]: FERNANFLOW lost connection: Flying is not enabled on this server
+[22:13:46] [Server thread/INFO]: FERNANFLOW left the game
+[22:13:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:13:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:13:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:13:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:13:53] [User Authenticator #9/INFO]: UUID of player FERNANFLOW is eeaa2c58-a75e-303b-b1ee-26b871b3a899
+[22:13:53] [Server thread/INFO]: FERNANFLOW[/190.14.158.253:23387] logged in with entity id 17868 at ([survival-1_the_end]1066.818007941829, 148.42534976972436, 1996.910175456687)
+[22:13:53] [Craft Scheduler Thread - 313/WARN]: Unable to fetch GeoIP data for FERNANFLOW. Please ensure that your license key and configuration are correct.
+[22:14:05] [Server thread/INFO]: FERNANFLOW issued server command: /login cipolletti
+[22:14:05] [Server thread/INFO]: [AmkMcAuth] FERNANFLOW has logged in.
+[22:14:08] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 0.0 : ping 16.0[m
+[22:14:09] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 0.0 : ping 16.0[m
+[22:14:20] [Server thread/INFO]: FERNANFLOW has made the advancement [Local Brewery]
+[22:14:26] [Craft Scheduler Thread - 329/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 0.0 : ping 22.0[m
+[22:14:26] [Craft Scheduler Thread - 329/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 1.0 : ping 22.0[m
+[22:16:34] [Server thread/INFO]: [Negativity] New Warning for FERNANFLOW (27 ms, UUID: eeaa2c58-a75e-303b-b1ee-26b871b3a899) seem to use Spider 5 times Reliability: 68 [survival-1_the_end: 1053,158,2003]
+[22:16:35] [Server thread/INFO]: [Negativity] New Warning for FERNANFLOW (27 ms, UUID: eeaa2c58-a75e-303b-b1ee-26b871b3a899) seem to use Spider 20 times Reliability: 98 [survival-1_the_end: 1051,159,2000]
+[22:16:36] [Server thread/INFO]: [Negativity] New Warning for FERNANFLOW (27 ms, UUID: eeaa2c58-a75e-303b-b1ee-26b871b3a899) seem to use Spider 20 times Reliability: 100 [survival-1_the_end: 1048,160,1997]
+[22:16:37] [Server thread/INFO]: [Negativity] New Warning for FERNANFLOW (27 ms, UUID: eeaa2c58-a75e-303b-b1ee-26b871b3a899) seem to use Spider 15 times Reliability: 100 [survival-1_the_end: 1046,159,1993]
+[22:20:29] [Craft Scheduler Thread - 350/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[22:20:43] [Craft Scheduler Thread - 362/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 2.0 : ping 28.0[m
+[22:20:43] [Craft Scheduler Thread - 362/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 3.0 : ping 28.0[m
+[22:21:47] [Craft Scheduler Thread - 355/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 4.0 : ping 28.0[m
+[22:21:47] [Craft Scheduler Thread - 355/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 5.0 : ping 28.0[m
+[22:22:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:22:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:22:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:22:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:22:45] [Server thread/INFO]: [Negativity] New Warning for FERNANFLOW (27 ms, UUID: eeaa2c58-a75e-303b-b1ee-26b871b3a899) seem to use Spider 7 times Reliability: 100 [survival-1_the_end: 3035,147,4584]
+[22:23:18] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 6.0 : ping 28.0[m
+[22:23:19] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 6.0 : ping 28.0[m
+[22:25:21] [Craft Scheduler Thread - 355/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 6.0 : ping 30.0[m
+[22:25:21] [Craft Scheduler Thread - 355/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 7.0 : ping 30.0[m
+[22:27:04] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 8.0 : ping 29.0[m
+[22:27:05] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 8.0 : ping 29.0[m
+[22:30:29] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:30:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:30:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:30:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:31:26] [User Authenticator #10/INFO]: UUID of player RodolffHD is d9bab22a-c5a1-3478-a3a7-cbd88ed9ef4f
+[22:31:26] [Server thread/INFO]: RodolffHD[/181.165.71.49:63086] logged in with entity id 24509 at ([survival-1]-885.9240749951932, 63.0, -396.6826024475001)
+[22:31:26] [Craft Scheduler Thread - 387/WARN]: Unable to fetch GeoIP data for RodolffHD. Please ensure that your license key and configuration are correct.
+[22:31:36] [Server thread/INFO]: RodolffHD issued server command: /login nacho2004
+[22:31:36] [Server thread/INFO]: [AmkMcAuth] RodolffHD has logged in.
+[22:32:03] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 8.0 : ping 37.0[m
+[22:32:03] [Server thread/INFO]: CONSOLE issued server command: /eco give FERNANFLOW 100
+[22:32:03] [Server thread/INFO]: [0;32;1m$100 han sidos agregados a la cuenta de FERNANFLOW[m[0;32;1m. Nuevo saldo: $587.65[m
+[22:32:03] [Server thread/INFO]: CONSOLE issued server command: /msg FERNANFLOW Completed quest!
+[22:32:03] [Server thread/INFO]: [0;33;22m[[0;31;1myo[0;33;22m -> [0;31;1mFERNANFLOW[m[0;33;22m] [mCompleted quest![m
+[22:32:04] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 8.0 : ping 37.0[m
+[22:32:04] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 8.0 : ping 37.0[m
+[22:33:05] [Server thread/INFO]: RodolffHD issued server command: /shop
+[22:33:13] [Craft Scheduler Thread - 397/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 8.0 : ping 35.0[m
+[22:34:36] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 9.0 : ping 31.0[m
+[22:35:30] [Craft Scheduler Thread - 433/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[22:35:30] [Craft Scheduler Thread - 432/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m RodolffHD could be using long jump : violation 0.0 : ping 23.0[m
+[22:35:44] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 10.0 : ping 29.0[m
+[22:38:33] [Craft Scheduler Thread - 447/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 11.0 : ping 28.0[m
+[22:38:33] [Craft Scheduler Thread - 447/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using groundSpoof : violation 12.0 : ping 28.0[m
+[22:38:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:38:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:38:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:38:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:39:10] [Server thread/INFO]: FERNANFLOW issued server command: /home home
+[22:39:26] [Server thread/INFO]: RodolffHD issued server command: /sell:sell
+[22:39:44] [Server thread/INFO]: FERNANFLOW issued server command: /shop
+[22:40:15] [Server thread/INFO]: RodolffHD issued server command: /sell:sell
+[22:40:36] [Server thread/INFO]: FERNANFLOW issued server command: /sell:sell
+[22:46:14] [Server thread/INFO]: RodolffHD issued server command: /shop
+[22:47:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:47:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:47:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:47:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:49:02] [Server thread/INFO]: RodolffHD issued server command: /shop
+[22:49:05] [Server thread/INFO]: RodolffHD issued server command: /sell:sell
+[22:50:16] [Craft Scheduler Thread - 455/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m RodolffHD could be using bHop : violation 1.0 : ping 23.0[m
+[22:50:17] [Craft Scheduler Thread - 455/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m RodolffHD could be using bHop : violation 2.0 : ping 23.0[m
+[22:50:29] [Craft Scheduler Thread - 460/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[22:52:47] [Server thread/INFO]: RodolffHD issued server command: /bottle get max
+[22:53:48] [Server thread/INFO]: FERNANFLOW issued server command: /sell:sell
+[22:55:29] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[22:55:30] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[22:55:31] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[22:55:32] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[22:55:33] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 13.0 : ping 28.0[m
+[22:55:34] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 14.0 : ping 28.0[m
+[22:55:40] [Server thread/INFO]: RodolffHD issued server command: /bottle get max
+[22:55:42] [Server thread/INFO]: RodolffHD issued server command: /sell:sell
+[22:55:48] [Server thread/INFO]: RodolffHD issued server command: /sell:sell
+[22:55:52] [Server thread/INFO]: RodolffHD issued server command: /shop
+[22:59:16] [Server thread/INFO]: FERNANFLOW issued server command: /bottle get max
+[22:59:42] [Server thread/INFO]: RodolffHD issued server command: /shop
+[23:01:19] [Craft Scheduler Thread - 467/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m RodolffHD could be using bHop : violation 3.0 : ping 22.0[m
+[23:02:58] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 15.0 : ping 29.0[m
+[23:03:49] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[23:03:50] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[23:03:51] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[23:03:52] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[23:04:17] [User Authenticator #11/INFO]: UUID of player TheMasterSlow10 is 1b37001d-69c0-3aa6-a72c-7060b5d6671d
+[23:04:18] [Server thread/INFO]: TheMasterSlow10[/190.30.134.29:54566] logged in with entity id 31784 at ([survival-1]-4815.315093850812, 12.0, 469.4086370503138)
+[23:04:18] [Craft Scheduler Thread - 458/WARN]: Unable to fetch GeoIP data for TheMasterSlow10. Please ensure that your license key and configuration are correct.
+[23:04:24] [Server thread/INFO]: TheMasterSlow10 issued server command: /login nazreno
+[23:04:24] [Server thread/WARN]: [AmkMcAuth] TheMasterSlow10 tried to log in with an incorrect password!
+[23:04:27] [Server thread/INFO]: TheMasterSlow10 issued server command: /login nazareno
+[23:04:27] [Server thread/INFO]: [AmkMcAuth] TheMasterSlow10 has logged in.
+[23:04:30] [Async Chat Thread - #7/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m fiumba[m
+[23:04:30] [Craft Scheduler Thread - 464/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 4419909
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[23:04:39] [Server thread/INFO]: Villager EntityVillager['Villager'/31895, l='ServerLevel[survival-1]', x=-4837.62, y=72.94, z=500.67] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[23:05:14] [Server thread/INFO]: RodolffHD issued server command: /shop
+[23:05:30] [Server thread/INFO]: RodolffHD issued server command: /shop
+[23:05:30] [Craft Scheduler Thread - 471/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 16
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[23:05:49] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[23:06:05] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m RodolffHD could be using criticals : violation 4.0 : ping 22.0[m
+[23:06:05] [Server thread/WARN]: Entity EntityPlayer['RodolffHD'/24509, l='ServerLevel[survival-1]', x=-804.11, y=64.25, z=-395.05](RodolffHD at -804.1145802105076,64.24918707874468,-395.05448960084254) left loaded chunk area
+[23:06:27] [Server thread/INFO]: RodolffHD issued server command: /tpa fernanflow
+[23:06:35] [Server thread/INFO]: FERNANFLOW issued server command: /tpayes
+[23:06:48] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 16.0 : ping 34.0[m
+[23:06:53] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 16.0 : ping 34.0[m
+[23:06:55] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 16.0 : ping 34.0[m
+[23:06:56] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 16.0 : ping 34.0[m
+[23:06:57] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using killAura : violation 16.0 : ping 34.0[m
+[23:07:42] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (100 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 83 [survival-1: -4801,12,467]
+[23:07:44] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (100 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 84 [survival-1: -4784,12,467]
+[23:07:45] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (100 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 85 [survival-1: -4775,12,467]
+[23:09:55] [Server thread/INFO]: [0;30;1m[[0;31;22mSAC[0;30;1m][0;36;22m FERNANFLOW could be using criticals : violation 17.0 : ping 29.0[m
+[23:10:15] [Server thread/INFO]: [Negativity] New Warning for RodolffHD (23 ms, UUID: d9bab22a-c5a1-3478-a3a7-cbd88ed9ef4f) seem to use Speed Reliability: 91 [survival-1: -662,71,-759]
+[23:12:09] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 3 segundo![m
+[23:12:10] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 2 segundo![m
+[23:12:11] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Los items dropeados se borraran en 1 segundo![m
+[23:12:12] [Server thread/INFO]: [0;33;22m[AntiLag] [m>[0;33;22m Eliminando items...[m
+[23:12:23] [Server thread/INFO]: RodolffHD issued server command: /tpa fernanflow
+[23:12:24] [Server thread/INFO]: FERNANFLOW issued server command: /tpayes
+[23:12:42] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m 54 de ping[m
+[23:12:42] [Craft Scheduler Thread - 467/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 5044391
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[23:12:49] [Async Chat Thread - #8/INFO]: [[0;37;1msurvival-1[0;37;1m][mTheMasterSlow10[m[0;37;22m:[m ese pibe vive al lado de mi casa[m
+[23:12:49] [Craft Scheduler Thread - 467/WARN]: [ChatLog] Plugin ChatLog v1.11.0 generated an exception while executing task 5057080
+java.lang.NullPointerException: null
+	at eu.mclive.ChatLog.ChatLog$3.run(ChatLog.java:143) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54) [spigot-1.16.4.jar:git-Spigot-a56d446-7029c0a]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_271]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_271]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_271]
+[23:13:28] [Server thread/INFO]: TheMasterSlow10 issued server command: /buy
+[23:14:34] [Server thread/INFO]: RodolffHD issued server command: /tpa fernanflow
+[23:14:36] [Server thread/INFO]: RodolffHD issued server command: /shop
+[23:15:24] [Server thread/INFO]: [Negativity] New Warning for TheMasterSlow10 (100 ms, UUID: 1b37001d-69c0-3aa6-a72c-7060b5d6671d) seem to use Speed Reliability: 86 [survival-1: -4774,12,434]
