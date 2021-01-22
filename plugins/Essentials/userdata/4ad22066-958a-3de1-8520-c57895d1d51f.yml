@@ -1,18 +1,18 @@
 lastAccountName: MeluuLecc
 timestamps:
-  login: 1611169924930
-  logout: 1611170082538
+  login: 1611202802822
+  logout: 1611207179682
   kits:
     inicio: 1610747840936
 ipAddress: 181.228.35.191
 logoutlocation:
   world: survival-1
-  x: -4923.155219319767
+  x: -4921.940485386739
   y: 85.5
-  z: 3649.9468504754054
-  yaw: 208.49988
-  pitch: 21.299961
-money: '4059.0270000000000269'
+  z: 3650.1407218969557
+  yaw: -152.73267
+  pitch: 25.500336
+money: '5101.2720000000000211'
 lastlocation:
   world: survival-1
   x: -4923.902826817982

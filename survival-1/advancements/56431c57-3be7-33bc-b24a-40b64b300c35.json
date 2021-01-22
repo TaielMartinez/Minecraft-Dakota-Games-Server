@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2021-01-18 21:00:54 -0300"
@@ -281,11 +287,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2021-01-19 17:15:17 -0300",
       "cooked_beef": "2021-01-19 10:38:20 -0300",
       "baked_potato": "2021-01-20 00:39:06 -0300",
+      "apple": "2021-01-20 23:57:53 -0300",
       "pumpkin_pie": "2021-01-18 21:08:11 -0300",
       "bread": "2021-01-20 00:23:03 -0300",
       "rotten_flesh": "2021-01-19 23:48:30 -0300",
@@ -338,6 +351,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-01-18 21:20:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
     },
     "done": true
   },
@@ -413,6 +432,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-18 21:47:19 -0300"
@@ -422,6 +453,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-18 21:42:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2021-01-21 02:06:06 -0300"
     },
     "done": true
   },
@@ -884,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-18 21:42:29 -0300"
@@ -983,6 +1026,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-18 21:14:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-01-21 01:44:13 -0300"
     },
     "done": true
   },
@@ -1130,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-01-18 21:20:42 -0300"
@@ -1154,9 +1209,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-01-18 20:51:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
     },
     "done": true
   },
@@ -1181,6 +1248,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-01-18 21:25:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
     },
     "done": true
   },
@@ -1287,6 +1360,7 @@
       "minecraft:mountains": "2021-01-18 21:22:24 -0300",
       "minecraft:taiga": "2021-01-18 21:13:37 -0300",
       "minecraft:giant_tree_taiga": "2021-01-18 20:52:15 -0300",
+      "minecraft:deep_cold_ocean": "2021-01-21 02:04:41 -0300",
       "minecraft:taiga_hills": "2021-01-19 00:02:48 -0300",
       "minecraft:desert": "2021-01-18 21:56:02 -0300",
       "minecraft:birch_forest": "2021-01-19 17:28:31 -0300",
@@ -1460,6 +1534,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-18 21:47:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2021-01-21 02:06:06 -0300"
     },
     "done": true
   },
