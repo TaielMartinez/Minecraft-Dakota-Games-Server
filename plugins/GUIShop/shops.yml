@@ -308,7 +308,7 @@ FarmingDrops:
                   type: SHOP
                   id: BAMBOO
                   buy-price: 30.0
-                  sell-price: 3.0
+                  sell-price: 0.1
                 '22':
                   type: SHOP
                   id: KELP

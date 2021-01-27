@@ -1,0 +1,11 @@
+login:
+  username: jake205
+  logged_in: false
+  password: d1d660562a23d677c6ec1edd2a178534cf69a88eb5b7cace589628631c9764b22e3628b998c4af770930d54384a50ab8317fd1e0d593dd4b8cb704bc2aa56df8
+  hash: AMKAUTH
+  ipaddress: 190.139.92.137
+timestamps:
+  join: 1611712025893
+  login: 1611622164915
+  quit: 1611712050940
+godmode_expires: 1611622174915

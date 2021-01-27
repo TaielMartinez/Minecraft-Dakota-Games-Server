@@ -1,24 +1,24 @@
 lastAccountName: taielmartinez
 timestamps:
-  login: 1611199573489
-  logout: 1611199760752
-  lastteleport: 1611199336852
+  login: 1611714559200
+  logout: 1611690373300
+  lastteleport: 1611616333257
   kits:
     inicio: 1610578148366
     tools: 1610576357105
 ipAddress: 192.168.1.1
 lastlocation:
-  world: survival-1
-  x: 4345.822411199784
-  y: 83.06608900043148
-  z: -2939.4853681928753
-  yaw: -11.9696865
-  pitch: 15.130131
-money: '81502200.179999999999997'
+  world: survival-1_the_end
+  x: 1.5
+  y: 61.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+money: '81252200.179999999999997'
 logoutlocation:
-  world: survival-1
-  x: 4408.739272222872
-  y: 78.14513168464657
-  z: -2949.4353903450037
-  yaw: 100.349724
-  pitch: 31.764889
+  world: survival-1_the_end
+  x: 1.5
+  y: 61.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0

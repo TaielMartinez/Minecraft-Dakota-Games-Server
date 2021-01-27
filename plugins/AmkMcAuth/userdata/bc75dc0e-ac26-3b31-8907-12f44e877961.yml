@@ -1,0 +1,11 @@
+login:
+  username: Cesar_Royal
+  logged_in: true
+  password: 64c1c9e245c80928824badc769338e9efcf330005970271b028b834d664e8b4f0c6cf936ec95fc2de579ed09ee3463cb0481f35d8011cdc7fae7ba333b2e5a05
+  hash: AMKAUTH
+  ipaddress: 190.61.90.147
+timestamps:
+  join: 1611711290824
+  login: 1611711321098
+  quit: 1611630617630
+godmode_expires: 1611711331098

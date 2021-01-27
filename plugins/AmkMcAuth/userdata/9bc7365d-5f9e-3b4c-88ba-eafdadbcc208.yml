@@ -1,0 +1,11 @@
+login:
+  username: FranPan05
+  logged_in: true
+  password: a2769da0df8bc1a4b6167640875088081f7d4b5ae5ea5612c214f33d58b57db2c66838b8e0bfc5576612ce11076ae3fa622cda9d15d93ed8e167e0af8f9fe31a
+  hash: AMKAUTH
+  ipaddress: 190.14.158.253
+timestamps:
+  join: 1611444466111
+  login: 1611444514127
+  quit: 1611448616287
+godmode_expires: 1611444524128

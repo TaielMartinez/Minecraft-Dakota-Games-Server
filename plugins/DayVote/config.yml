@@ -1,0 +1,19 @@
+# Voting Methods
+DayVote:
+  VotingMethod: 1
+  VotingMethodsSettings:
+    Method2:
+      DayVotesNeeded: 3
+  TimeCheck: 11800
+  Phrases:
+    VotingNotStartedYet: Voting hasn't started for your world yet.
+    AlreadyVoted: You've already voted for this world!
+    VotedNight: Voted for night in
+    VotedDay: Voted for day in
+    VotingStartedMethod1: Type /dv night' to keep the night
+    VotingStartedMethod2: Type /dv day to vote for day and /dv night to vote for night
+    TimeChangedToDay: Time was changed to day in
+    TimeNotAltered:
+      NightRequest: The time was not altered because a player requested night
+      NotEnoughDayVotes: The time was not altered because there were not enough votes
+        for day

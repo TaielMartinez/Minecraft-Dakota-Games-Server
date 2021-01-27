@@ -1,0 +1,11 @@
+login:
+  username: MiiizterX
+  logged_in: true
+  password: ec63c95d38a95e985ba5089d875222d09a029836dd421bad5214b1cf7405887c36f6462c71757784366f3cd6531b8de6cd4d903bb340736f386b829322ac0841
+  hash: AMKAUTH
+  ipaddress: 181.26.81.157
+timestamps:
+  join: 1611699464695
+  login: 1611699472066
+  quit: 1611702084591
+godmode_expires: 1611699482066

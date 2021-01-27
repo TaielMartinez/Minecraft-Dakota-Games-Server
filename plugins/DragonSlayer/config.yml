@@ -1,0 +1,106 @@
+# ###################### #
+# Dragon Slayer v0.10.2  #
+# ###################### #
+# ------------------------------------------------------------------------------------------ #
+# here are some infos about the sections in this config:                                     #
+# prefix: These are some general settings                                                    #
+# global: Here are more general values                                                       #
+# dragon._default: Here are some defaults that will be used for newly added worlds           #
+# messages: you can use placeholders in here: $slayer, $world, $dragon, $reward, $baseworld  #
+# spawnpoint: here are the spawnpoints for the worlds the plugin is working in               #
+# armorstand: the location where the statue will be placed                                   #
+# ------------------------------------------------------------------------------------------ #
+# in respawncommand you can use placeholder $player                                          #
+# in 'command' you can use placeholders $slayer, $player, $dragon and $world                 #
+# in 'rankcommand_[n]' you can use placeholders $player, $dragon, $rank and $world           #
+# you can run multiple commands by separating them with a ;                                  #
+# ------------------------------------------------------------------------------------------ #
+# placeholders in timertext, timerline and showtime: $days, $hours, $minutes and $seconds    #
+# additional placeholder in showtime and showtime_n: $world                                  #
+# if timerline, showtime or showtime_n is empty it will show some defaults.                  #
+# ------------------------------------------------------------------------------------------ #
+# in scoreboard you can use placeholders $player and $score                                  #
+# ------------------------------------------------------------------------------------------ #
+# you can add additional dragonvalues like name_1, damage_1, health_1, exp_1, reward_1,      #
+# createportal_1 and command_1                                                               #
+# or name_2 etc. in the world's settings for having individual dragons...                    #
+# ########################################################################################## #
+
+
+messages:
+  respawn: $dragon &4has risen from its ashes!
+  onkill: '&6$slayer &fkilled &4$dragon &rand became the new &9Dragon Slayer!'
+  onrekill: '&9Dragon Slayer &6$slayer &fkilled &4$dragon &ronce again!'
+  slayer: '&6$slayer &fis the one and only &9Dragon Slayer!'
+  noslayer: There currently is no hero who can call himself the true &9Dragon Slayer!
+  reward: You received &6$reward coins &rfor killing &4$dragon
+  xpreward: You received &6$reward XP &rfor fighting &4$dragon
+  died: '&4The Dragon in world $world died. Maybe it was too old... or it was the'
+  protect: dragons found protecting this world`s portal!
+  reset: Warning! The world $world may reset in less than one minute!!!
+  playerrespawn: Warning! Every player in world $world will respawn to world $baseworld
+    in less than one minute!!!
+  timertext: 'Next Respawn in:'
+  timerline: '$days Days, $hours:$minutes:$seconds, #'
+  notimer_ph: not yet
+  showtime: 'Next dragon spawn is: $world: $days days, $hours:$minutes:$seconds'
+  showtime_n: No spawn timer found for world $world !
+  scoreboard: '$player�s kills: $score'
+  crystaldeny: '&4Placing crystals is not allowed!'
+spawnpoint: []
+dragon:
+  _default:
+    name: '&5Smaug&r'
+    damage: 10.0
+    health: 200
+    regen_seconds: 0
+    regen_amount: 10
+    range: 16
+    exp: 12000
+    reward: 2500.0
+    eggchance: 0.3
+    eggasitem: false
+    skullchance: 0.03
+    skullitem: false
+    portaleggchance: 1.0
+    cancelegg: false
+    alternativereward: false
+    respawndelay: 360
+    maxdragons: 1
+    onebyone: false
+    oldportals: false
+    denycrystalplace: false
+    denycrystalexplode: false
+    creategateways: true
+    resetworld: false
+    resetcrystal: false
+    resetworlddelay: 300
+    respawnplayers: false
+    nomcdragonrespawn: true
+    command: '{100}ping'
+    spawncommand: ''
+    respawncommand: ''
+    rankcommand_1: whisper $player You did $percent% of the damage fighting dragon
+      $dragon in world $world
+    rankcommand_2: whisper $player You helped fighting $dragon in world $world (2nd
+      place, $percent% damage)
+    timerfunc: 2
+global:
+  slayer: Jeppa
+  blockgrief: false
+  trydragonautofix: false
+  bypassdragongateway: true
+  bypassfunc: 2
+  teleportdragons: false
+  darkness: true
+  verbose: true
+  keepchunks: true
+  armorstand_usepapi: false
+  armorstand_placeholder: '%player_displayname%'
+  multiportal: false
+  portalagression: 12
+prefix:
+  prefix: '&9[Dragon Slayer]&r '
+  enabled: true
+  assuffix: false
+  force: false

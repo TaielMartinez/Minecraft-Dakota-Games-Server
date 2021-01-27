@@ -1,0 +1,11 @@
+login:
+  username: Leat
+  logged_in: true
+  password: 8ba820f3b458407972dbd06293c1c15620e183f41cc06ce3319d2a5805406a2fedc82832e0cb57c95cc40ec9df33bdc9b7dd784c14e5933d1e1cb1fc7328aed7
+  hash: AMKAUTH
+  ipaddress: 190.105.220.150
+timestamps:
+  join: 1611698954167
+  login: 1611698998146
+  quit: 1611701260749
+godmode_expires: 1611699008146

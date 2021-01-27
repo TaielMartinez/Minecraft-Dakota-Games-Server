@@ -1,0 +1,11 @@
+login:
+  username: Santos1Gamer
+  logged_in: true
+  password: fff023536f1c4c070a4a7661e0aaf174f00c1fe546ccdef560d8330459013dfc3abbb117726035496ffb4c57b3b70cab9eef8214ff6bc9374412e70f676e4ed9
+  hash: AMKAUTH
+  ipaddress: 190.115.10.186
+timestamps:
+  join: 1611712206151
+  login: 1611711578897
+  quit: 1611712083090
+godmode_expires: 1611712216152

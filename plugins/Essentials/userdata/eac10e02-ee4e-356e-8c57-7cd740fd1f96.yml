@@ -1,16 +1,16 @@
 lastAccountName: taiel
 timestamps:
-  login: 1611013608340
+  login: 1611714506908
   kits:
     inicio: 1610603459336
-  logout: 1611013613701
+  logout: 1611714509156
   lastheal: 1610997666675
 ipAddress: 192.168.1.1
-money: '2517.5617500000000190'
+money: '2539.0317500000000190'
 logoutlocation:
-  world: survival-1
-  x: -2381.83410595189
-  y: 63.0
-  z: -4924.699999988079
-  yaw: -277.40164
-  pitch: 7.1344194
+  world: survival-1_the_end
+  x: 4.602304381165397
+  y: 61.0
+  z: -1.380404977042513
+  yaw: 7.1262207
+  pitch: 11.14375

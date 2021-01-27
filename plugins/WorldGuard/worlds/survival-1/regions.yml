@@ -16,8 +16,8 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lFlames's §f§lprotected
                 area, greeting-action: §lEntering §b§lFlames's §f§lprotected area,
-            greeting: §lEntering §b§lFlames's §f§lprotected area, ps-home: -1312.0
-                63.0 511.0, pvp: deny, tnt: deny, ps-tax-autopayer: a9932477-a1b5-3140-8d9f-b2572b0333a5,
+            greeting: §lEntering §b§lFlames's §f§lprotected area, pvp: deny, tnt: deny,
+            ps-home: -1312.0 63.0 511.0, ps-tax-autopayer: a9932477-a1b5-3140-8d9f-b2572b0333a5,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lFlames's §f§lprotected
                 area}
         owners:
@@ -31,11 +31,25 @@ regions:
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lCorrentinoRancio's
                 §f§lprotected area, greeting-action: §lEntering §b§lCorrentinoRancio's
                 §f§lprotected area, greeting: §lEntering §b§lCorrentinoRancio's §f§lprotected
-                area, ps-home: 4345.0 75.0 -3011.0, pvp: deny, tnt: deny, ps-tax-autopayer: cb250d64-540b-3372-b9d8-ac66f6ae9c9e,
+                area, pvp: deny, tnt: deny, ps-home: 4345.0 75.0 -3011.0, ps-tax-autopayer: cb250d64-540b-3372-b9d8-ac66f6ae9c9e,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lCorrentinoRancio's
                 §f§lprotected area}
         owners:
             unique-ids: [cb250d64-540b-3372-b9d8-ac66f6ae9c9e]
+        type: cuboid
+        priority: 0
+    ps67x62y102z:
+        min: {x: 59, y: 0, z: 94}
+        max: {x: 75, y: 256, z: 110}
+        members: {}
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lRomerovich's
+                §f§lprotected area, greeting-action: §lEntering §b§lRomerovich's §f§lprotected
+                area, greeting: §lEntering §b§lRomerovich's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: 67.0 63.0 102.0, ps-tax-autopayer: 6e9afc82-f202-3ee4-a07f-60fb91cce9a9,
+            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lRomerovich's §f§lprotected
+                area}
+        owners:
+            unique-ids: [6e9afc82-f202-3ee4-a07f-60fb91cce9a9]
         type: cuboid
         priority: 0
     ps4384x71y-3046z:
@@ -45,26 +59,41 @@ regions:
             unique-ids: [56431c57-3be7-33bc-b24a-40b64b300c35]
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lSrQuAqUin's
                 §f§lprotected area, greeting-action: §lEntering §b§lSrQuAqUin's §f§lprotected
-                area, greeting: §lEntering §b§lSrQuAqUin's §f§lprotected area, ps-home: 4384.0
-                72.0 -3046.0, pvp: deny, tnt: deny, ps-tax-autopayer: 65bd2f60-bbec-3125-88c0-14f953bd5153,
+                area, greeting: §lEntering §b§lSrQuAqUin's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: 4384.0 72.0 -3046.0, ps-tax-autopayer: 65bd2f60-bbec-3125-88c0-14f953bd5153,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lSrQuAqUin's §f§lprotected
                 area}
         owners:
             unique-ids: [65bd2f60-bbec-3125-88c0-14f953bd5153]
         type: cuboid
         priority: 0
-    ps67x62y102z:
-        min: {x: 59, y: 0, z: 94}
-        max: {x: 75, y: 256, z: 110}
-        members: {}
-        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lRomerovich's
-                §f§lprotected area, greeting-action: §lEntering §b§lRomerovich's §f§lprotected
-                area, greeting: §lEntering §b§lRomerovich's §f§lprotected area, ps-home: 67.0
-                63.0 102.0, pvp: deny, tnt: deny, ps-tax-autopayer: 6e9afc82-f202-3ee4-a07f-60fb91cce9a9,
-            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lRomerovich's §f§lprotected
+    ps2867x61y1037z:
+        min: {x: 2859, y: 0, z: 1029}
+        max: {x: 2875, y: 256, z: 1045}
+        members:
+            unique-ids: [bc75dc0e-ac26-3b31-8907-12f44e877961]
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lSantos1Gamer's
+                §f§lprotected area, greeting-action: §lEntering §b§lSantos1Gamer's
+                §f§lprotected area, greeting: §lEntering §b§lSantos1Gamer's §f§lprotected
+                area, pvp: deny, tnt: deny, ps-home: 2867.0 62.0 1037.0, ps-tax-autopayer: 2f23cbf2-92d9-3a93-acc3-e476740302e3,
+            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lSantos1Gamer's §f§lprotected
                 area}
         owners:
-            unique-ids: [6e9afc82-f202-3ee4-a07f-60fb91cce9a9]
+            unique-ids: [2f23cbf2-92d9-3a93-acc3-e476740302e3]
+        type: cuboid
+        priority: 0
+    ps-13127x63y-337z:
+        min: {x: -13135, y: 0, z: -345}
+        max: {x: -13119, y: 256, z: -329}
+        members: {}
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lMiiizterX's
+                §f§lprotected area, greeting-action: §lEntering §b§lMiiizterX's §f§lprotected
+                area, greeting: §lEntering §b§lMiiizterX's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -13127.0 64.0 -337.0, ps-tax-autopayer: 019ac2fd-3da1-3e1a-8694-93d8dfad1055,
+            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lMiiizterX's §f§lprotected
+                area}
+        owners:
+            unique-ids: [019ac2fd-3da1-3e1a-8694-93d8dfad1055]
         type: cuboid
         priority: 0
     ps99x61y-18z:
@@ -74,7 +103,7 @@ regions:
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§ltaielmartinez's
                 §f§lprotected area, greeting-action: §lEntering §b§ltaielmartinez's
                 §f§lprotected area, greeting: §lEntering §b§ltaielmartinez's §f§lprotected
-                area, ps-home: 99.0 62.0 -18.0, pvp: deny, tnt: deny, ps-tax-autopayer: 909e7f3b-f48a-3d54-aa49-93c614013cee,
+                area, pvp: deny, tnt: deny, ps-home: 99.0 62.0 -18.0, ps-tax-autopayer: 909e7f3b-f48a-3d54-aa49-93c614013cee,
             ps-block-material: DIAMOND_ORE, farewell: §lLeaving §b§ltaielmartinez's
                 §f§lprotected area}
         owners:
@@ -87,8 +116,8 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lm2wDakota's
                 §f§lprotected area, greeting-action: §lEntering §b§lm2wDakota's §f§lprotected
-                area, greeting: §lEntering §b§lm2wDakota's §f§lprotected area, ps-home: -2420.0
-                64.0 2283.0, pvp: deny, tnt: deny, ps-tax-autopayer: e872fc58-c98b-32f6-922d-ad6db61d2a92,
+                area, greeting: §lEntering §b§lm2wDakota's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -2420.0 64.0 2283.0, ps-tax-autopayer: e872fc58-c98b-32f6-922d-ad6db61d2a92,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lm2wDakota's §f§lprotected
                 area}
         owners:
@@ -101,8 +130,8 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lPanda_R3D's
                 §f§lprotected area, greeting-action: §lEntering §b§lPanda_R3D's §f§lprotected
-                area, greeting: §lEntering §b§lPanda_R3D's §f§lprotected area, ps-home: 4330.0
-                71.0 -3053.0, pvp: deny, tnt: deny, ps-tax-autopayer: f861bdf4-bf44-3f8a-b4bc-86db3d6aa730,
+                area, greeting: §lEntering §b§lPanda_R3D's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: 4330.0 71.0 -3053.0, ps-tax-autopayer: f861bdf4-bf44-3f8a-b4bc-86db3d6aa730,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lPanda_R3D's §f§lprotected
                 area}
         owners:
@@ -115,26 +144,56 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lMeluuLecc's
                 §f§lprotected area, greeting-action: §lEntering §b§lMeluuLecc's §f§lprotected
-                area, greeting: §lEntering §b§lMeluuLecc's §f§lprotected area, ps-home: -4923.0
-                85.0 3649.0, pvp: deny, tnt: deny, ps-tax-autopayer: 4ad22066-958a-3de1-8520-c57895d1d51f,
+                area, greeting: §lEntering §b§lMeluuLecc's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -4923.0 85.0 3649.0, ps-tax-autopayer: 4ad22066-958a-3de1-8520-c57895d1d51f,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lMeluuLecc's §f§lprotected
                 area}
         owners:
             unique-ids: [4ad22066-958a-3de1-8520-c57895d1d51f]
         type: cuboid
         priority: 0
-    ps4374x68y-3017z:
+    ps4374x67y-3017z:
         min: {x: 4366, y: 0, z: -3025}
         max: {x: 4382, y: 256, z: -3009}
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lTheMasterSlow10's
                 §f§lprotected area, greeting-action: §lEntering §b§lTheMasterSlow10's
                 §f§lprotected area, greeting: §lEntering §b§lTheMasterSlow10's §f§lprotected
-                area, ps-home: 4374.0 69.0 -3017.0, pvp: deny, tnt: deny, ps-tax-autopayer: 1b37001d-69c0-3aa6-a72c-7060b5d6671d,
+                area, pvp: deny, tnt: deny, ps-home: 4374.0 68.0 -3017.0, ps-tax-autopayer: 1b37001d-69c0-3aa6-a72c-7060b5d6671d,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lTheMasterSlow10's
                 §f§lprotected area}
         owners:
             unique-ids: [1b37001d-69c0-3aa6-a72c-7060b5d6671d]
+        type: cuboid
+        priority: 0
+    ps2873x110y1009z:
+        min: {x: 2865, y: 0, z: 1001}
+        max: {x: 2881, y: 256, z: 1017}
+        members:
+            unique-ids: [2f23cbf2-92d9-3a93-acc3-e476740302e3]
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lCesar_Royal's
+                §f§lprotected area, greeting-action: §lEntering §b§lCesar_Royal's
+                §f§lprotected area, greeting: §lEntering §b§lCesar_Royal's §f§lprotected
+                area, pvp: deny, tnt: deny, ps-home: 2873.0 111.0 1009.0, ps-tax-autopayer: bc75dc0e-ac26-3b31-8907-12f44e877961,
+            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lCesar_Royal's §f§lprotected
+                area}
+        owners:
+            unique-ids: [bc75dc0e-ac26-3b31-8907-12f44e877961]
+        type: cuboid
+        priority: 0
+    ps2854x62y1081z:
+        min: {x: 2842, y: 0, z: 1069}
+        max: {x: 2866, y: 256, z: 1093}
+        members:
+            unique-ids: [bc75dc0e-ac26-3b31-8907-12f44e877961]
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lSantos1Gamer's
+                §f§lprotected area, greeting-action: §lEntering §b§lSantos1Gamer's
+                §f§lprotected area, greeting: §lEntering §b§lSantos1Gamer's §f§lprotected
+                area, pvp: deny, tnt: deny, ps-home: 2854.0 63.0 1081.0, ps-tax-autopayer: 2f23cbf2-92d9-3a93-acc3-e476740302e3,
+            ps-block-material: IRON_ORE, farewell: §lLeaving §b§lSantos1Gamer's §f§lprotected
+                area}
+        owners:
+            unique-ids: [2f23cbf2-92d9-3a93-acc3-e476740302e3]
         type: cuboid
         priority: 0
     ps-1018x65y1073z:
@@ -143,28 +202,27 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§ltutucas's
                 §f§lprotected area, greeting-action: §lEntering §b§ltutucas's §f§lprotected
-                area, greeting: §lEntering §b§ltutucas's §f§lprotected area, ps-home: -1018.0
-                66.0 1073.0, pvp: deny, tnt: deny, ps-tax-autopayer: a1f51b87-0c36-3b99-91e6-2036d86217cc,
+                area, greeting: §lEntering §b§ltutucas's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -1018.0 66.0 1073.0, ps-tax-autopayer: a1f51b87-0c36-3b99-91e6-2036d86217cc,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§ltutucas's §f§lprotected
                 area}
         owners:
             unique-ids: [a1f51b87-0c36-3b99-91e6-2036d86217cc]
         type: cuboid
         priority: 0
-    ps-889x61y-397z:
-        min: {x: -897, y: 0, z: -405}
-        max: {x: -881, y: 256, z: -389}
+    ps3419x72y711z:
+        min: {x: 3411, y: 0, z: 703}
+        max: {x: 3427, y: 256, z: 719}
         members:
-            unique-ids: [01c30d13-10b5-354c-8741-95d47a462d25, 6615cd7c-041a-372c-a966-4c1524cda3fc,
-                d9bab22a-c5a1-3478-a3a7-cbd88ed9ef4f]
-        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lFERNANFLOW's
-                §f§lprotected area, greeting-action: §lEntering §b§lFERNANFLOW's §f§lprotected
-                area, greeting: §lEntering §b§lFERNANFLOW's §f§lprotected area, ps-home: -889.0
-                62.0 -397.0, pvp: deny, tnt: deny, ps-tax-autopayer: eeaa2c58-a75e-303b-b1ee-26b871b3a899,
-            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lFERNANFLOW's §f§lprotected
+            unique-ids: [2f23cbf2-92d9-3a93-acc3-e476740302e3]
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lLeat's §f§lprotected
+                area, greeting-action: §lEntering §b§lLeat's §f§lprotected area, greeting: §lEntering
+                §b§lLeat's §f§lprotected area, pvp: deny, tnt: deny, ps-home: 3419.0
+                73.0 711.0, ps-tax-autopayer: 21861602-cb90-325f-bd52-a3e679b32c6f,
+            ps-block-material: COAL_ORE, farewell: §lLeaving §b§lLeat's §f§lprotected
                 area}
         owners:
-            unique-ids: [eeaa2c58-a75e-303b-b1ee-26b871b3a899]
+            unique-ids: [21861602-cb90-325f-bd52-a3e679b32c6f]
         type: cuboid
         priority: 0
     ps-7x62y-161z:
@@ -173,12 +231,27 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lGrayWolfB's
                 §f§lprotected area, greeting-action: §lEntering §b§lGrayWolfB's §f§lprotected
-                area, greeting: §lEntering §b§lGrayWolfB's §f§lprotected area, ps-home: -7.0
-                63.0 -161.0, pvp: deny, tnt: deny, ps-tax-autopayer: 6cf71d8f-d1ad-3a9b-bc9d-4fb4e7e3158a,
+                area, greeting: §lEntering §b§lGrayWolfB's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -7.0 63.0 -161.0, ps-tax-autopayer: 6cf71d8f-d1ad-3a9b-bc9d-4fb4e7e3158a,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lGrayWolfB's §f§lprotected
                 area}
         owners:
             unique-ids: [6cf71d8f-d1ad-3a9b-bc9d-4fb4e7e3158a]
+        type: cuboid
+        priority: 0
+    ps-891x61y-395z:
+        min: {x: -907, y: 0, z: -411}
+        max: {x: -875, y: 256, z: -379}
+        members:
+            unique-ids: [d9bab22a-c5a1-3478-a3a7-cbd88ed9ef4f, 9bc7365d-5f9e-3b4c-88ba-eafdadbcc208]
+        flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lFERNANFLOW's
+                §f§lprotected area, greeting-action: §lEntering §b§lFERNANFLOW's §f§lprotected
+                area, greeting: §lEntering §b§lFERNANFLOW's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: -891.0 62.0 -395.0, ps-tax-autopayer: eeaa2c58-a75e-303b-b1ee-26b871b3a899,
+            ps-block-material: LAPIS_ORE, farewell: §lLeaving §b§lFERNANFLOW's §f§lprotected
+                area}
+        owners:
+            unique-ids: [eeaa2c58-a75e-303b-b1ee-26b871b3a899]
         type: cuboid
         priority: 0
     ps-2397x38y2199z:
@@ -188,7 +261,7 @@ regions:
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lNachinSheep's
                 §f§lprotected area, greeting-action: §lEntering §b§lNachinSheep's
                 §f§lprotected area, greeting: §lEntering §b§lNachinSheep's §f§lprotected
-                area, ps-home: -2397.0 39.0 2199.0, pvp: deny, tnt: deny, ps-tax-autopayer: 4bce4614-72e9-370b-b287-af1a9e1678f6,
+                area, pvp: deny, tnt: deny, ps-home: -2397.0 39.0 2199.0, ps-tax-autopayer: 4bce4614-72e9-370b-b287-af1a9e1678f6,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lNachinSheep's §f§lprotected
                 area}
         owners:
@@ -201,8 +274,8 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lchymuelo's
                 §f§lprotected area, greeting-action: §lEntering §b§lchymuelo's §f§lprotected
-                area, greeting: §lEntering §b§lchymuelo's §f§lprotected area, ps-home: 182.0
-                71.0 26.0, pvp: deny, tnt: deny, ps-tax-autopayer: 0119bbf9-3481-3117-aa20-d2c267808a73,
+                area, greeting: §lEntering §b§lchymuelo's §f§lprotected area, pvp: deny,
+            tnt: deny, ps-home: 182.0 71.0 26.0, ps-tax-autopayer: 0119bbf9-3481-3117-aa20-d2c267808a73,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lchymuelo's §f§lprotected
                 area}
         owners:
@@ -215,8 +288,8 @@ regions:
         members: {}
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§llucas's §f§lprotected
                 area, greeting-action: §lEntering §b§llucas's §f§lprotected area,
-            greeting: §lEntering §b§llucas's §f§lprotected area, ps-home: -619.0 59.0
-                -454.0, pvp: deny, tnt: deny, ps-tax-autopayer: f56ef01f-30f8-3307-9e4b-70fb0c98a8a2,
+            greeting: §lEntering §b§llucas's §f§lprotected area, pvp: deny, tnt: deny,
+            ps-home: -619.0 59.0 -454.0, ps-tax-autopayer: f56ef01f-30f8-3307-9e4b-70fb0c98a8a2,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§llucas's §f§lprotected
                 area}
         owners:
@@ -230,7 +303,7 @@ regions:
         flags: {creeper-explosion: deny, farewell-action: §lLeaving §b§lSinLimiteRandom's
                 §f§lprotected area, greeting-action: §lEntering §b§lSinLimiteRandom's
                 §f§lprotected area, greeting: §lEntering §b§lSinLimiteRandom's §f§lprotected
-                area, ps-home: 4367.0 79.0 -3062.0, pvp: deny, tnt: deny, ps-tax-autopayer: 56431c57-3be7-33bc-b24a-40b64b300c35,
+                area, pvp: deny, tnt: deny, ps-home: 4367.0 79.0 -3062.0, ps-tax-autopayer: 56431c57-3be7-33bc-b24a-40b64b300c35,
             ps-block-material: COAL_ORE, farewell: §lLeaving §b§lSinLimiteRandom's
                 §f§lprotected area}
         owners:

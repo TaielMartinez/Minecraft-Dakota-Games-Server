@@ -595,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-01-26 16:48:50 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-18 16:31:54 -0300"
@@ -610,6 +616,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-01-18 16:27:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-01-26 16:48:50 -0300"
     },
     "done": true
   },
@@ -703,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-01-26 16:50:00 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-14 02:57:13 -0300"
@@ -736,6 +754,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-01-14 03:00:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-26 16:50:44 -0300"
     },
     "done": true
   },
@@ -1035,14 +1059,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-01-26 16:49:26 -0300",
       "minecraft:snowy_mountains": "2021-01-18 17:08:15 -0300",
       "minecraft:forest": "2021-01-14 03:01:34 -0300",
       "minecraft:mountains": "2021-01-14 02:55:27 -0300",
       "minecraft:desert_hills": "2021-01-14 03:02:15 -0300",
+      "minecraft:deep_cold_ocean": "2021-01-26 16:49:21 -0300",
       "minecraft:snowy_tundra": "2021-01-18 17:08:26 -0300",
       "minecraft:desert": "2021-01-14 03:01:53 -0300",
       "minecraft:frozen_river": "2021-01-18 17:09:46 -0300",
       "minecraft:birch_forest": "2021-01-14 03:05:58 -0300",
+      "minecraft:beach": "2021-01-26 16:49:09 -0300",
       "minecraft:dark_forest": "2021-01-14 02:51:31 -0300",
       "minecraft:river": "2021-01-14 02:53:30 -0300",
       "minecraft:snowy_taiga": "2021-01-18 17:09:47 -0300",
@@ -1145,6 +1172,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-01-18 16:55:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-26 16:50:44 -0300"
     },
     "done": true
   },

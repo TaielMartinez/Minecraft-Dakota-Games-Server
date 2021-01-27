@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2021-01-23 21:29:12 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-13 21:31:40 -0300"
@@ -572,6 +578,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-01-12 21:12:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-01-23 21:11:29 -0300"
     },
     "done": true
   },
@@ -1491,10 +1503,12 @@
       "minecraft:birch_forest": "2021-01-12 22:37:57 -0300",
       "minecraft:jungle_hills": "2021-01-21 00:37:51 -0300",
       "minecraft:snowy_beach": "2021-01-17 07:26:14 -0300",
+      "minecraft:bamboo_jungle": "2021-01-23 20:23:38 -0300",
       "minecraft:savanna_plateau": "2021-01-12 19:39:11 -0300",
       "minecraft:beach": "2021-01-12 19:23:39 -0300",
       "minecraft:dark_forest": "2021-01-12 19:58:51 -0300",
       "minecraft:river": "2021-01-12 19:22:14 -0300",
+      "minecraft:lukewarm_ocean": "2021-01-23 20:22:05 -0300",
       "minecraft:snowy_taiga": "2021-01-16 06:58:31 -0300",
       "minecraft:birch_forest_hills": "2021-01-12 22:42:33 -0300",
       "minecraft:wooded_mountains": "2021-01-12 20:32:28 -0300",
@@ -1535,6 +1549,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-01-12 19:19:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-23 03:53:48 -0300"
     },
     "done": true
   },
@@ -1723,9 +1743,10 @@
       "minecraft:crimson_forest": "2021-01-13 19:12:04 -0300",
       "minecraft:nether_wastes": "2021-01-13 18:56:25 -0300",
       "minecraft:soul_sand_valley": "2021-01-13 19:54:10 -0300",
-      "minecraft:basalt_deltas": "2021-01-13 23:05:49 -0300"
+      "minecraft:basalt_deltas": "2021-01-13 23:05:49 -0300",
+      "minecraft:warped_forest": "2021-01-23 00:37:27 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -3123,6 +3144,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-12 19:18:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-23 03:53:48 -0300"
     },
     "done": true
   },
